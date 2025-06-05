@@ -1,0 +1,30 @@
+{
+	"credit": "Made by Falanta Fantomo with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "shiver:item/props/hl2_barrel01b",
+		"particle": "shiver:item/props/hl2_barrel01b"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 20, 14],
+			"faces": {
+				"north": {"uv": [0, 0, 6, 10], "texture": "#0"},
+				"east": {"uv": [6, 0, 12, 10], "texture": "#0"},
+				"south": {"uv": [0, 0, 6, 10], "texture": "#0"},
+				"west": {"uv": [6, 0, 12, 10], "texture": "#0"},
+				"up": {"uv": [0, 10, 6, 16], "texture": "#0"},
+				"down": {"uv": [6, 10, 12, 16], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [21, 45, 0],
+			"translation": [0, -1.25, 0],
+			"scale": [0.6, 0.6, 0.6]
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"credit": "by 2M3V",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "shiver:item/weapons/ammo1"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2.25, 1],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"credit": "by 2M3V",
+	"textures": {
+		"0": "shiver:item/enemy/zombie_villager",
+		"particle": "shiver:item/enemy/zombie_villager"
+	},
+	"elements": [
+		{
+			"from": [6, 8, 8],
+			"to": [10, 20, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14, 10]},
+			"faces": {
+				"north": {"uv": [13, 6.5, 14, 9.5], "texture": "#0"},
+				"east": {"uv": [11, 6.5, 12, 9.5], "texture": "#0"},
+				"south": {"uv": [12, 6.5, 13, 9.5], "texture": "#0"},
+				"west": {"uv": [14, 6.5, 15, 9.5], "texture": "#0"},
+				"up": {"uv": [12, 5.5, 13, 6.5], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [13, 5.5, 14, 6.5], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.7, 7.7, 7.7],
+			"to": [10.3, 20.3, 12.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14, 10]},
+			"faces": {
+				"north": {"uv": [11.75, 10.5, 12.75, 13.5], "texture": "#0"},
+				"east": {"uv": [12, 10.5, 11, 13.5], "texture": "#0"},
+				"south": {"uv": [13, 10.5, 12, 13.5], "texture": "#0"},
+				"west": {"uv": [14, 10.5, 13, 13.5], "texture": "#0"},
+				"up": {"uv": [12, 9.5, 13, 10.5], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [13, 9.5, 14, 10.5], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0.01],
+			"translation": [0.01, 0.01, -1.01],
+			"scale": [1.1, 1.1, 1.1]
+		},
+		"firstperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0.75, 4.25, -5.25]
+		}
+	}
+}

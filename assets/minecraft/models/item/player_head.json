@@ -1,0 +1,15 @@
+{
+	"credit": "by 2M3V",
+	"parent": "minecraft:item/template_skull",
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [15, 15, 0],
+			"translation": [1, 5, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	},
+	"overrides": [
+	     {"predicate": {"custom_model_data": 1},"model": "shiver:profile_head"}
+	]
+}

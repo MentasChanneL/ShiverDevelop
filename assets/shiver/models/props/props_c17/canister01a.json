@@ -1,0 +1,77 @@
+{
+	"credit": "Made by Falanta Fantomo with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "shiver:item/props/props_c17/hl2_canister01",
+		"particle": "shiver:item/props/props_c17/hl2_canister01"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [10, 22, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 11], "texture": "#0"},
+				"east": {"uv": [2, 0, 0, 11], "texture": "#0"},
+				"south": {"uv": [4, 0, 2, 11], "texture": "#0"},
+				"west": {"uv": [2, 0, 4, 11], "texture": "#0"},
+				"up": {"uv": [0, 11, 2, 13], "texture": "#0"},
+				"down": {"uv": [2, 11, 4, 13], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.5, 22, 6.5],
+			"to": [9.5, 26, 9.5],
+			"faces": {
+				"north": {"uv": [4, 0, 5.5, 2], "texture": "#0"},
+				"east": {"uv": [5.5, 0, 7, 2], "texture": "#0"},
+				"south": {"uv": [7, 0, 8.5, 2], "texture": "#0"},
+				"west": {"uv": [7, 0, 5.5, 2], "texture": "#0"},
+				"up": {"uv": [8.5, 0, 10, 1.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.025, 10, 5.975],
+			"to": [10.025, 16, 8.975],
+			"faces": {
+				"north": {"uv": [5, 2, 6.5, 5], "texture": "#0"},
+				"east": {"uv": [4, 2, 5.5, 5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [5, 0, -5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [5, 0, -5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [20, 135, 0],
+			"translation": [0, -2.7, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"head": {
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16],
+			"scale": [2, 2, 2]
+		}
+	}
+}

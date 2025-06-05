@@ -1,0 +1,56 @@
+{
+	"credit": "Made by Falanta Fantomo with Blockbench",
+	"textures": {
+		"0": "shiver:item/weapons/machete",
+		"particle": "shiver:item/weapons/machete"
+	},
+	"elements": [
+		{
+			"from": [7.5, -1, 8],
+			"to": [8.5, 4, 10],
+			"faces": {
+				"north": {"uv": [14, 0, 15, 5], "texture": "#0"},
+				"east": {"uv": [16, 0, 14, 5], "texture": "#0"},
+				"south": {"uv": [13, 0, 14, 5], "texture": "#0"},
+				"west": {"uv": [14, 0, 16, 5], "texture": "#0"},
+				"up": {"uv": [15, 0, 13, 1], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [13, 4, 15, 5], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 4, 5],
+			"to": [8, 19, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 1]},
+			"faces": {
+				"east": {"uv": [7, 0, 1, 15], "texture": "#0"},
+				"west": {"uv": [1, 0, 7, 15], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 5, 0.5],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"firstperson_righthand": {
+			"rotation": [-6, -6, -19],
+			"translation": [5, 3.75, -3],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"scale": [1, 1.1, 1]
+		},
+		"gui": {
+			"rotation": [70, -129, 70]
+		},
+		"head": {
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"scale": [2, 2, 2]
+		}
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"credit": "by 2M3V",
+	"parent": "shiver:editor/parent",
+	"textures": {
+		"layer0": "shiver:item/editor/11"
+	},
+	"gui_light": "front"
+}

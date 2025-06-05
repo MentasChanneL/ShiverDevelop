@@ -1,0 +1,46 @@
+{
+	"credit": "by 2M3V",
+	"textures": {
+		"0": "shiver:item/enemy/breaker_arm",
+		"particle": "shiver:item/enemy/breaker_arm"
+	},
+	"elements": [
+		{
+			"from": [6, 8, 8],
+			"to": [10, 20, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14, 10]},
+			"faces": {
+				"north": {"uv": [12, 5, 13, 8], "texture": "#0"},
+				"east": {"uv": [10, 5, 11, 8], "texture": "#0"},
+				"south": {"uv": [11, 5, 12, 8], "texture": "#0"},
+				"west": {"uv": [13, 5, 14, 8], "texture": "#0"},
+				"up": {"uv": [11, 4, 12, 5], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [12, 4, 13, 5], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.7, 7.7, 7.7],
+			"to": [10.3, 20.3, 12.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14, 10]},
+			"faces": {
+				"north": {"uv": [10.75, 9, 11.75, 12], "texture": "#0"},
+				"east": {"uv": [11, 9, 10, 12], "texture": "#0"},
+				"south": {"uv": [12, 9, 11, 12], "texture": "#0"},
+				"west": {"uv": [13, 9, 12, 12], "texture": "#0"},
+				"up": {"uv": [11, 8, 12, 9], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [12, 8, 13, 9], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0.01],
+			"translation": [0.01, 0.01, -0.01],
+			"scale": [1.02, 1.02, 1.02]
+		},
+		"firstperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0.75, 4.25, -5.25]
+		}
+	}
+}

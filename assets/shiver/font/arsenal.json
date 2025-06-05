@@ -1,0 +1,103 @@
+﻿{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "shiver:font/arsenal/p.png",
+            "ascent": -61,
+            "height": 8,
+            "chars": [
+                "."
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/arsenal/0.png",
+            "ascent": -61,
+            "height": 8,
+            "chars": [
+                "0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/arsenal/1.png",
+            "ascent": -61,
+            "height": 8,
+            "chars": [
+                "1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/arsenal/2.png",
+            "ascent": -61,
+            "height": 8,
+            "chars": [
+                "2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/arsenal/3.png",
+            "ascent": -61,
+            "height": 8,
+            "chars": [
+                "3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/arsenal/4.png",
+            "ascent": -61,
+            "height": 8,
+            "chars": [
+                "4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/arsenal/5.png",
+            "ascent": -61,
+            "height": 8,
+            "chars": [
+                "5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/arsenal/6.png",
+            "ascent": -61,
+            "height": 8,
+            "chars": [
+                "6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/arsenal/7.png",
+            "ascent": -61,
+            "height": 8,
+            "chars": [
+                "7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/arsenal/8.png",
+            "ascent": -61,
+            "height": 8,
+            "chars": [
+                "8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/arsenal/9.png",
+            "ascent": -61,
+            "height": 8,
+            "chars": [
+                "9"
+            ]
+        }
+    ]
+}

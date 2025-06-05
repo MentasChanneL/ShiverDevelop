@@ -1,0 +1,29 @@
+{
+	"credit": "by 2M3V",
+	"textures": {
+		"0": "shiver:item/weapons/bomb",
+		"particle": "shiver:item/weapons/bomb"
+	},
+	"elements": [
+		{
+			"from": [6, 8, 6],
+			"to": [9.5, 11.5, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.75, 9.75, 7.75]},
+			"faces": {
+				"north": {"uv": [4, 5, 9, 10], "texture": "#0"},
+				"east": {"uv": [4, 5, 9, 10], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [4, 5, 9, 10], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [9, 5, 4, 10], "texture": "#0"},
+				"up": {"uv": [4, 5, 9, 10], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [4, 5, 9, 10], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [36, 53, 0],
+			"translation": [0.75, -2.25, 0]
+		}
+	}
+}

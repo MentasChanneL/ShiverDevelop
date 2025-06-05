@@ -1,0 +1,35 @@
+{
+	"credit": "by 2M3V",
+	"textures": {
+		"0": "shiver:item/weapons/dturret",
+		"particle": "shiver:item/weapons/dturret"
+	},
+	"elements": [
+		{
+			"from": [6.4, 8, 8.2],
+			"to": [9.7, 15, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.05, 11.5, 9.35]},
+			"faces": {
+				"north": {"uv": [7.5, 0, 9, 3.5], "texture": "#0"},
+				"west": {"uv": [11.5, 0, 12.5, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.4, 15, 8.2],
+			"to": [9.7, 8, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.05, 11.5, 9.35]},
+			"faces": {
+				"north": {"uv": [7.5, 3.5, 9, 0], "texture": "#0"},
+				"west": {"uv": [11.5, 3.5, 12.5, 0], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [10, 0.00448, -1.03074],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

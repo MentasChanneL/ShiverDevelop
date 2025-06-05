@@ -1,0 +1,15 @@
+﻿{
+	"effect.minecraft.wither": "§cBleeding",
+	"effect.minecraft.luck": "§bImmune",
+	"attribute.name.player.entity_interaction_range": "Length of weapon",
+	"attribute.name.player.sweeping_damage_ratio": "Area damage",
+
+	"shiver.person.": "-",
+	"shiver.person.colton": "Male07",
+	"shiver.person.coach": "Тренер",
+	"shiver.person.bill": "Билл",
+
+	"shiver.item.": "-",
+	"shiver.item.kit.rich": "Набор выгоды",
+	"shiver.item.kit.ammunition": "Ящик аммуниции"
+}

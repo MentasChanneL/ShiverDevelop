@@ -1,0 +1,79 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "shiver:item/weapons/shovel",
+		"particle": "shiver:item/weapons/shovel"
+	},
+	"elements": [
+		{
+			"from": [7.5, 0, 7],
+			"to": [8.5, 16, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 4, 7]},
+			"faces": {
+				"north": {"uv": [15.5, 10, 16, 2], "texture": "#0"},
+				"east": {"uv": [15, 10, 16, 2], "texture": "#0"},
+				"south": {"uv": [15, 10, 15.5, 2], "texture": "#0"},
+				"west": {"uv": [15, 10, 16, 2], "texture": "#0"},
+				"down": {"uv": [15.5, 5, 16, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 16, 4.5],
+			"to": [9, 16, 11.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 16, 6.5]},
+			"faces": {
+				"north": {"uv": [12.5, 0.5, 13.5, 4], "texture": "#0"},
+				"east": {"uv": [12.5, 0.5, 13.5, 4], "texture": "#0"},
+				"south": {"uv": [12.5, 0.5, 13.5, 4], "texture": "#0"},
+				"west": {"uv": [12.5, 0.5, 13.5, 4], "texture": "#0"},
+				"up": {"uv": [12, 2.5, 13, 6], "texture": "#0"},
+				"down": {"uv": [12.5, 0.5, 13.5, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 14.08666, -0.11901],
+			"to": [9, 14.08666, 4.88099],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [7, 14.08666, -0.11901]},
+			"faces": {
+				"north": {"uv": [11, 8, 12, 5.5], "texture": "#0"},
+				"east": {"uv": [11, 8, 12, 5.5], "texture": "#0"},
+				"south": {"uv": [11, 8, 12, 5.5], "texture": "#0"},
+				"west": {"uv": [11, 8, 12, 5.5], "texture": "#0"},
+				"up": {"uv": [11, 8, 12, 5.5], "texture": "#0"},
+				"down": {"uv": [11, 5.5, 12, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 16.00008, 11.49962],
+			"to": [9, 16.00008, 16.49962],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [7, 16.00008, 11.49962]},
+			"faces": {
+				"north": {"uv": [11, 1.5, 12, 4], "texture": "#0"},
+				"east": {"uv": [11, 1.5, 12, 4], "texture": "#0"},
+				"south": {"uv": [11, 1.5, 12, 4], "texture": "#0"},
+				"west": {"uv": [11, 1.5, 12, 4], "texture": "#0"},
+				"up": {"uv": [11, 5.5, 12, 8], "texture": "#0"},
+				"down": {"uv": [11, 4, 12, 1.5], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3, 2.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 0, -21],
+			"translation": [1.5, 2, -3.5]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"translation": [0, -1.5, 0]
+		},
+		"gui": {
+			"rotation": [36, -52, 0],
+			"translation": [0, -0.75, 0]
+		}
+	}
+}

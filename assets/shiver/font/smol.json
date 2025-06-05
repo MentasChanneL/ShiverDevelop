@@ -1,0 +1,301 @@
+﻿{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/ae.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "э"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/d.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "д"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/i.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "и"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/j.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "ж"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/n.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "н"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/p.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "п"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/solid_i.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "ы"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/z.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "з"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/ya.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "я"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/f.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "ф"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/sh.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "ш"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/shs.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "щ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/soft.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "ь"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/solid.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "ъ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/u.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "у"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/ch.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "ч"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/iy.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "й"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/g.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "г"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/l.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "л"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/b.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "б"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/r.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "р"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/o.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "о"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/smol/k.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "к"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/skull.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/med.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/bullet.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/star.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/door.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/door2.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/ds.png",
+            "ascent": 48,
+            "height": 48,
+            "chars": [
+                "6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/empty_stat.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/infinity.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/award.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "9"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+	"credit": "by 2M3V",
+	"textures": {
+		"1": "shiver:item/weapons/tnt",
+		"particle": "shiver:item/weapons/fire6"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 8, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"faces": {
+				"north": {"uv": [1, 1, 3, 9], "texture": "#1"},
+				"east": {"uv": [3, 1, 1, 9], "texture": "#1"},
+				"south": {"uv": [1, 1, 3, 9], "texture": "#1"},
+				"west": {"uv": [3, 1, 1, 9], "texture": "#1"},
+				"up": {"uv": [0, 8, 2, 10], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [1, 10, 3, 12], "texture": "#1"}
+			}
+		},
+		{
+			"from": [8, 8, 8],
+			"to": [8, 10, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 8, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#1"}
+			}
+		},
+		{
+			"from": [8, 10, 7],
+			"to": [8, 11, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 10, 6]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 1], "texture": "#1"}
+			}
+		},
+		{
+			"from": [8, 11, 8],
+			"to": [8, 12, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 11, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#1"}
+			}
+		},
+		{
+			"from": [8, 12, 10],
+			"to": [8, 13, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 12, 9]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 1], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 4, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [-15, 10, -3],
+			"translation": [4.25, 3.75, -5.5],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"ground": {
+			"translation": [0, 5.75, 0]
+		},
+		"gui": {
+			"rotation": [44, 55, -23],
+			"translation": [1, 2, 0],
+			"scale": [1.3, 1.3, 1.3]
+		}
+	}
+}

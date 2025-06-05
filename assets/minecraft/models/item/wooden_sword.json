@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/wooden_sword"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 1},"model": "shiver:weapons/dubina"},
+        {"predicate": {"custom_model_data": 2},"model": "shiver:weapons/knife"},
+        {"predicate": {"custom_model_data": 3},"model": "shiver:weapons/armature"},
+        {"predicate": {"custom_model_data": 4},"model": "shiver:weapons/sign"},
+        {"predicate": {"custom_model_data": 5},"model": "shiver:weapons/machete"},
+        {"predicate": {"custom_model_data": 6},"model": "shiver:weapons/police_stick"}
+    ]
+}

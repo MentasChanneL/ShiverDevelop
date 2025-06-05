@@ -1,0 +1,124 @@
+{
+	"credit": "by 2M3V",
+	"textures": {
+		"0": "shiver:item/enemy/breaker_arm",
+		"1_0": "shiver:item/weapons/shovel",
+		"particle": "shiver:item/enemy/breaker_arm"
+	},
+	"elements": [
+		{
+			"from": [6, 8, 8],
+			"to": [10, 20, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14, 10]},
+			"faces": {
+				"north": {"uv": [12, 5, 13, 8], "texture": "#0"},
+				"east": {"uv": [10, 5, 11, 8], "texture": "#0"},
+				"south": {"uv": [11, 5, 12, 8], "texture": "#0"},
+				"west": {"uv": [13, 5, 14, 8], "texture": "#0"},
+				"up": {"uv": [11, 4, 12, 5], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [12, 4, 13, 5], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.7, 7.7, 7.7],
+			"to": [10.3, 20.3, 12.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14, 10]},
+			"faces": {
+				"north": {"uv": [10.75, 9, 11.75, 12], "texture": "#0"},
+				"east": {"uv": [11, 9, 10, 12], "texture": "#0"},
+				"south": {"uv": [12, 9, 11, 12], "texture": "#0"},
+				"west": {"uv": [13, 9, 12, 12], "texture": "#0"},
+				"up": {"uv": [11, 8, 12, 9], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [12, 8, 13, 9], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.5, 9, -2],
+			"to": [8.5, 11, 14],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 10, 2]},
+			"faces": {
+				"east": {"uv": [15, 10, 16, 2], "rotation": 90, "texture": "#1_0"},
+				"south": {"uv": [15.5, 5, 16, 4], "texture": "#1_0"},
+				"west": {"uv": [15, 10, 16, 2], "rotation": 270, "texture": "#1_0"},
+				"up": {"uv": [15, 10, 15.5, 2], "texture": "#1_0"},
+				"down": {"uv": [15.5, 10, 16, 2], "rotation": 180, "texture": "#1_0"}
+			}
+		},
+		{
+			"from": [7, 6.5, -2],
+			"to": [9, 13.5, -2],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 10, 2]},
+			"faces": {
+				"north": {"uv": [12, 2.5, 13, 6], "rotation": 180, "texture": "#1_0"},
+				"east": {"uv": [12.5, 0.5, 13.5, 4], "rotation": 90, "texture": "#1_0"},
+				"south": {"uv": [12.5, 0.5, 13.5, 4], "texture": "#1_0"},
+				"west": {"uv": [12.5, 0.5, 13.5, 4], "rotation": 270, "texture": "#1_0"},
+				"up": {"uv": [12.5, 0.5, 13.5, 4], "texture": "#1_0"},
+				"down": {"uv": [12.5, 0.5, 13.5, 4], "rotation": 180, "texture": "#1_0"}
+			}
+		},
+		{
+			"from": [7, 3.29754, -3.03483],
+			"to": [9, 8.29754, -3.03483],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 10, 2]},
+			"faces": {
+				"north": {"uv": [11, 8, 12, 5.5], "rotation": 180, "texture": "#1_0"},
+				"east": {"uv": [11, 8, 12, 5.5], "rotation": 90, "texture": "#1_0"},
+				"south": {"uv": [11, 5.5, 12, 8], "texture": "#1_0"},
+				"west": {"uv": [11, 8, 12, 5.5], "rotation": 270, "texture": "#1_0"},
+				"up": {"uv": [11, 8, 12, 5.5], "texture": "#1_0"},
+				"down": {"uv": [11, 8, 12, 5.5], "rotation": 180, "texture": "#1_0"}
+			}
+		},
+		{
+			"from": [7, 11.70246, -3.03483],
+			"to": [9, 16.70246, -3.03483],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 10, 2]},
+			"faces": {
+				"north": {"uv": [11, 5.5, 12, 8], "rotation": 180, "texture": "#1_0"},
+				"east": {"uv": [11, 1.5, 12, 4], "rotation": 90, "texture": "#1_0"},
+				"south": {"uv": [11, 4, 12, 1.5], "texture": "#1_0"},
+				"west": {"uv": [11, 1.5, 12, 4], "rotation": 270, "texture": "#1_0"},
+				"up": {"uv": [11, 1.5, 12, 4], "texture": "#1_0"},
+				"down": {"uv": [11, 1.5, 12, 4], "rotation": 180, "texture": "#1_0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0.01],
+			"translation": [0.01, 0.01, -0.01],
+			"scale": [1.02, 1.02, 1.02]
+		},
+		"firstperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0.75, 4.25, -5.25]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"rotation": [90, -45, -70],
+			"translation": [-3.25, 3.25, 0]
+		},
+		"head": {
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [90, 0, 90],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		0,
+		1,
+		{
+			"name": "pickaxe",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [2, 3, 4, 5]
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "shiver:item/enemy/creeper",
+		"particle": "shiver:item/enemy/creeper"
+	},
+	"elements": [
+		{
+			"from": [11, 0, 16.12293],
+			"to": [15, 8, 16.12293],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [14, 0, 16.12293]},
+			"faces": {
+				"north": {"uv": [3.5, 6.75, 2.5, 8.75], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 2], "texture": "#0"},
+				"south": {"uv": [4.5, 6.75, 3.5, 8.75], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 2], "texture": "#0"},
+				"up": {"uv": [1, 0, 0, 0], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [1, 0, 0, 0], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [12, 7.39104, 8.06147],
+			"to": [14, 7.39104, 13.06147],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [14, 7.39104, 13.06147]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 1.25, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 0.5, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 1.25, 0], "texture": "#0"},
+				"up": {"uv": [5, 8, 4.5, 6.75], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [5, 6.75, 4.5, 8], "rotation": 180, "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"ground": {
+			"translation": [0, 5.75, 0]
+		},
+		"gui": {
+			"rotation": [27, 152, 0]
+		},
+		"head": {
+			"translation": [0.75, -6.75, -0.5],
+			"scale": [2, 2, 2]
+		}
+	}
+}

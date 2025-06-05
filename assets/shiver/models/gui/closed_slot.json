@@ -1,0 +1,26 @@
+{
+	"credit": "by 2M3V",
+	"textures": {
+		"0": "shiver:item/gui/closet_slot",
+		"particle": "shiver:item/gui/closet_slot"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 9],
+			"to": [16, 16, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [180, 0, 0]
+		}
+	}
+}

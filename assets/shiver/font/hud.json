@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "shiver:font/color.png",
+            "ascent": 700,
+            "height": 2048,
+            "chars": [
+                "0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/color2.png",
+            "ascent": 700,
+            "height": 2048,
+            "chars": [
+                "1"
+            ]
+        }
+    ]
+}

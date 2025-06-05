@@ -1,0 +1,54 @@
+{
+	"credit": "Made by Falanta Fantomo with Blockbench",
+	"textures": {
+		"0": "shiver:item/props/props_c17/hl2_clock",
+		"particle": "shiver:item/props/props_c17/hl2_clock"
+	},
+	"elements": [
+		{
+			"from": [4.5, 4.5, 7],
+			"to": [11.5, 11.5, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 7, 7], "texture": "#0"},
+				"east": {"uv": [7, 0, 9, 7], "texture": "#0"},
+				"south": {"uv": [0, 7, 7, 14], "texture": "#0"},
+				"west": {"uv": [9, 0, 7, 7], "texture": "#0"},
+				"up": {"uv": [9, 0, 11, 7], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [11, 0, 13, 7], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [120, 0, -150],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"translation": [0, 0, -2],
+			"scale": [2, 2, 2]
+		}
+	}
+}

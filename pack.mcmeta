@@ -1,0 +1,42 @@
+﻿{
+  "pack": {
+    "description": "§6⏵ Shiver II \n§e ⏵ /join 62323",
+    "pack_format": 13,
+    "supported_formats": {
+      "max_inclusive": 46,
+      "min_inclusive": 13
+    }
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "1_20_5_overlay",
+        "formats": {
+          "max_inclusive": 99,
+          "min_inclusive": 32
+        }
+      },
+      {
+        "directory": "1_21_overlay",
+        "formats": {
+          "max_inclusive": 99,
+          "min_inclusive": 34
+        }
+      },
+      {
+        "directory": "1_21_3_overlay",
+        "formats": {
+          "max_inclusive": 99,
+          "min_inclusive": 42
+        }
+      },
+      {
+        "directory": "1_21_4_overlay",
+        "formats": {
+          "max_inclusive": 99,
+          "min_inclusive": 46
+        }
+      }
+    ]
+  }
+}

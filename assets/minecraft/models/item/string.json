@@ -1,0 +1,18 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/string"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 1},"model": "shiver:blockstates/leaves1"},
+        {"predicate": {"custom_model_data": 2},"model": "shiver:blockstates/leaves2"},
+        {"predicate": {"custom_model_data": 3},"model": "shiver:blockstates/leaves3"},
+        {"predicate": {"custom_model_data": 4},"model": "shiver:blockstates/spruce_mine_fence"},
+        {"predicate": {"custom_model_data": 5},"model": "shiver:blockstates/rail"},
+        {"predicate": {"custom_model_data": 6},"model": "shiver:blockstates/rail_rotate"},
+        {"predicate": {"custom_model_data": 7},"model": "shiver:blockstates/rail_up"},
+        {"predicate": {"custom_model_data": 8},"model": "shiver:blockstates/rail_oneblock"},
+        {"predicate": {"custom_model_data": 9},"model": "shiver:blockstates/strelka"},
+        {"predicate": {"custom_model_data": 10},"model": "shiver:blockstates/door"}
+    ]
+}

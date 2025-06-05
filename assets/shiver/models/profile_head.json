@@ -1,0 +1,12 @@
+{
+	"credit": "by 2M3V",
+	"parent": "minecraft:item/template_skull",
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [25, 35, 0],
+			"translation": [0.25, 10.75, 0],
+			"scale": [3, 3, 3]
+		}
+	}
+}

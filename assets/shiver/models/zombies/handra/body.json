@@ -1,0 +1,35 @@
+{
+	"credit": "by 2M3V",
+	"textures": {
+		"0": "shiver:item/enemy/stray",
+		"particle": "shiver:item/enemy/stray"
+	},
+	"elements": [
+		{
+			"from": [4, 8, 8],
+			"to": [12, 20, 12],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 14, 10]},
+			"faces": {
+				"north": {"uv": [8, 5, 10, 8], "texture": "#0"},
+				"east": {"uv": [7, 5, 8, 8], "texture": "#0"},
+				"south": {"uv": [5, 5, 7, 8], "texture": "#0"},
+				"west": {"uv": [4, 5, 5, 8], "texture": "#0"},
+				"up": {"uv": [5, 4, 7, 5], "texture": "#0"},
+				"down": {"uv": [7, 4, 9, 5], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [12, 20, 12],
+			"to": [4, 8, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14, 10]},
+			"faces": {
+				"north": {"uv": [7, 8, 5, 5], "texture": "#0"},
+				"east": {"uv": [4, 8, 5, 5], "texture": "#0"},
+				"south": {"uv": [8, 8, 10, 5], "texture": "#0"},
+				"west": {"uv": [8, 8, 7, 5], "texture": "#0"},
+				"up": {"uv": [7, 4, 9, 5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [5, 4, 7, 5], "texture": "#0"}
+			}
+		}
+	]
+}

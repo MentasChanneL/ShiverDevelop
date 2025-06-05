@@ -1,0 +1,769 @@
+{
+  "credit": "Made by Falanta Fantomo with Blockbench",
+  "textures": {
+    "1": "shiver:item/weapons/ammo2",
+    "particle": "shiver:item/weapons/hl_smg"
+  },
+  "elements": [
+    {
+      "from": [
+        8.01,
+        -3,
+        7
+      ],
+      "to": [
+        8.99,
+        3,
+        9
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "x",
+        "origin": [
+          8.5,
+          8,
+          9
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            4,
+            16,
+            5
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        },
+        "east": {
+          "uv": [
+            10,
+            5,
+            16,
+            3
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        },
+        "south": {
+          "uv": [
+            10,
+            3,
+            16,
+            4
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        },
+        "west": {
+          "uv": [
+            10,
+            3,
+            16,
+            5
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        },
+        "up": {
+          "uv": [
+            8,
+            7,
+            10,
+            8
+          ],
+          "rotation": 90,
+          "texture": "#1"
+        },
+        "down": {
+          "uv": [
+            15,
+            3,
+            16,
+            5
+          ],
+          "texture": "#particle"
+        }
+      }
+    },
+    {
+      "from": [
+        8,
+        8,
+        7
+      ],
+      "to": [
+        9,
+        9,
+        13
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          0,
+          4,
+          2
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            2,
+            11,
+            3
+          ],
+          "texture": "#particle"
+        },
+        "east": {
+          "uv": [
+            16,
+            2,
+            10,
+            3
+          ],
+          "texture": "#particle"
+        },
+        "south": {
+          "uv": [
+            15,
+            2,
+            16,
+            3
+          ],
+          "texture": "#particle"
+        },
+        "west": {
+          "uv": [
+            10,
+            2,
+            16,
+            3
+          ],
+          "texture": "#particle"
+        },
+        "down": {
+          "uv": [
+            16,
+            2,
+            10,
+            3
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        }
+      }
+    },
+    {
+      "from": [
+        8,
+        9,
+        2
+      ],
+      "to": [
+        9,
+        11,
+        15
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          0,
+          4,
+          2
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            13,
+            0,
+            14,
+            2
+          ],
+          "texture": "#particle"
+        },
+        "east": {
+          "uv": [
+            13,
+            0,
+            0,
+            2
+          ],
+          "texture": "#particle"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            13,
+            2
+          ],
+          "texture": "#particle"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            13,
+            1
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        },
+        "down": {
+          "uv": [
+            13,
+            1,
+            0,
+            2
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        }
+      }
+    },
+    {
+      "from": [
+        8.5,
+        9,
+        0
+      ],
+      "to": [
+        8.5,
+        10,
+        2
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          0,
+          4,
+          2
+        ]
+      },
+      "faces": {
+        "east": {
+          "uv": [
+            14,
+            2,
+            15,
+            0
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        },
+        "west": {
+          "uv": [
+            14,
+            0,
+            15,
+            2
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        }
+      }
+    },
+    {
+      "from": [
+        8.5,
+        11,
+        2
+      ],
+      "to": [
+        8.5,
+        12,
+        3
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          0,
+          4,
+          2
+        ]
+      },
+      "faces": {
+        "east": {
+          "uv": [
+            15,
+            0,
+            16,
+            1
+          ],
+          "texture": "#particle"
+        },
+        "west": {
+          "uv": [
+            15,
+            0,
+            16,
+            1
+          ],
+          "texture": "#particle"
+        }
+      }
+    },
+    {
+      "from": [
+        7,
+        10,
+        5
+      ],
+      "to": [
+        8,
+        11,
+        5
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          7.5,
+          10.5,
+          5
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            2,
+            11,
+            3
+          ],
+          "texture": "#particle"
+        },
+        "east": {
+          "uv": [
+            10,
+            2,
+            11,
+            3
+          ],
+          "texture": "#particle"
+        },
+        "south": {
+          "uv": [
+            10,
+            2,
+            11,
+            3
+          ],
+          "texture": "#particle"
+        },
+        "west": {
+          "uv": [
+            10,
+            2,
+            11,
+            3
+          ],
+          "texture": "#particle"
+        },
+        "up": {
+          "uv": [
+            10,
+            2,
+            11,
+            3
+          ],
+          "texture": "#particle"
+        },
+        "down": {
+          "uv": [
+            10,
+            2,
+            11,
+            3
+          ],
+          "texture": "#particle"
+        }
+      }
+    },
+    {
+      "from": [
+        8.5,
+        11,
+        11
+      ],
+      "to": [
+        8.5,
+        12,
+        13
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          0,
+          4,
+          2
+        ]
+      },
+      "faces": {
+        "east": {
+          "uv": [
+            4,
+            7,
+            5,
+            5
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        },
+        "west": {
+          "uv": [
+            4,
+            5,
+            5,
+            7
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        }
+      }
+    },
+    {
+      "from": [
+        8.5,
+        7,
+        10
+      ],
+      "to": [
+        8.5,
+        8,
+        12
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          0,
+          0,
+          1
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            3,
+            5,
+            4,
+            7
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        },
+        "east": {
+          "uv": [
+            3,
+            5,
+            4,
+            7
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        },
+        "south": {
+          "uv": [
+            3,
+            5,
+            4,
+            7
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        },
+        "west": {
+          "uv": [
+            3,
+            5,
+            4,
+            7
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        },
+        "up": {
+          "uv": [
+            3,
+            5,
+            4,
+            7
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        },
+        "down": {
+          "uv": [
+            3,
+            5,
+            4,
+            7
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        }
+      }
+    },
+    {
+      "from": [
+        8,
+        7,
+        15
+      ],
+      "to": [
+        9,
+        11,
+        16
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          8.5,
+          11,
+          15
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            6,
+            4,
+            10,
+            5
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        },
+        "east": {
+          "uv": [
+            6,
+            4,
+            10,
+            5
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        },
+        "south": {
+          "uv": [
+            6,
+            4,
+            10,
+            5
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        },
+        "west": {
+          "uv": [
+            6,
+            4,
+            10,
+            5
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        },
+        "up": {
+          "uv": [
+            6,
+            4,
+            7,
+            5
+          ],
+          "texture": "#particle"
+        },
+        "down": {
+          "uv": [
+            9,
+            4,
+            10,
+            5
+          ],
+          "texture": "#particle"
+        }
+      }
+    },
+    {
+      "from": [
+        8.01,
+        4,
+        11
+      ],
+      "to": [
+        8.99,
+        8,
+        13
+      ],
+      "rotation": {
+        "angle": -22.5,
+        "axis": "x",
+        "origin": [
+          8.5,
+          8,
+          11
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            6,
+            4,
+            7
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        },
+        "east": {
+          "uv": [
+            0,
+            7,
+            4,
+            5
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        },
+        "south": {
+          "uv": [
+            0,
+            5,
+            4,
+            6
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        },
+        "west": {
+          "uv": [
+            0,
+            5,
+            4,
+            7
+          ],
+          "rotation": 90,
+          "texture": "#particle"
+        },
+        "down": {
+          "uv": [
+            3,
+            5,
+            4,
+            7
+          ],
+          "texture": "#particle"
+        }
+      }
+    }
+  ],
+  "gui_light": "front",
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        0,
+        -2
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        11,
+        2,
+        -20
+      ],
+      "translation": [
+        0.75,
+        12.25,
+        -5.25
+      ],
+      "scale": [
+        1.1,
+        1.1,
+        1.1
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        90
+      ],
+      "translation": [
+        0,
+        -1.75,
+        0
+      ]
+    },
+    "gui": {
+      "rotation": [
+        90,
+        -49,
+        90
+      ],
+      "translation": [
+        1.25,
+        -0.5,
+        0
+      ],
+      "scale": [
+        1.1,
+        1.1,
+        1.1
+      ]
+    }
+  },
+  "groups": [
+    {
+      "name": "smg",
+      "origin": [
+        8.5,
+        8,
+        11
+      ],
+      "color": 0,
+      "children": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "flash",
+      "origin": [
+        8.5,
+        11,
+        15
+      ],
+      "color": 0,
+      "children": []
+    },
+    {
+      "name": "arms",
+      "origin": [
+        8.5,
+        7,
+        12
+      ],
+      "color": 0,
+      "children": []
+    }
+  ]
+}

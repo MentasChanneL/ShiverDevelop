@@ -1,0 +1,85 @@
+{
+	"credit": "Made by Falanta Fantomo with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "shiver:item/props/props_c17/furniture/hl2_bed",
+		"particle": "shiver:item/props/props_c17/furniture/hl2_bed"
+	},
+	"elements": [
+		{
+			"from": [0, 0, -8],
+			"to": [16, 16, -8],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"south": {"uv": [8, 0, 0, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 0, 24],
+			"to": [16, 16, 24],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 16]},
+			"faces": {
+				"north": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"south": {"uv": [8, 0, 0, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 4, -8],
+			"to": [0, 8, 24],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 16]},
+			"faces": {
+				"east": {"uv": [16, 14, 0, 16], "texture": "#0"},
+				"west": {"uv": [0, 14, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [16, 4, -8],
+			"to": [16, 8, 24],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 16]},
+			"faces": {
+				"east": {"uv": [16, 14, 0, 16], "texture": "#0"},
+				"west": {"uv": [0, 14, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 4, -6],
+			"to": [16, 4, 22],
+			"faces": {
+				"up": {"uv": [8, 0, 16, 14], "texture": "#0"},
+				"down": {"uv": [8, 14, 16, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"ground": {
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"gui": {
+			"rotation": [20, 135, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16],
+			"scale": [2, 2, 2]
+		}
+	}
+}

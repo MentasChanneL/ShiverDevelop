@@ -1,0 +1,24 @@
+{
+	"credit": "by 2M3V",
+	"textures": {
+		"0": "shiver:item/weapons/ammo1",
+		"1": "shiver:item/part_rubber_gasket_2",
+		"particle": "shiver:item/weapons/ammo1"
+	},
+	"elements": [
+		{
+			"from": [7.5, 8, 6.5],
+			"to": [8.5, 9, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 8, 6.5]},
+			"faces": {
+				"north": {"uv": [3, 5, 4, 6], "texture": "#0"},
+				"east": {"uv": [3, 8, 4, 11], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [11, 12, 12, 13], "texture": "#1"},
+				"west": {"uv": [5, 11, 4, 8], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [5, 8, 6, 11], "texture": "#0"},
+				"down": {"uv": [5, 11, 6, 8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {}
+}

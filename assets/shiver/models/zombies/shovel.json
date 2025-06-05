@@ -1,0 +1,99 @@
+{
+	"credit": "Made by Falanta Fantomo with Blockbench",
+	"textures": {
+		"0": "shiver:item/enemy/shovel",
+		"particle": "shiver:item/enemy/shovel"
+	},
+	"elements": [
+		{
+			"from": [7, -2, 7],
+			"to": [8, 12, 9],
+			"faces": {
+				"north": {"uv": [12, 0, 13, 14], "texture": "#0"},
+				"east": {"uv": [14, 0, 12, 14], "texture": "#0"},
+				"south": {"uv": [13, 0, 14, 14], "texture": "#0"},
+				"west": {"uv": [14, 0, 16, 14], "texture": "#0"},
+				"up": {"uv": [14, 0, 12, 1], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [14, 13, 12, 14], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 10, 5],
+			"to": [7, 15, 11],
+			"faces": {
+				"east": {"uv": [6, 3, 0, 8], "texture": "#0"},
+				"west": {"uv": [0, 3, 6, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 15, 7],
+			"to": [7, 17, 9],
+			"faces": {
+				"east": {"uv": [8, 0, 6, 2], "texture": "#0"},
+				"west": {"uv": [6, 0, 8, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.01, 12, 8.175],
+			"to": [7.01, 15, 11],
+			"rotation": {"angle": 45, "axis": "x", "origin": [7, 15, 11]},
+			"faces": {
+				"west": {"uv": [0, 0, 3, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.01, 12, 5],
+			"to": [7.01, 15, 7.825],
+			"rotation": {"angle": -45, "axis": "x", "origin": [7, 15, 5]},
+			"faces": {
+				"west": {"uv": [6, 0, 3, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.99, 12, 5],
+			"to": [6.99, 15, 7.825],
+			"rotation": {"angle": -45, "axis": "x", "origin": [7, 15, 5]},
+			"faces": {
+				"east": {"uv": [3, 0, 6, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.99, 12, 8.175],
+			"to": [6.99, 15, 11],
+			"rotation": {"angle": 45, "axis": "x", "origin": [7, 15, 11]},
+			"faces": {
+				"east": {"uv": [3, 0, 0, 3], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 4, 2]
+		},
+		"firstperson_righthand": {
+			"rotation": [-15, 17, -8],
+			"translation": [0.5, 14.25, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-4, -149, -5],
+			"translation": [0.5, 4.75, 0]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"rotation": [-50, -45, -70],
+			"translation": [0, 0.25, 0],
+			"scale": [0, 0, 0]
+		},
+		"head": {
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [90, 0, 90],
+			"scale": [2, 2, 2]
+		}
+	}
+}

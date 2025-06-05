@@ -1,0 +1,82 @@
+{
+	"credit": "Made by Falanta Fantomo with Blockbench",
+	"textures": {
+		"0": "shiver:item/weapons/hl2_stunstick",
+		"particle": "shiver:item/weapons/hl2_stunstick"
+	},
+	"elements": [
+		{
+			"from": [7, 5, 7],
+			"to": [9, 21, 9],
+			"faces": {
+				"north": {"uv": [2, 0, 0, 16], "texture": "#0"},
+				"east": {"uv": [2, 0, 4, 16], "texture": "#0"},
+				"south": {"uv": [4, 0, 2, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 16], "texture": "#0"},
+				"down": {"uv": [4, 0, 6, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.5, 20, 6.5],
+			"to": [9.5, 25, 9.5],
+			"faces": {
+				"north": {"uv": [16, 0, 13, 5], "texture": "#0"},
+				"east": {"uv": [10, 0, 13, 5], "texture": "#0"},
+				"south": {"uv": [13, 0, 10, 5], "texture": "#0"},
+				"west": {"uv": [13, 0, 16, 5], "texture": "#0"},
+				"up": {"uv": [13, 5, 16, 8], "texture": "#0"},
+				"down": {"uv": [13, 5, 16, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.3, 20, 6.3],
+			"to": [9.7, 25, 9.7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.2, 0, -0.2]},
+			"faces": {
+				"north": {"uv": [16, 8, 13, 13], "texture": "#0"},
+				"east": {"uv": [10, 8, 13, 13], "texture": "#0"},
+				"south": {"uv": [13, 8, 10, 13], "texture": "#0"},
+				"west": {"uv": [13, 8, 16, 13], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.5, 25, 6.5],
+			"to": [9.5, 20, 9.5],
+			"faces": {
+				"north": {"uv": [16, 5, 13, 0], "texture": "#0"},
+				"east": {"uv": [10, 5, 13, 0], "texture": "#0"},
+				"south": {"uv": [13, 5, 10, 0], "texture": "#0"},
+				"west": {"uv": [13, 5, 16, 0], "texture": "#0"},
+				"down": {"uv": [13, 8, 16, 5], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -3, 2],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [-6, 19, 4],
+			"translation": [7.5, -4.5, -8]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"translation": [5.25, 0, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"rotation": [70, -135, 70],
+			"translation": [-4.5, -4.75, 0],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"head": {
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"translation": [0, -14, -2],
+			"scale": [2, 2, 2]
+		}
+	}
+}

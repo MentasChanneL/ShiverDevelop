@@ -1,0 +1,131 @@
+{
+	"credit": "by 2M3V",
+	"textures": {
+		"0": "shiver:item/enemy/breaker_arm",
+		"particle": "shiver:item/enemy/breaker_arm",
+		"3_0": "shiver:item/enemy/hl2_crowbar"
+	},
+	"elements": [
+		{
+			"from": [6, 8, 8],
+			"to": [10, 20, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14, 10]},
+			"faces": {
+				"north": {"uv": [12, 5, 13, 8], "texture": "#0"},
+				"east": {"uv": [10, 5, 11, 8], "texture": "#0"},
+				"south": {"uv": [11, 5, 12, 8], "texture": "#0"},
+				"west": {"uv": [13, 5, 14, 8], "texture": "#0"},
+				"up": {"uv": [11, 4, 12, 5], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [12, 4, 13, 5], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.7, 7.7, 7.7],
+			"to": [10.3, 20.3, 12.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14, 10]},
+			"faces": {
+				"north": {"uv": [10.75, 9, 11.75, 12], "texture": "#0"},
+				"east": {"uv": [11, 9, 10, 12], "texture": "#0"},
+				"south": {"uv": [12, 9, 11, 12], "texture": "#0"},
+				"west": {"uv": [13, 9, 12, 12], "texture": "#0"},
+				"up": {"uv": [11, 8, 12, 9], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [12, 8, 13, 9], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.5, 9.31313, -1.80761],
+			"to": [8.5, 10.31313, 14.19239],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8.35276, 6.53963]},
+			"faces": {
+				"east": {"uv": [0, 0, 1, 16], "rotation": 90, "texture": "#3_0"},
+				"west": {"uv": [0, 0, 1, 16], "rotation": 270, "texture": "#3_0"},
+				"up": {"uv": [0, 0, 1, 16], "texture": "#3_0"},
+				"down": {"uv": [0, 0, 1, 16], "rotation": 180, "texture": "#3_0"}
+			}
+		},
+		{
+			"from": [7.5, 6.31144, 13.97738],
+			"to": [8.5, 7.31144, 16.97738],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 8.35276, 6.53963]},
+			"faces": {
+				"east": {"uv": [1, 13, 2, 16], "rotation": 90, "texture": "#3_0"},
+				"south": {"uv": [1, 15, 2, 16], "texture": "#3_0"},
+				"west": {"uv": [1, 13, 2, 16], "rotation": 270, "texture": "#3_0"},
+				"up": {"uv": [1, 13, 2, 16], "texture": "#3_0"},
+				"down": {"uv": [1, 13, 2, 16], "rotation": 180, "texture": "#3_0"}
+			}
+		},
+		{
+			"from": [7.5, 7.31313, -2.80761],
+			"to": [8.5, 10.31313, -1.80761],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8.35276, 6.53963]},
+			"faces": {
+				"north": {"uv": [1, 3, 2, 0], "rotation": 180, "texture": "#3_0"},
+				"east": {"uv": [1, 3, 2, 0], "rotation": 180, "texture": "#3_0"},
+				"south": {"uv": [1, 0, 2, 3], "texture": "#3_0"},
+				"west": {"uv": [1, 0, 2, 3], "texture": "#3_0"},
+				"up": {"uv": [1, 0, 2, 1], "texture": "#3_0"}
+			}
+		},
+		{
+			"from": [7.5, 3.81524, -1.69825],
+			"to": [8.5, 4.81524, 0.30175],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 8.35276, 6.53963]},
+			"faces": {
+				"east": {"uv": [1, 3, 2, 5], "rotation": 270, "texture": "#3_0"},
+				"south": {"uv": [1, 4, 2, 5], "texture": "#3_0"},
+				"west": {"uv": [1, 5, 2, 3], "rotation": 90, "texture": "#3_0"},
+				"up": {"uv": [1, 5, 2, 3], "rotation": 180, "texture": "#3_0"},
+				"down": {"uv": [1, 5, 2, 3], "texture": "#3_0"}
+			}
+		},
+		{
+			"from": [7, 3.81524, 0.30175],
+			"to": [9, 3.81524, 1.30175],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 8.35276, 6.53963]},
+			"faces": {
+				"up": {"uv": [1, 7, 2, 5], "rotation": 90, "texture": "#3_0"},
+				"down": {"uv": [1, 5, 2, 7], "rotation": 270, "texture": "#3_0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0.01],
+			"translation": [0.01, 0.01, -0.01],
+			"scale": [1.02, 1.02, 1.02]
+		},
+		"firstperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0.75, 4.25, -5.25]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"translation": [0, -2.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [70, -133, 70],
+			"translation": [0, 0.25, 0]
+		},
+		"head": {
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 0, -1],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		0,
+		1,
+		{
+			"name": "crowbar",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [2, 3, 4, 5, 6]
+		}
+	]
+}

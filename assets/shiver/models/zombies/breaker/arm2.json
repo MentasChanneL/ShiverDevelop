@@ -1,0 +1,136 @@
+{
+	"credit": "by 2M3V",
+	"textures": {
+		"0": "shiver:item/enemy/breaker_arm",
+		"particle": "shiver:item/enemy/breaker_arm",
+		"1_0": "shiver:item/enemy/shovel"
+	},
+	"elements": [
+		{
+			"from": [6, 8, 8],
+			"to": [10, 20, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14, 10]},
+			"faces": {
+				"north": {"uv": [12, 5, 13, 8], "texture": "#0"},
+				"east": {"uv": [10, 5, 11, 8], "texture": "#0"},
+				"south": {"uv": [11, 5, 12, 8], "texture": "#0"},
+				"west": {"uv": [13, 5, 14, 8], "texture": "#0"},
+				"up": {"uv": [11, 4, 12, 5], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [12, 4, 13, 5], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.7, 7.7, 7.7],
+			"to": [10.3, 20.3, 12.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14, 10]},
+			"faces": {
+				"north": {"uv": [10.75, 9, 11.75, 12], "texture": "#0"},
+				"east": {"uv": [11, 9, 10, 12], "texture": "#0"},
+				"south": {"uv": [12, 9, 11, 12], "texture": "#0"},
+				"west": {"uv": [13, 9, 12, 12], "texture": "#0"},
+				"up": {"uv": [11, 8, 12, 9], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [12, 8, 13, 9], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.5, 6.2, -0.3],
+			"to": [8.5, 8.2, 13.7],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [7.745, 7.2, 1.2]},
+			"faces": {
+				"north": {"uv": [14, 0, 12, 1], "rotation": 270, "texture": "#1_0"},
+				"east": {"uv": [14, 0, 12, 14], "rotation": 90, "texture": "#1_0"},
+				"south": {"uv": [14, 13, 12, 14], "rotation": 90, "texture": "#1_0"},
+				"west": {"uv": [14, 0, 16, 14], "rotation": 270, "texture": "#1_0"},
+				"up": {"uv": [13, 0, 14, 14], "texture": "#1_0"},
+				"down": {"uv": [12, 0, 13, 14], "rotation": 180, "texture": "#1_0"}
+			}
+		},
+		{
+			"from": [7.5, 4.2, -3.3],
+			"to": [7.5, 10.2, 1.7],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [7.745, 7.2, 1.2]},
+			"faces": {
+				"east": {"uv": [6, 3, 0, 8], "rotation": 90, "texture": "#1_0"},
+				"west": {"uv": [0, 3, 6, 8], "rotation": 270, "texture": "#1_0"}
+			}
+		},
+		{
+			"from": [7.5, 6.2, -5.3],
+			"to": [7.5, 8.2, -3.3],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [7.745, 7.2, 1.2]},
+			"faces": {
+				"east": {"uv": [8, 0, 6, 2], "rotation": 90, "texture": "#1_0"},
+				"west": {"uv": [6, 0, 8, 2], "rotation": 270, "texture": "#1_0"}
+			}
+		},
+		{
+			"from": [7.51, 3.31434, -4.1033],
+			"to": [7.51, 6.13934, -1.1033],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [7.745, 7.2, 1.2]},
+			"faces": {
+				"west": {"uv": [0, 0, 3, 3], "rotation": 270, "texture": "#1_0"}
+			}
+		},
+		{
+			"from": [7.51, 1.8967, -2.68566],
+			"to": [7.51, 4.8967, 0.13934],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [7.745, 7.2, 1.2]},
+			"faces": {
+				"west": {"uv": [6, 0, 3, 3], "rotation": 180, "texture": "#1_0"}
+			}
+		},
+		{
+			"from": [7.49, 1.8967, -2.68566],
+			"to": [7.49, 4.8967, 0.13934],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [7.745, 7.2, 1.2]},
+			"faces": {
+				"east": {"uv": [3, 0, 6, 3], "rotation": 180, "texture": "#1_0"}
+			}
+		},
+		{
+			"from": [7.49, 3.31434, -4.1033],
+			"to": [7.49, 6.13934, -1.1033],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [7.745, 7.2, 1.2]},
+			"faces": {
+				"east": {"uv": [3, 0, 0, 3], "rotation": 90, "texture": "#1_0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0.01],
+			"translation": [0.01, 0.01, -0.01],
+			"scale": [1.02, 1.02, 1.02]
+		},
+		"firstperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0.75, 4.25, -5.25]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"rotation": [90, -45, -70],
+			"translation": [0, 0.25, 0]
+		},
+		"head": {
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [90, 0, 90],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		0,
+		1,
+		{
+			"name": "shovel",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [2, 3, 4, 5, 6, 7, 8]
+		}
+	]
+}

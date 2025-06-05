@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "shiver:font/cut.png",
+            "ascent": 0,
+            "height": 0,
+            "chars": [
+                "0"
+            ]
+        }
+    ]
+}

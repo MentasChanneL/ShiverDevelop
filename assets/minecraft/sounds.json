@@ -1,0 +1,50 @@
+{
+  "item.crossbow.shoot": {
+    "replace": true,
+    "sounds": []
+  },
+  "block.ladder.step": {
+    "replace": true,
+    "sounds": [
+      "step/ladder1",
+      "step/ladder2",
+      "step/ladder3",
+      "step/ladder4"
+    ]
+  },
+  "block.sand.step": {
+    "replace": true,
+    "sounds": [
+      "step/sand1",
+      "step/sand2",
+      "step/sand3",
+      "step/sand4"
+    ]
+  },
+  "block.grass.step": {
+    "replace": true,
+    "sounds": [
+      "step/grass1",
+      "step/grass2",
+      "step/grass3",
+      "step/grass4"
+    ]
+  },
+  "entity.player.attack.nodamage": {
+    "replace": true,
+    "sounds": []
+  },
+  "entity.player.attack.weak": {
+    "replace": true,
+    "sounds": []
+  },
+  "weather.rain": {
+    "replace": true,
+    "sounds": [
+      "ambient/weather/rain1",
+      "ambient/weather/rain2",
+      "ambient/weather/rain3",
+      "ambient/weather/rain4"
+    ]
+  }
+}

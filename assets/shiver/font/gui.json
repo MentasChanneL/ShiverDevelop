@@ -1,0 +1,85 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "shiver:font/gui/arsenal1.png",
+            "ascent": 14,
+            "height": 256,
+            "chars": [
+                "0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/gui/arsenal2.png",
+            "ascent": 14,
+            "height": 256,
+            "chars": [
+                "1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/gui/arsenal3.png",
+            "ascent": 14,
+            "height": 256,
+            "chars": [
+                "2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/gui/upgrader.png",
+            "ascent": 14,
+            "height": 256,
+            "chars": [
+                "3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/gui/lobby.png",
+            "ascent": 14,
+            "height": 256,
+            "chars": [
+                "4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/gui/kit.png",
+            "ascent": 14,
+            "height": 256,
+            "chars": [
+                "5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/gui/settings.png",
+            "ascent": 14,
+            "height": 256,
+            "chars": [
+                "6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/gui/profile.png",
+            "ascent": 14,
+            "height": 256,
+            "chars": [
+                "7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/gui/beacon.png",
+            "ascent": 14,
+            "height": 256,
+            "chars": [
+                "8"
+            ]
+        }
+    ]
+}

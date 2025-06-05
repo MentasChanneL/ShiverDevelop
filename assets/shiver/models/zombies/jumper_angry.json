@@ -1,0 +1,49 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "shiver:item/enemy/jumper_angry",
+		"particle": "shiver:item/enemy/jumper_angry"
+	},
+	"elements": [
+		{
+			"from": [3.5, 8, 3.5],
+			"to": [12.5, 17, 12.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 12.5, 8]},
+			"faces": {
+				"north": {"uv": [2.25, 2.25, 4.5, 4.5], "texture": "#0"},
+				"east": {"uv": [0, 2.25, 2.25, 4.5], "texture": "#0"},
+				"south": {"uv": [6.75, 2.25, 9, 4.5], "texture": "#0"},
+				"west": {"uv": [4.5, 2.25, 6.75, 4.5], "texture": "#0"},
+				"up": {"uv": [2.25, 0, 4.5, 2.25], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [4.5, 0, 6.75, 2.25], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [3.2, 7.7, 3.2],
+			"to": [12.8, 17.3, 12.8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 12.5, 8]},
+			"faces": {
+				"north": {"uv": [2.25, 6.75, 4.5, 9], "texture": "#0"},
+				"east": {"uv": [0, 6.75, 2.25, 9], "texture": "#0"},
+				"south": {"uv": [6.75, 6.75, 9, 9], "texture": "#0"},
+				"west": {"uv": [4.5, 6.75, 6.75, 9], "texture": "#0"},
+				"up": {"uv": [2.25, 4.5, 4.5, 6.75], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [4.5, 4.5, 6.75, 6.75], "rotation": 180, "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -6.5, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -6.5, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

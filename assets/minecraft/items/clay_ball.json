@@ -1,0 +1,1475 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/trace"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/ammo1"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/ammo2"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/ammo3"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/ammo4"
+        }
+      },
+      {
+        "threshold": 14,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/ammo5"
+        }
+      },
+      {
+        "threshold": 30,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/9mm_gilz"
+        }
+      },
+      {
+        "threshold": 31,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/buckshot_gilz"
+        }
+      },
+      {
+        "threshold": 32,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/7x36mm_gilz"
+        }
+      },
+      {
+        "threshold": 33,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/core"
+        }
+      },
+      {
+        "threshold": 50,
+        "model": {
+          "type": "model",
+          "model": "shiver:rock"
+        }
+      },
+      {
+        "threshold": 51,
+        "model": {
+          "type": "model",
+          "model": "shiver:detal"
+        }
+      },
+      {
+        "threshold": 52,
+        "model": {
+          "type": "model",
+          "model": "shiver:toolbox"
+        }
+      },
+      {
+        "threshold": 53,
+        "model": {
+          "type": "model",
+          "model": "shiver:boxes/plank"
+        }
+      },
+      {
+        "threshold": 54,
+        "model": {
+          "type": "model",
+          "model": "shiver:iron"
+        }
+      },
+      {
+        "threshold": 55,
+        "model": {
+          "type": "model",
+          "model": "shiver:pills"
+        }
+      },
+      {
+        "threshold": 56,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/c4"
+        }
+      },
+      {
+        "threshold": 57,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/c4p"
+        }
+      },
+      {
+        "threshold": 58,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/turret/head"
+        }
+      },
+      {
+        "threshold": 59,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/turret/body"
+        }
+      },
+      {
+        "threshold": 60,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/turret/sentry"
+        }
+      },
+      {
+        "threshold": 61,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/turret/laser"
+        }
+      },
+      {
+        "threshold": 62,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/turret/fire1"
+        }
+      },
+      {
+        "threshold": 63,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/turret/fire2"
+        }
+      },
+      {
+        "threshold": 64,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/turret/head_b"
+        }
+      },
+      {
+        "threshold": 65,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/c4a"
+        }
+      },
+      {
+        "threshold": 66,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/turret/body_1"
+        }
+      },
+      {
+        "threshold": 67,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/turret/body_2"
+        }
+      },
+      {
+        "threshold": 68,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/turret/body_3"
+        }
+      },
+      {
+        "threshold": 69,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/turret/body_4"
+        }
+      },
+      {
+        "threshold": 70,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/turret/body_5"
+        }
+      },
+      {
+        "threshold": 71,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/turret/body_6"
+        }
+      },
+      {
+        "threshold": 72,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/turret/limb1"
+        }
+      },
+      {
+        "threshold": 73,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/turret/limb2"
+        }
+      },
+      {
+        "threshold": 74,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/turret/limb3"
+        }
+      },
+      {
+        "threshold": 75,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/turret/limb4"
+        }
+      },
+      {
+        "threshold": 76,
+        "model": {
+          "type": "model",
+          "model": "shiver:boxes/planks"
+        }
+      },
+      {
+        "threshold": 77,
+        "model": {
+          "type": "model",
+          "model": "shiver:doctor_kit"
+        }
+      },
+      {
+        "threshold": 78,
+        "model": {
+          "type": "model",
+          "model": "shiver:tools_kit"
+        }
+      },
+      {
+        "threshold": 79,
+        "model": {
+          "type": "model",
+          "model": "shiver:bandage"
+        }
+      },
+      {
+        "threshold": 80,
+        "model": {
+          "type": "model",
+          "model": "shiver:med_capsule"
+        }
+      },
+      {
+        "threshold": 81,
+        "model": {
+          "type": "model",
+          "model": "shiver:antidot"
+        }
+      },
+      {
+        "threshold": 82,
+        "model": {
+          "type": "model",
+          "model": "shiver:metal_list"
+        }
+      },
+      {
+        "threshold": 83,
+        "model": {
+          "type": "model",
+          "model": "shiver:beacon"
+        }
+      },
+      {
+        "threshold": 84,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/tnt2"
+        }
+      },
+      {
+        "threshold": 100,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/default/head1"
+        }
+      },
+      {
+        "threshold": 101,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/default/head2"
+        }
+      },
+      {
+        "threshold": 102,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/default/head3"
+        }
+      },
+      {
+        "threshold": 103,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/default/head4"
+        }
+      },
+      {
+        "threshold": 104,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/default/head5"
+        }
+      },
+      {
+        "threshold": 105,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/default/head6"
+        }
+      },
+      {
+        "threshold": 110,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/default/arm"
+        }
+      },
+      {
+        "threshold": 111,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/default/leg"
+        }
+      },
+      {
+        "threshold": 112,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/default/body"
+        }
+      },
+      {
+        "threshold": 115,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/meat"
+        }
+      },
+      {
+        "threshold": 116,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/migrator/migrator_head"
+        }
+      },
+      {
+        "threshold": 117,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/migrator/migrator_head2"
+        }
+      },
+      {
+        "threshold": 118,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/migrator/migrator_arm"
+        }
+      },
+      {
+        "threshold": 119,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/fly"
+        }
+      },
+      {
+        "threshold": 120,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/fly2"
+        }
+      },
+      {
+        "threshold": 121,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/nest"
+        }
+      },
+      {
+        "threshold": 122,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/nest2"
+        }
+      },
+      {
+        "threshold": 123,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/fast/fast_head"
+        }
+      },
+      {
+        "threshold": 124,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/fast/fast_head2"
+        }
+      },
+      {
+        "threshold": 125,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/fast/fast_head3"
+        }
+      },
+      {
+        "threshold": 126,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/fast/fast_arm"
+        }
+      },
+      {
+        "threshold": 127,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/fast/arm"
+        }
+      },
+      {
+        "threshold": 128,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/fast/leg"
+        }
+      },
+      {
+        "threshold": 129,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/fast/body"
+        }
+      },
+      {
+        "threshold": 130,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/breaker/head1"
+        }
+      },
+      {
+        "threshold": 131,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/breaker/head2"
+        }
+      },
+      {
+        "threshold": 132,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/breaker/head3"
+        }
+      },
+      {
+        "threshold": 133,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/breaker/head4"
+        }
+      },
+      {
+        "threshold": 134,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/breaker/arm"
+        }
+      },
+      {
+        "threshold": 135,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/breaker/arm2"
+        }
+      },
+      {
+        "threshold": 136,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/breaker/arm3"
+        }
+      },
+      {
+        "threshold": 140,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/player/head1"
+        }
+      },
+      {
+        "threshold": 145,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/player/arm"
+        }
+      },
+      {
+        "threshold": 150,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/drooler/head1"
+        }
+      },
+      {
+        "threshold": 151,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/drooler/head2"
+        }
+      },
+      {
+        "threshold": 152,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/drooler/head3"
+        }
+      },
+      {
+        "threshold": 155,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/drooler/body"
+        }
+      },
+      {
+        "threshold": 156,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/drooler/arm"
+        }
+      },
+      {
+        "threshold": 157,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/drooler/leg"
+        }
+      },
+      {
+        "threshold": 160,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/strong/head1"
+        }
+      },
+      {
+        "threshold": 161,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/strong/head2"
+        }
+      },
+      {
+        "threshold": 162,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/strong/head3"
+        }
+      },
+      {
+        "threshold": 165,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/strong/arm"
+        }
+      },
+      {
+        "threshold": 166,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/strong/darm"
+        }
+      },
+      {
+        "threshold": 167,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/strong/body"
+        }
+      },
+      {
+        "threshold": 168,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/strong/leg"
+        }
+      },
+      {
+        "threshold": 170,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/tank/head1"
+        }
+      },
+      {
+        "threshold": 175,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/tank/arm"
+        }
+      },
+      {
+        "threshold": 180,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/handra/head1"
+        }
+      },
+      {
+        "threshold": 181,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/handra/head2"
+        }
+      },
+      {
+        "threshold": 182,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/handra/head3"
+        }
+      },
+      {
+        "threshold": 185,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/handra/arm"
+        }
+      },
+      {
+        "threshold": 186,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/handra/body"
+        }
+      },
+      {
+        "threshold": 187,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/handra/darm"
+        }
+      },
+      {
+        "threshold": 188,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/handra/leg"
+        }
+      },
+      {
+        "threshold": 190,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/allstar/head1"
+        }
+      },
+      {
+        "threshold": 191,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/allstar/head2"
+        }
+      },
+      {
+        "threshold": 192,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/allstar/head3"
+        }
+      },
+      {
+        "threshold": 193,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/allstar/head4"
+        }
+      },
+      {
+        "threshold": 200,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/jumper"
+        }
+      },
+      {
+        "threshold": 201,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/jumper2"
+        }
+      },
+      {
+        "threshold": 202,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/jumper3"
+        }
+      },
+      {
+        "threshold": 203,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/jumper_a"
+        }
+      },
+      {
+        "threshold": 204,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/jumper_angry"
+        }
+      },
+      {
+        "threshold": 205,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/jumper_angry_a"
+        }
+      },
+      {
+        "threshold": 206,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/hornet"
+        }
+      },
+      {
+        "threshold": 207,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/hornet2"
+        }
+      },
+      {
+        "threshold": 210,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/mutant/head1"
+        }
+      },
+      {
+        "threshold": 211,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/mutant/head2"
+        }
+      },
+      {
+        "threshold": 212,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/mutant/head3"
+        }
+      },
+      {
+        "threshold": 213,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/mutant/head4"
+        }
+      },
+      {
+        "threshold": 214,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/mutant/arm"
+        }
+      },
+      {
+        "threshold": 215,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/creeper/model"
+        }
+      },
+      {
+        "threshold": 216,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/creeper/body"
+        }
+      },
+      {
+        "threshold": 217,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/creeper/rleg"
+        }
+      },
+      {
+        "threshold": 218,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/creeper/lleg"
+        }
+      },
+      {
+        "threshold": 219,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/creeper/brleg"
+        }
+      },
+      {
+        "threshold": 220,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/creeper/blleg"
+        }
+      },
+      {
+        "threshold": 221,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/miner/head1"
+        }
+      },
+      {
+        "threshold": 222,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/miner/head2"
+        }
+      },
+      {
+        "threshold": 223,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/miner/arm"
+        }
+      },
+      {
+        "threshold": 298,
+        "model": {
+          "type": "model",
+          "model": "shiver:boxes/box_selection_x"
+        }
+      },
+      {
+        "threshold": 299,
+        "model": {
+          "type": "model",
+          "model": "shiver:boxes/box_selection"
+        }
+      },
+      {
+        "threshold": 300,
+        "model": {
+          "type": "model",
+          "model": "shiver:boxes/1"
+        }
+      },
+      {
+        "threshold": 301,
+        "model": {
+          "type": "model",
+          "model": "shiver:boxes/2"
+        }
+      },
+      {
+        "threshold": 302,
+        "model": {
+          "type": "model",
+          "model": "shiver:boxes/3"
+        }
+      },
+      {
+        "threshold": 303,
+        "model": {
+          "type": "model",
+          "model": "shiver:boxes/4"
+        }
+      },
+      {
+        "threshold": 305,
+        "model": {
+          "type": "model",
+          "model": "shiver:boxes/5"
+        }
+      },
+      {
+        "threshold": 306,
+        "model": {
+          "type": "model",
+          "model": "shiver:boxes/6"
+        }
+      },
+      {
+        "threshold": 400,
+        "model": {
+          "type": "model",
+          "model": "shiver:boxes/1_1"
+        }
+      },
+      {
+        "threshold": 401,
+        "model": {
+          "type": "model",
+          "model": "shiver:boxes/1_2"
+        }
+      },
+      {
+        "threshold": 402,
+        "model": {
+          "type": "model",
+          "model": "shiver:boxes/3_1"
+        }
+      },
+      {
+        "threshold": 403,
+        "model": {
+          "type": "model",
+          "model": "shiver:boxes/3_2"
+        }
+      },
+      {
+        "threshold": 404,
+        "model": {
+          "type": "model",
+          "model": "shiver:boxes/2_1"
+        }
+      },
+      {
+        "threshold": 405,
+        "model": {
+          "type": "model",
+          "model": "shiver:boxes/2_2"
+        }
+      },
+      {
+        "threshold": 406,
+        "model": {
+          "type": "model",
+          "model": "shiver:boxes/4_2"
+        }
+      },
+      {
+        "threshold": 407,
+        "model": {
+          "type": "model",
+          "model": "shiver:boxes/4_3"
+        }
+      },
+      {
+        "threshold": 408,
+        "model": {
+          "type": "model",
+          "model": "shiver:boxes/5_2"
+        }
+      },
+      {
+        "threshold": 409,
+        "model": {
+          "type": "model",
+          "model": "shiver:boxes/5_3"
+        }
+      },
+      {
+        "threshold": 410,
+        "model": {
+          "type": "model",
+          "model": "shiver:boxes/6_2"
+        }
+      },
+      {
+        "threshold": 411,
+        "model": {
+          "type": "model",
+          "model": "shiver:boxes/6_3"
+        }
+      },
+      {
+        "threshold": 500,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/tnt"
+        }
+      },
+      {
+        "threshold": 501,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/tntf"
+        }
+      },
+      {
+        "threshold": 900,
+        "model": {
+          "type": "model",
+          "model": "shiver:editor/1"
+        }
+      },
+      {
+        "threshold": 901,
+        "model": {
+          "type": "model",
+          "model": "shiver:editor/2"
+        }
+      },
+      {
+        "threshold": 902,
+        "model": {
+          "type": "model",
+          "model": "shiver:editor/3"
+        }
+      },
+      {
+        "threshold": 903,
+        "model": {
+          "type": "model",
+          "model": "shiver:editor/4"
+        }
+      },
+      {
+        "threshold": 904,
+        "model": {
+          "type": "model",
+          "model": "shiver:editor/5"
+        }
+      },
+      {
+        "threshold": 905,
+        "model": {
+          "type": "model",
+          "model": "shiver:editor/6"
+        }
+      },
+      {
+        "threshold": 906,
+        "model": {
+          "type": "model",
+          "model": "shiver:editor/7"
+        }
+      },
+      {
+        "threshold": 907,
+        "model": {
+          "type": "model",
+          "model": "shiver:editor/8"
+        }
+      },
+      {
+        "threshold": 908,
+        "model": {
+          "type": "model",
+          "model": "shiver:editor/9"
+        }
+      },
+      {
+        "threshold": 909,
+        "model": {
+          "type": "model",
+          "model": "shiver:editor/10"
+        }
+      },
+      {
+        "threshold": 910,
+        "model": {
+          "type": "model",
+          "model": "shiver:editor/11"
+        }
+      },
+      {
+        "threshold": 911,
+        "model": {
+          "type": "model",
+          "model": "shiver:editor/12"
+        }
+      },
+      {
+        "threshold": 912,
+        "model": {
+          "type": "model",
+          "model": "shiver:editor/13"
+        }
+      },
+      {
+        "threshold": 913,
+        "model": {
+          "type": "model",
+          "model": "shiver:editor/14"
+        }
+      },
+      {
+        "threshold": 914,
+        "model": {
+          "type": "model",
+          "model": "shiver:editor/15"
+        }
+      },
+      {
+        "threshold": 915,
+        "model": {
+          "type": "model",
+          "model": "shiver:editor/16"
+        }
+      },
+      {
+        "threshold": 950,
+        "model": {
+          "type": "model",
+          "model": "shiver:blocked_slot"
+        }
+      },
+      {
+        "threshold": 1000,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/1"
+        }
+      },
+      {
+        "threshold": 1001,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/2"
+        }
+      },
+      {
+        "threshold": 1002,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/3"
+        }
+      },
+      {
+        "threshold": 1010,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/lobby_kit1"
+        }
+      },
+      {
+        "threshold": 1011,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/lobby_kit4"
+        }
+      },
+      {
+        "threshold": 1012,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/lobby_kit3"
+        }
+      },
+      {
+        "threshold": 1013,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/lobby_kit2"
+        }
+      },
+      {
+        "threshold": 1014,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/lobby_join"
+        }
+      },
+      {
+        "threshold": 1015,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/lobby_nejoin"
+        }
+      },
+      {
+        "threshold": 1016,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/kit_marker"
+        }
+      },
+      {
+        "threshold": 1020,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/lobby_game"
+        }
+      },
+      {
+        "threshold": 1021,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/on"
+        }
+      },
+      {
+        "threshold": 1022,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/off"
+        }
+      },
+      {
+        "threshold": 1029,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/nums/p"
+        }
+      },
+      {
+        "threshold": 1030,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/nums/0"
+        }
+      },
+      {
+        "threshold": 1031,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/nums/1"
+        }
+      },
+      {
+        "threshold": 1032,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/nums/2"
+        }
+      },
+      {
+        "threshold": 1033,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/nums/3"
+        }
+      },
+      {
+        "threshold": 1034,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/nums/4"
+        }
+      },
+      {
+        "threshold": 1035,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/nums/5"
+        }
+      },
+      {
+        "threshold": 1036,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/nums/6"
+        }
+      },
+      {
+        "threshold": 1037,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/nums/7"
+        }
+      },
+      {
+        "threshold": 1038,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/nums/8"
+        }
+      },
+      {
+        "threshold": 1039,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/nums/9"
+        }
+      },
+      {
+        "threshold": 1050,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/settings/music"
+        }
+      },
+      {
+        "threshold": 1051,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/settings/char"
+        }
+      },
+      {
+        "threshold": 1052,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/settings/male07"
+        }
+      },
+      {
+        "threshold": 1053,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/settings/bill"
+        }
+      },
+      {
+        "threshold": 1054,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/settings/trener"
+        }
+      },
+      {
+        "threshold": 1055,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/settings/tembr"
+        }
+      },
+      {
+        "threshold": 1056,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/settings/stickers"
+        }
+      },
+      {
+        "threshold": 1064,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/profile/5"
+        }
+      },
+      {
+        "threshold": 1065,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/profile/6"
+        }
+      },
+      {
+        "threshold": 1066,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/profile/7"
+        }
+      },
+      {
+        "threshold": 1067,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/profile/8"
+        }
+      },
+      {
+        "threshold": 1068,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/profile/9"
+        }
+      },
+      {
+        "threshold": 1070,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/closed_slot"
+        }
+      },
+      {
+        "threshold": 1071,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/slot_beacon"
+        }
+      },
+      {
+        "threshold": 1100,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/find_hornet"
+        }
+      },
+      {
+        "threshold": 1101,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/free_jumper"
+        }
+      },
+      {
+        "threshold": 1102,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/create_nest"
+        }
+      },
+      {
+        "threshold": 1103,
+        "model": {
+          "type": "model",
+          "model": "shiver:gui/cancel_create_nest"
+        }
+      },
+      {
+        "threshold": 9999,
+        "model": {
+          "type": "model",
+          "model": "minecraft:item/crossbow"
+        }
+      },
+      {
+        "threshold": 12345,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/monster"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/clay_ball"
+    }
+  }
+}

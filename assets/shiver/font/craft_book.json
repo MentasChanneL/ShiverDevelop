@@ -1,0 +1,31 @@
+﻿{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "shiver:font/crafts/1.png",
+            "ascent": 0,
+            "height": 128,
+            "chars": [
+                "0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/crafts/2.png",
+            "ascent": 0,
+            "height": 128,
+            "chars": [
+                "1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/crafts/3.png",
+            "ascent": 0,
+            "height": 128,
+            "chars": [
+                "2"
+            ]
+        }
+    ]
+}

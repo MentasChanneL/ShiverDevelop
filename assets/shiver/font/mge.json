@@ -1,0 +1,85 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "shiver:font/mge/kill_komars.png",
+            "ascent": 4,
+            "height": 64,
+            "chars": [
+                "0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/mge/where_medic.png",
+            "ascent": 4,
+            "height": 64,
+            "chars": [
+                "1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/mge/where_boxes.png",
+            "ascent": 4,
+            "height": 64,
+            "chars": [
+                "2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/mge/easy.png",
+            "ascent": 4,
+            "height": 64,
+            "chars": [
+                "3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/mge/mrazi.png",
+            "ascent": 4,
+            "height": 64,
+            "chars": [
+                "4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/mge/cade_imba.png",
+            "ascent": 4,
+            "height": 64,
+            "chars": [
+                "5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/mge/baby.png",
+            "ascent": 4,
+            "height": 64,
+            "chars": [
+                "6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/mge/how.png",
+            "ascent": 4,
+            "height": 64,
+            "chars": [
+                "7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/mge/cpu.png",
+            "ascent": 4,
+            "height": 64,
+            "chars": [
+                "8"
+            ]
+        }
+    ]
+}

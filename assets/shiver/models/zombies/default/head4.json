@@ -1,0 +1,38 @@
+{
+	"credit": "by 2M3V",
+	"textures": {
+		"0": "shiver:item/enemy/head3",
+		"particle": "shiver:item/enemy/head3"
+	},
+	"elements": [
+		{
+			"from": [4.5, 8, 4.5],
+			"to": [11.7, 15.2, 11.7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.9, 5, 5.8]},
+			"faces": {
+				"north": {"uv": [2, 2, 4, 4], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 4], "texture": "#0"},
+				"south": {"uv": [6, 2, 8, 4], "texture": "#0"},
+				"west": {"uv": [4, 2, 6, 4], "texture": "#0"},
+				"up": {"uv": [2, 0, 4, 2], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [6, 2, 4, 0], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [69, 0, 0]
+		},
+		"gui": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -7.25, 0],
+			"scale": [2, 2, 1]
+		},
+		"head": {
+			"rotation": [-14, 0, -17],
+			"translation": [-0.25, -6.5, -0.25],
+			"scale": [1.9, 1.9, 1.9]
+		}
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"credit": "by 2M3V",
+	"textures": {
+		"0": "shiver:item/weapons/turret",
+		"particle": "shiver:item/weapons/turret"
+	},
+	"elements": [
+		{
+			"from": [7.71299, 8.0903, 8.0303],
+			"to": [7.71299, 17.0903, 10.0303],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 15.53321, 9.0303]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 4.5], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [0, 8, 1, 12.5], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [0, 0, 0, 4.5], "rotation": 180, "texture": "#0"},
+				"west": {"uv": [7.5, 7, 8.5, 11.5], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [1, 0, 0, 0], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [1, 0, 0, 0], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.13896, 16.86194, 8.0303],
+			"to": [7.13896, 19.86194, 10.0303],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 15.53321, 9.0303]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 1.5], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [12.5, 8, 13.5, 9.5], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [0, 0, 0, 1.5], "rotation": 180, "texture": "#0"},
+				"west": {"uv": [12.5, 6.5, 13.5, 8], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [1, 0, 0, 0], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [1, 0, 0, 0], "rotation": 270, "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [10, 0.00448, -1.03074],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}
