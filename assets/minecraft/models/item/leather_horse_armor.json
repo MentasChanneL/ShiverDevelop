@@ -459,6 +459,7 @@
         {"predicate": {"custom_model_data": 10094},"model": "shiver:props/props_c17/frame04"},
         {"predicate": {"custom_model_data": 10095},"model": "shiver:props/barricades1"},
         {"predicate": {"custom_model_data": 10096},"model": "shiver:props/barricades2"},
-        {"predicate": {"custom_model_data": 10097},"model": "shiver:props/cat_frame"}
+        {"predicate": {"custom_model_data": 10097},"model": "shiver:props/cat_frame"},
+        {"predicate": {"custom_model_data": 10098},"model": "shiver:props/potato_frame"}
     ]
 }
