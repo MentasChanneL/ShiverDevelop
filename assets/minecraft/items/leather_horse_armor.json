@@ -3117,6 +3117,69 @@
           "type": "model",
           "model": "shiver:props/minecart_00"
         }
+      },
+      {
+        "threshold": 10088,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/news"
+        }
+      },
+      {
+        "threshold": 10089,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/props_c17/door03"
+        }
+      },
+      {
+        "threshold": 10090,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/props_c17/door04"
+        }
+      },
+      {
+        "threshold": 10091,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/props_c17/door05"
+        }
+      },
+      {
+        "threshold": 10092,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/props_c17/frame01"
+        }
+      },
+      {
+        "threshold": 10093,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/props_c17/frame03"
+        }
+      },
+      {
+        "threshold": 10094,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/props_c17/frame04"
+        }
+      },
+      {
+        "threshold": 10095,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/barricades1"
+        }
+      },
+      {
+        "threshold": 10096,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/barricades2"
+        }
       }
     ],
     "fallback": {

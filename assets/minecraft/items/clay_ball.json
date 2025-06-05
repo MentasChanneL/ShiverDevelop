@@ -1152,6 +1152,20 @@
         }
       },
       {
+        "threshold": 916,
+        "model": {
+          "type": "model",
+          "model": "shiver:editor/17"
+        }
+      },
+      {
+        "threshold": 917,
+        "model": {
+          "type": "model",
+          "model": "shiver:editor/18"
+        }
+      },
+      {
         "threshold": 950,
         "model": {
           "type": "model",
