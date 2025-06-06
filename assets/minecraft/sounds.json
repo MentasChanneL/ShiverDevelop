@@ -46,5 +46,9 @@
       "ambient/weather/rain3",
       "ambient/weather/rain4"
     ]
+  },
+  "item.spyglass.use": {
+    "replace": true,
+    "sounds": []
   }
 }

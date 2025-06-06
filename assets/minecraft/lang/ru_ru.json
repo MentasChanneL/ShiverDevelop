@@ -2,5 +2,7 @@
 	"effect.minecraft.wither": "§cКровотечение",
 	"effect.minecraft.luck": "§bИмунный ответ",
 	"attribute.name.player.entity_interaction_range": "Длина оружия",
-	"attribute.name.player.sweeping_damage_ratio": "Урон по области"
+	"attribute.name.player.sweeping_damage_ratio": "Урон по области",
+
+	"shiver.sniper_rifle.hint": "Нажмите %s для выстрела"
 }

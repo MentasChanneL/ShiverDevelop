@@ -6,10 +6,10 @@
 
 	"shiver.person.": "-",
 	"shiver.person.colton": "Male07",
-	"shiver.person.coach": "Тренер",
-	"shiver.person.bill": "Билл",
+	"shiver.person.coach": "Coach",
+	"shiver.person.bill": "Bill",
 
 	"shiver.item.": "-",
-	"shiver.item.kit.rich": "Набор выгоды",
-	"shiver.item.kit.ammunition": "Ящик аммуниции"
+	"shiver.item.kit.rich": "Stonks kit",
+	"shiver.item.kit.ammunition": "Ammunition crate"
 }

@@ -461,6 +461,13 @@
         {"predicate": {"custom_model_data": 10096},"model": "shiver:props/barricades2"},
         {"predicate": {"custom_model_data": 10097},"model": "shiver:props/cat_frame"},
         {"predicate": {"custom_model_data": 10098},"model": "shiver:props/potato_frame"},
-        {"predicate": {"custom_model_data": 10099},"model": "shiver:props/brick_wall"}
+        {"predicate": {"custom_model_data": 10099},"model": "shiver:props/brick_wall"},
+        {"predicate": {"custom_model_data": 10100},"model": "shiver:props/brine"},
+        {"predicate": {"custom_model_data": 10101},"model": "shiver:props/elevator"},
+        {"predicate": {"custom_model_data": 10102},"model": "shiver:props/elevator_cabine"},
+        {"predicate": {"custom_model_data": 10103},"model": "shiver:props/elevator_door11"},
+        {"predicate": {"custom_model_data": 10104},"model": "shiver:props/elevator_door22"},
+        {"predicate": {"custom_model_data": 10105},"model": "shiver:props/elevator_door1"},
+        {"predicate": {"custom_model_data": 10106},"model": "shiver:props/elevator_door2"}
     ]
 }

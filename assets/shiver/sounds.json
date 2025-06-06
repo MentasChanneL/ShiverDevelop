@@ -785,6 +785,18 @@
       {"name": "shiver:weapon/magnum"}
     ]
   },
+  "weapon.sniperrifle": {
+    "category": "master",
+    "sounds": [
+      {"name": "shiver:weapon/sniper_rifle"}
+    ]
+  },
+  "weapon.sniper.zoom": {
+    "category": "master",
+    "sounds": [
+      {"name": "shiver:weapon/sniper_zoom"}
+    ]
+  },
   "weapon.magnum.reload": {
     "category": "master",
     "sounds": [
