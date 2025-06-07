@@ -1,0 +1,21 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "shiver:item/props/vertigo/break",
+		"particle": "shiver:item/props/vertigo/break"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 15.99],
+			"to": [16, 16, 15.99],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 12.85]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	]
+}
