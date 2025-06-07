@@ -468,6 +468,7 @@
         {"predicate": {"custom_model_data": 10103},"model": "shiver:props/elevator_door11"},
         {"predicate": {"custom_model_data": 10104},"model": "shiver:props/elevator_door22"},
         {"predicate": {"custom_model_data": 10105},"model": "shiver:props/elevator_door1"},
-        {"predicate": {"custom_model_data": 10106},"model": "shiver:props/elevator_door2"}
+        {"predicate": {"custom_model_data": 10106},"model": "shiver:props/elevator_door2"},
+        {"predicate": {"custom_model_data": 10107},"model": "shiver:props/elevator_doors"}
     ]
 }
