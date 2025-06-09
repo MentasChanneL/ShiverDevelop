@@ -472,6 +472,14 @@
         {"predicate": {"custom_model_data": 10107},"model": "shiver:props/elevator_doors"},
         {"predicate": {"custom_model_data": 10108},"model": "shiver:props/vent"},
         {"predicate": {"custom_model_data": 10109},"model": "shiver:props/vertigo/glass1"},
-        {"predicate": {"custom_model_data": 10110},"model": "shiver:props/vertigo/break1"}
+        {"predicate": {"custom_model_data": 10110},"model": "shiver:props/vertigo/break1"},
+        {"predicate": {"custom_model_data": 10111},"model": "shiver:props/vertigo/table1"},
+        {"predicate": {"custom_model_data": 10112},"model": "shiver:props/props_c17/lamp_01"},
+        {"predicate": {"custom_model_data": 10113},"model": "shiver:props/props_c17/lamp_02"},
+        {"predicate": {"custom_model_data": 10114},"model": "shiver:props/props_c17/lamp_03"},
+        {"predicate": {"custom_model_data": 10115},"model": "shiver:props/props_c17/lamp_04"},
+        {"predicate": {"custom_model_data": 10116},"model": "shiver:props/props_c17/lamp_05"},
+        {"predicate": {"custom_model_data": 10117},"model": "shiver:props/props_c17/lamp_06"},
+        {"predicate": {"custom_model_data": 10118},"model": "shiver:props/props_c17/lamp_07"}
     ]
 }
