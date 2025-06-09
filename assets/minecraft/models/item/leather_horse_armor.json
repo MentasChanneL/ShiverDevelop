@@ -480,6 +480,13 @@
         {"predicate": {"custom_model_data": 10115},"model": "shiver:props/props_c17/lamp_04"},
         {"predicate": {"custom_model_data": 10116},"model": "shiver:props/props_c17/lamp_05"},
         {"predicate": {"custom_model_data": 10117},"model": "shiver:props/props_c17/lamp_06"},
-        {"predicate": {"custom_model_data": 10118},"model": "shiver:props/props_c17/lamp_07"}
+        {"predicate": {"custom_model_data": 10118},"model": "shiver:props/props_c17/lamp_07"},
+        {"predicate": {"custom_model_data": 10119},"model": "shiver:props/props_c17/lamp_01_lit"},
+        {"predicate": {"custom_model_data": 10120},"model": "shiver:props/props_c17/lamp_02_lit"},
+        {"predicate": {"custom_model_data": 10121},"model": "shiver:props/props_c17/lamp_03_lit"},
+        {"predicate": {"custom_model_data": 10122},"model": "shiver:props/props_c17/lamp_04_lit"},
+        {"predicate": {"custom_model_data": 10123},"model": "shiver:props/props_c17/lamp_05_lit"},
+        {"predicate": {"custom_model_data": 10124},"model": "shiver:props/props_c17/lamp_06_lit"},
+        {"predicate": {"custom_model_data": 10125},"model": "shiver:props/props_c17/lamp_07_lit"}
     ]
 }
