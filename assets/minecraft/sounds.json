@@ -50,5 +50,9 @@
   "item.spyglass.use": {
     "replace": true,
     "sounds": []
+  },
+  "block.water.ambient": {
+    "replace": true,
+    "sounds": []
   }
 }

@@ -490,6 +490,10 @@
         {"predicate": {"custom_model_data": 10125},"model": "shiver:props/props_c17/lamp_07_lit"},
         {"predicate": {"custom_model_data": 10126},"model": "shiver:props/trash"},
         {"predicate": {"custom_model_data": 10127},"model": "shiver:props/trash2"},
-        {"predicate": {"custom_model_data": 10128},"model": "shiver:props/trash3"}
+        {"predicate": {"custom_model_data": 10128},"model": "shiver:props/trash3"},
+        {"predicate": {"custom_model_data": 10129},"model": "shiver:props/fire"},
+        {"predicate": {"custom_model_data": 10130},"model": "shiver:props/monitor"},
+        {"predicate": {"custom_model_data": 10131},"model": "shiver:props/trash_can"},
+        {"predicate": {"custom_model_data": 10132},"model": "shiver:props/trash_bucket"}
     ]
 }

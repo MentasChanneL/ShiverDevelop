@@ -1,0 +1,25 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "shiver:item/dfire",
+		"particle": "shiver:item/dfire"
+	},
+	"elements": [
+		{
+			"from": [-3.75, 8, 8],
+			"to": [12.25, 20, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-3.75, 8, 6]},
+			"faces": {
+				"north": {"uv": [0, 4, 16, 16], "texture": "#0"},
+				"south": {"uv": [16, 4, 0, 16], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [0, -7.75, 0],
+			"scale": [2, 2, 2]
+		}
+	}
+}
