@@ -3,6 +3,7 @@
 	"textures": {
 		"0": "shiver:item/gui/menu1",
 		"1": "shiver:item/gui/text1",
+		"2": "shiver:item/poproshaika",
 		"particle": "shiver:item/gui/menu1"
 	},
 	"elements": [
@@ -55,15 +56,15 @@
 			}
 		},
 		{
-			"from": [-4.5536, 4.98, 8.3569],
-			"to": [1.9536, 6.6234, 8.3569],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-4.5536, 5.81, 7.5435]},
+			"from": [-7, 4, 8],
+			"to": [2, 10, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-3, 8, 7]},
 			"faces": {
-				"east": {"uv": [0, 12.5, 15, 14.5], "texture": "#1"},
-				"south": {"uv": [0, 11.5, 15, 15.25], "texture": "#1"},
-				"west": {"uv": [0, 12.5, 15, 14.5], "texture": "#1"},
-				"up": {"uv": [0, 12.5, 15, 14.5], "texture": "#1"},
-				"down": {"uv": [0, 12.5, 15, 14.5], "texture": "#1"}
+				"east": {"uv": [0, 0, 0, 5], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 0, 5], "texture": "#missing"},
+				"up": {"uv": [0, 0, 8, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 8, 0], "texture": "#missing"}
 			}
 		}
 	],

@@ -397,6 +397,48 @@
       {"name": "shiver:ambience/tv2"}
     ]
   },
+  "ambience.doormove1": {
+    "category": "master",
+    "sounds": [
+      {"name": "shiver:ambience/doormove1"}
+    ]
+  },
+  "ambience.vent_open3": {
+    "category": "master",
+    "sounds": [
+      {"name": "shiver:ambience/vent_open3"}
+    ]
+  },
+  "ambience.elevator1": {
+    "category": "master",
+    "sounds": [
+      {"name": "shiver:ambience/elevator1"}
+    ]
+  },
+  "ambience.elevator2": {
+    "category": "master",
+    "sounds": [
+      {"name": "shiver:ambience/elevator2"}
+    ]
+  },
+  "ambience.steam2": {
+    "category": "master",
+    "sounds": [
+      {"name": "shiver:ambience/steam2"}
+    ]
+  },
+  "ambience.lever1": {
+    "category": "master",
+    "sounds": [
+      {"name": "shiver:ambience/lever1"}
+    ]
+  },
+  "ambience.gate_move1": {
+    "category": "master",
+    "sounds": [
+      {"name": "shiver:ambience/gate_move1"}
+    ]
+  },
   "box.arsenal": {
     "category": "master",
     "sounds": [

@@ -2,7 +2,7 @@
 	"credit": "Made by Falanta Fantomo with Blockbench",
 	"texture_size": [256, 256],
 	"textures": {
-		"0": "shiver:item/props/elevator"
+		"0": "shiver:item/props/elevator_break"
 	},
 	"elements": [
 		{
@@ -63,35 +63,23 @@
 			}
 		},
 		{
-			"from": [2, 20, 5],
-			"to": [14, 23, 11],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 20, 8]},
+			"from": [2.75, 18.75736, 5],
+			"to": [3.25, 23, 7.25],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [3, 23, 5]},
 			"faces": {
-				"north": {"uv": [1.5, 10.25, 4.5, 11], "texture": "#0"},
-				"east": {"uv": [0, 10.25, 1.5, 11], "texture": "#0"},
-				"south": {"uv": [1.5, 10.25, 4.5, 11], "texture": "#0"},
-				"west": {"uv": [0, 10.25, 1.5, 11], "texture": "#0"},
-				"up": {"uv": [0, 8.75, 3, 10.25], "texture": "#0"}
+				"north": {"uv": [3, 9.6875, 4.0625, 9.5625], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [3, 9.6875, 4.0625, 10.25], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [4.0625, 9.6875, 3, 10.25], "rotation": 270, "texture": "#0"}
 			}
 		},
 		{
-			"from": [2.75, 20.75, 0.75736],
-			"to": [3.25, 23, 5],
-			"rotation": {"angle": -45, "axis": "x", "origin": [3, 23, 5]},
+			"from": [5.75, 17, 9],
+			"to": [6.25, 21.24264, 11.25],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [6, 17, 9]},
 			"faces": {
-				"east": {"uv": [3, 9.6875, 4.0625, 10.25], "texture": "#0"},
-				"west": {"uv": [4.0625, 9.6875, 3, 10.25], "texture": "#0"},
-				"up": {"uv": [3, 9.6875, 4.0625, 9.5625], "rotation": 90, "texture": "#0"}
-			}
-		},
-		{
-			"from": [2.75, 20.75, 11],
-			"to": [3.25, 23, 15.24264],
-			"rotation": {"angle": 45, "axis": "x", "origin": [3, 23, 11]},
-			"faces": {
-				"east": {"uv": [4.0625, 9.6875, 3, 10.25], "texture": "#0"},
-				"west": {"uv": [3, 9.6875, 4.0625, 10.25], "texture": "#0"},
-				"up": {"uv": [4.0625, 9.6875, 3, 9.5625], "rotation": 90, "texture": "#0"}
+				"north": {"uv": [4.0625, 9.6875, 3, 9.5625], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [4.0625, 9.6875, 3, 10.25], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [3, 9.6875, 4.0625, 10.25], "rotation": 270, "texture": "#0"}
 			}
 		}
 	],

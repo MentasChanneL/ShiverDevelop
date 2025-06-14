@@ -170,6 +170,7 @@
         {"predicate": {"custom_model_data": 915},"model": "shiver:editor/16"},
         {"predicate": {"custom_model_data": 916},"model": "shiver:editor/17"},
         {"predicate": {"custom_model_data": 917},"model": "shiver:editor/18"},
+        {"predicate": {"custom_model_data": 918},"model": "shiver:editor/19"},
         {"predicate": {"custom_model_data": 950},"model": "shiver:blocked_slot"},
         {"predicate": {"custom_model_data": 1000},"model": "shiver:gui/1"},
         {"predicate": {"custom_model_data": 1001},"model": "shiver:gui/2"},
