@@ -494,6 +494,8 @@
         {"predicate": {"custom_model_data": 10129},"model": "shiver:props/fire"},
         {"predicate": {"custom_model_data": 10130},"model": "shiver:props/monitor"},
         {"predicate": {"custom_model_data": 10131},"model": "shiver:props/trash_can"},
-        {"predicate": {"custom_model_data": 10132},"model": "shiver:props/trash_bucket"}
+        {"predicate": {"custom_model_data": 10132},"model": "shiver:props/trash_bucket"},
+        {"predicate": {"custom_model_data": 10133},"model": "shiver:props/server_system"},
+        {"predicate": {"custom_model_data": 10134},"model": "shiver:props/elevator_button"}
     ]
 }

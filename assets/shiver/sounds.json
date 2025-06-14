@@ -343,6 +343,24 @@
       {"name": "shiver:ambience/door"}
     ]
   },
+  "ambience.button10": {
+    "category": "master",
+    "sounds": [
+      {"name": "shiver:ambience/button10"}
+    ]
+  },
+  "ambience.button15": {
+    "category": "master",
+    "sounds": [
+      {"name": "shiver:ambience/button15"}
+    ]
+  },
+  "ambience.default_locked": {
+    "category": "master",
+    "sounds": [
+      {"name": "shiver:ambience/default_locked"}
+    ]
+  },
   "ambience.heavy_metal_move1": {
     "category": "master",
     "sounds": [
