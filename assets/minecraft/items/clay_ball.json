@@ -319,6 +319,13 @@
         }
       },
       {
+        "threshold": 85,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/saw"
+        }
+      },
+      {
         "threshold": 100,
         "model": {
           "type": "model",

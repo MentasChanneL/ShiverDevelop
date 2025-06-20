@@ -3460,6 +3460,34 @@
           "type": "model",
           "model": "shiver:props/valve"
         }
+      },
+      {
+        "threshold": 10137,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/electro"
+        }
+      },
+      {
+        "threshold": 10138,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/electro_lever"
+        }
+      },
+      {
+        "threshold": 10139,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/electro2"
+        }
+      },
+      {
+        "threshold": 10140,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/vertigo/lift_gate"
+        }
       }
     ],
     "fallback": {
