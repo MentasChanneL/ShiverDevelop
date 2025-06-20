@@ -439,6 +439,36 @@
       {"name": "shiver:ambience/gate_move1"}
     ]
   },
+  "ambience.saw": {
+    "category": "master",
+    "sounds": [
+      {"name": "shiver:ambience/saw"}
+    ]
+  },
+  "ambience.lever7": {
+    "category": "master",
+    "sounds": [
+      {"name": "shiver:ambience/lever7"}
+    ]
+  },
+  "ambience.zap": {
+    "category": "master",
+    "sounds": [
+      "shiver:ambience/superphys_small_zap1",
+      "shiver:ambience/superphys_small_zap2",
+      "shiver:ambience/superphys_small_zap3",
+      "shiver:ambience/superphys_small_zap4"
+    ]
+  },
+  "ambience.grind": {
+    "category": "master",
+    "sounds": [
+      "shiver:ambience/grind2",
+      "shiver:ambience/grind3",
+      "shiver:ambience/grind4",
+      "shiver:ambience/grind5"
+    ]
+  },
   "box.arsenal": {
     "category": "master",
     "sounds": [

@@ -49,6 +49,7 @@
         {"predicate": {"custom_model_data": 82},"model": "shiver:metal_list"},
         {"predicate": {"custom_model_data": 83},"model": "shiver:beacon"},
         {"predicate": {"custom_model_data": 84},"model": "shiver:weapons/tnt2"},
+        {"predicate": {"custom_model_data": 85},"model": "shiver:weapons/saw"},
         {"predicate": {"custom_model_data": 100},"model": "shiver:zombies/default/head1"},
         {"predicate": {"custom_model_data": 101},"model": "shiver:zombies/default/head2"},
         {"predicate": {"custom_model_data": 102},"model": "shiver:zombies/default/head3"},

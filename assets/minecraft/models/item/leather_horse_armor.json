@@ -498,6 +498,10 @@
         {"predicate": {"custom_model_data": 10133},"model": "shiver:props/server_system"},
         {"predicate": {"custom_model_data": 10134},"model": "shiver:props/elevator_button"},
         {"predicate": {"custom_model_data": 10135},"model": "shiver:props/elevator_cabine_break"},
-        {"predicate": {"custom_model_data": 10136},"model": "shiver:props/valve"}
+        {"predicate": {"custom_model_data": 10136},"model": "shiver:props/valve"},
+        {"predicate": {"custom_model_data": 10137},"model": "shiver:props/electro"},
+        {"predicate": {"custom_model_data": 10138},"model": "shiver:props/electro_lever"},
+        {"predicate": {"custom_model_data": 10139},"model": "shiver:props/electro2"},
+        {"predicate": {"custom_model_data": 10140},"model": "shiver:props/vertigo/lift_gate"}
     ]
 }
