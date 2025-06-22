@@ -9,6 +9,7 @@ source_dir = '.'
 destination_dir = 'build'
 
 extensions = ['.json', '.png', '.mcmeta', '.glsl', '.vsh', '.fsh', '.ogg']
+symvolWhitelist = "qwertyuiopasdfghjklzxcvbnm_-1234567890."
 
 def add(file: str, *lines: str):
     dst_file = f"build/{os.path.split(file)[0]}"
@@ -76,12 +77,16 @@ for filename in os.listdir(destination_dir):
 
 for root, dirs, files in os.walk(source_dir):
     rel_path = os.path.relpath(root, source_dir)
-    if rel_path.startswith(".git") or rel_path.startswith("build"): continue
+    if rel_path.startswith(".") or rel_path.startswith("build"): continue
     target_root = os.path.join(destination_dir, rel_path)
     os.makedirs(target_root, exist_ok=True)
     
     for file in files:
         if any(file.lower().endswith(ext) for ext in extensions):
+            for c in file:
+                if not c in symvolWhitelist:
+                    print(f"{file} CONTAINS INVALID CHRACTERS IN FILE NAME | Skip ...")
+                    continue
             src_file = os.path.join(root, file)
             dst_file = os.path.join(target_root, file)
             shutil.copy2(src_file, dst_file)
@@ -89,6 +94,8 @@ for root, dirs, files in os.walk(source_dir):
 print(f'-- UPDATE')
 model()
 print(f'-- CREATE LICENSE')
+add("pack.mcmeta")
+add("pack.png")
 add("license.txt")
 today = date.today()
 mounths = [ "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" ]
