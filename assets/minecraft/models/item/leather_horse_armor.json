@@ -502,6 +502,8 @@
         {"predicate": {"custom_model_data": 10137},"model": "shiver:props/electro"},
         {"predicate": {"custom_model_data": 10138},"model": "shiver:props/electro_lever"},
         {"predicate": {"custom_model_data": 10139},"model": "shiver:props/electro2"},
-        {"predicate": {"custom_model_data": 10140},"model": "shiver:props/vertigo/lift_gate"}
+        {"predicate": {"custom_model_data": 10140},"model": "shiver:props/vertigo/lift_gate"},
+        {"predicate": {"custom_model_data": 10141},"model": "shiver:props/citizenradio"},
+        {"predicate": {"custom_model_data": 10142},"model": "shiver:props/trash4"}
     ]
 }

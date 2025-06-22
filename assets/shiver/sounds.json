@@ -361,6 +361,18 @@
       {"name": "shiver:ambience/default_locked"}
     ]
   },
+  "ambience.radio1": {
+    "category": "master",
+    "sounds": [
+      {"name": "shiver:ambience/radio1"}
+    ]
+  },
+  "ambience.radio2": {
+    "category": "master",
+    "sounds": [
+      {"name": "shiver:ambience/radio1"}
+    ]
+  },
   "ambience.heavy_metal_move1": {
     "category": "master",
     "sounds": [
