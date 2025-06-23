@@ -1,169 +1,169 @@
 {
   "classic_death": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:classic_death"}
     ]
   },
   "tick": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:tick"}
     ]
   },
   "tack": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:tack"}
     ]
   },
   "ui.1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ui/misc1"}
     ]
   },
   "ui.2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ui/misc1"}
     ]
   },
   "ui.cassh": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ui/cash"}
     ]
   },
   "item.heal_gun": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:item/heal_gun"}
     ]
   },
   "item.heal_gun.reload": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:item/medgun_reload"}
     ]
   },
   "item.pills": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:item/pills1"}, {"name": "shiver:item/pills2"}, {"name": "shiver:item/pills3"}
     ]
   },
   "item.med": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:item/med_use"}
     ]
   },
   "item.flashlight": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:item/flashlight"}
     ]
   },
   "zombie.z3": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:zombie/z3"}, {"name": "shiver:zombie/z3_2"}, {"name": "shiver:zombie/z3_3"}
     ]
   },
   "zombie.z3_a": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:zombie/z3_a"}
     ]
   },
   "zombie.z1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:zombie/z1_1"}, {"name": "shiver:zombie/z1_2"}, {"name": "shiver:zombie/z1_3"},
       {"name": "shiver:zombie/z1_4"}, {"name": "shiver:zombie/z1_5"}
     ]
   },
   "zombie.z1d": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:zombie/z1d_1"}, {"name": "shiver:zombie/z1d_2"}
     ]
   },
   "zombie.z2p": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:zombie/z2p1"}, {"name": "shiver:zombie/z2p2"}, {"name": "shiver:zombie/z2p3"}
     ]
   },
   "zombie.z1die": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:zombie/z1die_1"}, {"name": "shiver:zombie/z1die_2"}, {"name": "shiver:zombie/z1die_3"}
     ]
   },
   "zombie.drooler": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:zombie/drooler1"}, {"name": "shiver:zombie/drooler2"}, {"name": "shiver:zombie/drooler3"}
     ]
   },
   "zombie.drooler.drool": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:zombie/drooler"}
     ]
   },
   "zombie.drooler.hurt": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:zombie/drooler_hurt3"}, {"name": "shiver:zombie/drooler_hurt2"}, {"name": "shiver:zombie/drooler_hurt1"}
     ]
   },
   "zombie.tank.alert": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:zombie/tank_alert1"}, {"name": "shiver:zombie/tank_alert2"}, {"name": "shiver:zombie/tank_alert3"}, {"name": "shiver:zombie/tank_alert4"}, {"name": "shiver:zombie/tank_alert5"}
     ]
   },
   "zombie.tank.angry": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:zombie/tank_angry1"}, {"name": "shiver:zombie/tank_angry2"}, {"name": "shiver:zombie/tank_angry3"}
     ]
   },
   "zombie.tank.death": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:zombie/tank_death1"}, {"name": "shiver:zombie/tank_death2"}, {"name": "shiver:zombie/tank_death3"}
     ]
   },
   "zombie.tank.hurt": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:zombie/tank_hurt1"}, {"name": "shiver:zombie/tank_hurt2"}, {"name": "shiver:zombie/tank_hurt3"}
     ]
   },
   "zombie.tank.walk": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:zombie/tank_walk1"}, {"name": "shiver:zombie/tank_walk2"}, {"name": "shiver:zombie/tank_walk3"}
     ]
   },
   "zombie.tank.jump": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:zombie/tank_jump1"}, {"name": "shiver:zombie/tank_jump2"}, {"name": "shiver:zombie/tank_jump3"}
     ]
   },
   "zombie.tank.fall": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:zombie/tank_fall"}
     ]
   },
   "zombie.nest.spawn": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:zombie/nest/nest_spawn1"},
       {"name": "shiver:zombie/nest/nest_spawn2"},
@@ -171,7 +171,7 @@
     ]
   },
   "zombie.nest.ambient": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:zombie/nest/nest1"},
       {"name": "shiver:zombie/nest/nest2"},
@@ -182,289 +182,233 @@
     ]
   },
   "zombie.bogged": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:zombie/bogged1"}, {"name": "shiver:zombie/bogged2"}, {"name": "shiver:zombie/bogged3"}
     ]
   },
   "zombie.jumper.hurt1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:zombie/jumper1"}, {"name": "shiver:zombie/jumper4"}, {"name": "shiver:zombie/jumper5"}
     ]
   },
   "zombie.jumper.hurt2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:zombie/jumper2"}
     ]
   },
   "zombie.jumper.attack": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:zombie/jumper3"}
     ]
   },
-  "music.theme1": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:music/m1"}
-    ]
-  },
-  "music.theme2": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:music/m2"}
-    ]
-  },
-  "music.theme3": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:music/m3"}
-    ]
-  },
-  "music.theme4": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:music/m4"}
-    ]
-  },
-  "music.theme5": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:music/m5"}
-    ]
-  },
-  "music.theme6": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:music/m6"}
-    ]
-  },
-  "music.theme7": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:music/m7"}
-    ]
-  },
-  "music.theme8": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:music/m8"}
-    ]
-  },
-  "music.prepare": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:music/prepare"}
-    ]
-  },
-  "music.win1": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:music/win1"}
-    ]
-  },
-  "ambience.memory": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:ambience/memory"}
-    ]
-  },
-  "ambience.wave1": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:ambience/wave1"}
-    ]
-  },
+
+  "music.theme1": {"sounds": [ {"name": "shiver:music/m1"} ]},
+  "music.theme2": {"sounds": [ {"name": "shiver:music/m2"} ]},
+  "music.theme3": {"sounds": [ {"name": "shiver:music/m3"} ]},
+  "music.theme4": {"sounds": [ {"name": "shiver:music/m4"} ]},
+  "music.theme5": {"sounds": [ {"name": "shiver:music/m5"} ]},
+  "music.theme6": {"sounds": [ {"name": "shiver:music/m6"} ]},
+  "music.theme7": {"sounds": [ {"name": "shiver:music/m7"} ]},
+  "music.theme8": {"sounds": [ {"name": "shiver:music/m8"} ]},
+  "music.prepare": {"sounds": [ {"name": "shiver:music/prepare"} ]},
+  "music.win1": {"sounds": [ {"name": "shiver:music/win1"} ]},
+  "music.vertigo1": {"sounds": [ {"name": "shiver:music/mvertigo", "stream": true} ]},
+  "music.vertigo2": {"sounds": [ {"name": "shiver:music/mvertigo_end"} ]},
+
+  "ambience.memory": {"sounds": [ {"name": "shiver:ambience/memory"} ]},
+  "ambience.wave1": {"sounds": [ {"name": "shiver:ambience/wave1"} ]},
   "ambience.wave2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/wave2"}
     ]
   },
   "ambience.wave3": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/wave3"}
     ]
   },
   "ambience.wave4": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/wave4"}
     ]
   },
   "ambience.wind": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/wind"}
     ]
   },
   "ambience.wind2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/wind2"}
     ]
   },
   "ambience.obval": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/obval"}
     ]
   },
   "ambience.windchime1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/windchime4"}
     ]
   },
   "ambience.windchime2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/windchime5"}
     ]
   },
   "ambience.map1heli": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/map1heli"}
     ]
   },
   "ambience.mic": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/mic"}
     ]
   },
   "ambience.door": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/door"}
     ]
   },
   "ambience.button10": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/button10"}
     ]
   },
   "ambience.button15": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/button15"}
     ]
   },
   "ambience.default_locked": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/default_locked"}
     ]
   },
   "ambience.radio1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/radio1"}
     ]
   },
   "ambience.radio2": {
-    "category": "master",
+
     "sounds": [
-      {"name": "shiver:ambience/radio1"}
+      {"name": "shiver:ambience/radio2"}
     ]
   },
   "ambience.heavy_metal_move1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/heavy_metal_move1"}
     ]
   },
   "ambience.bridge_crack1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/bridge_crack1"}
     ]
   },
   "ambience.bridge_crack2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/bridge_crack2"}
     ]
   },
   "ambience.bridge_crush": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/bridge_crush"}
     ]
   },
   "ambience.generator2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/generator2"}
     ]
   },
   "ambience.tv2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/tv2"}
     ]
   },
   "ambience.doormove1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/doormove1"}
     ]
   },
   "ambience.vent_open3": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/vent_open3"}
     ]
   },
   "ambience.elevator1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/elevator1"}
     ]
   },
   "ambience.elevator2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/elevator2"}
     ]
   },
   "ambience.steam2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/steam2"}
     ]
   },
   "ambience.lever1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/lever1"}
     ]
   },
   "ambience.gate_move1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/gate_move1"}
     ]
   },
   "ambience.saw": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/saw"}
     ]
   },
   "ambience.lever7": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:ambience/lever7"}
     ]
   },
   "ambience.zap": {
-    "category": "master",
+
     "sounds": [
       "shiver:ambience/superphys_small_zap1",
       "shiver:ambience/superphys_small_zap2",
@@ -473,7 +417,7 @@
     ]
   },
   "ambience.grind": {
-    "category": "master",
+
     "sounds": [
       "shiver:ambience/grind2",
       "shiver:ambience/grind3",
@@ -481,135 +425,142 @@
       "shiver:ambience/grind5"
     ]
   },
+  "radio.accept": {"sounds": [ {"name": "shiver:radio/accept"} ]},
+  "radio.ok": {"sounds": [ {"name": "shiver:radio/ok"} ]},
+  "radio.fly1": {"sounds": [ {"name": "shiver:radio/fly1"} ]},
+  "radio.fly2": {"sounds": [ {"name": "shiver:radio/fly2"} ]},
+  "radio.go1": {"sounds": [ {"name": "shiver:radio/go1"} ]},
+  "radio.go2": {"sounds": [ {"name": "shiver:radio/go2"} ]},
+  "radio.go3": {"sounds": [ {"name": "shiver:radio/go3"} ]},
   "box.arsenal": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:box/arsenal"}
     ]
   },
   "box.crafting_table": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:box/work"}
     ]
   },
   "box.break": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:box/boxbreak1"}, {"name": "shiver:box/boxbreak2"}
     ]
   },
   "box.place": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:box/place_box"}
     ]
   },
   "box.place_ct": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:box/crafting_table_place"}
     ]
   },
   "box.fix": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:box/fix1"}, {"name": "shiver:box/fix2"}
     ]
   },
   "wood1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:wood1"}
     ]
   },
   "wood2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:wood2"}
     ]
   },
   "wood": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:wood1"}, {"name": "shiver:wood2"}
     ]
   },
   "metal": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:metal"}
     ]
   },
   "glass": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:glass1"}, {"name": "shiver:glass2"},
       {"name": "shiver:glass3"}, {"name": "shiver:glass4"}
     ]
   },
   "metal_impact": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:metal_impact1"}, {"name": "shiver:metal_impact2"}, {"name": "shiver:metal_impact3"}
     ]
   },
   "barrel_impact": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:barrel_impact1"}, {"name": "shiver:barrel_impact2"}, {"name": "shiver:barrel_impact3"}
     ]
   },
   "barrelimpact": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:barrel_impact1"}, {"name": "shiver:barrel_impact2"}, {"name": "shiver:barrel_impact3"}
     ]
   },
   "woosh": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:woosh"}
     ]
   },
   "death": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:death"}
     ]
   },
   "tap": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:tap"}
     ]
   },
   "weapon.c4": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/c4"}
     ]
   },
   "weapon.c4.place": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/c41"}
     ]
   },
   "weapon.c4.explode": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/explode4"}
     ]
   },
   "weapon.melee.sign": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/sign1"}, {"name": "shiver:weapon/sign2"}, {"name": "shiver:weapon/sign3"}
     ]
   },
   "weapon.melee.real-knife": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/melee_hit/knife_1"},
       {"name": "shiver:weapon/melee_hit/knife_2"},
@@ -617,27 +568,27 @@
     ]
   },
   "weapon.melee.knife": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/melee_hit/knife2"},
       {"name": "shiver:weapon/melee_hit/knife1"}
     ]
   },
   "weapon.melee.stunstick": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/melee_hit/stunstick1"},
       {"name": "shiver:weapon/melee_hit/stunstick2"}
     ]
   },
   "weapon.melee.stunblock": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/melee_hit/stunstick_block"}
     ]
   },
   "weapon.melee.hit": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/melee_hit/1"},
       {"name": "shiver:weapon/melee_hit/2"},
@@ -649,49 +600,49 @@
     ]
   },
   "weapon.melee.hit1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/melee_hit/1"}
     ]
   },
   "weapon.melee.hit2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/melee_hit/2"}
     ]
   },
   "weapon.melee.hit3": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/melee_hit/3"}
     ]
   },
   "weapon.melee.hit4": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/melee_hit/4"}
     ]
   },
   "weapon.melee.hit5": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/melee_hit/5"}
     ]
   },
   "weapon.melee.hit6": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/melee_hit/6"}
     ]
   },
   "weapon.melee.hit7": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/melee_hit/7"}
     ]
   },
   "weapon.melee.head_less": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/melee_hit/headless1"},
       {"name": "shiver:weapon/melee_hit/headless2"},
@@ -699,7 +650,7 @@
     ]
   },
   "weapon.melee.armature": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/melee_hit/armature1"},
       {"name": "shiver:weapon/melee_hit/armature2"},
@@ -708,7 +659,7 @@
     ]
   },
   "weapon.melee.shovel": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/melee_hit/shovel-hit1"},
       {"name": "shiver:weapon/melee_hit/shovel-hit2"},
@@ -717,7 +668,7 @@
     ]
   },
   "weapon.melee.hammer": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/melee_hit/hammer1"},
       {"name": "shiver:weapon/melee_hit/hammer2"},
@@ -726,187 +677,187 @@
     ]
   },
   "weapon.tnt": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/tnt"}
     ]
   },
   "weapon.clip_empty": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/clipempty"}
     ]
   },
   "weapon.gilz": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/gilz1"}
     ]
   },
   "weapon.turret": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/turret"}
     ]
   },
   "weapon.turret.clip": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/turret_clip"}
     ]
   },
   "weapon.turret.on": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/turret_o"}
     ]
   },
   "weapon.turret.off": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/turret_f"}
     ]
   },
   "weapon.turret.move": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/turret_move"}
     ]
   },
   "weapon.turret.damage": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/turret_damage1"}, {"name": "shiver:weapon/turret_damage2"}, {"name": "shiver:weapon/turret_damage3"}
     ]
   },
   "weapon.turret.beep": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/turret_beep"}
     ]
   },
   "weapon.turret.in": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/turret_in"}
     ]
   },
   "weapon.bolter": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/bolter"}
     ]
   },
   "weapon.ak47": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/ak47"}
     ]
   },
   "weapon.ak47.reload": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/ak47_reload"}
     ]
   },
   "weapon.spas12": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/spas12"}
     ]
   },
   "weapon.spas12.cock": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/cock"}
     ]
   },
   "weapon.spas12.gilz_reload": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/gilz_reload"}
     ]
   },
   "weapon.spas12.away": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/spas12_away"}
     ]
   },
   "weapon.pistol": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/pistol"}
     ]
   },
   "weapon.pistol.reload": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/pistol_reload"}
     ]
   },
   "weapon.pistol.away": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/pistol_away"}
     ]
   },
   "weapon.smg": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/smg"}
     ]
   },
   "weapon.smg.reload": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/smg_reload"}
     ]
   },
   "weapon.grenadelauncher": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/grenade_launcher"}
     ]
   },
   "weapon.grenadelauncher2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/grenade_launcher2"}
     ]
   },
   "weapon.grenadelauncher.reload": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/grenade_launcher_reload"}
     ]
   },
   "weapon.magnum": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/magnum"}
     ]
   },
   "weapon.sniperrifle": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/sniper_rifle"}
     ]
   },
   "weapon.sniper.zoom": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/sniper_zoom"}
     ]
   },
   "weapon.magnum.reload": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/magnum_reload"}
     ]
   },
   "weapon.ric": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/ric/ric1"},
       {"name": "shiver:weapon/ric/ric2"},
@@ -916,7 +867,7 @@
     ]
   },
   "weapon.bullet.flesh": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/bullet/fb1"},
       {"name": "shiver:weapon/bullet/fb2"},
@@ -926,139 +877,139 @@
     ]
   },
   "weapon.swing": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/swing"}
     ]
   },
   "weapon.blade": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:weapon/blade1"}, {"name": "shiver:weapon/blade2"}, {"name": "shiver:weapon/blade3"}
     ]
   },
   "beats.scary.1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:mood/scary/1"}
     ]
   },
   "beats.scary.2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:mood/scary/2"}
     ]
   },
   "beats.scary.3": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:mood/scary/3"}
     ]
   },
   "beats.scary.4": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:mood/scary/4"}
     ]
   },
   "beats.scary.5": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:mood/scary/5"}
     ]
   },
   "beats.scary.6": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:mood/scary/6"}
     ]
   },
   "beats.scary.7": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:mood/scary/7"}
     ]
   },
   "beats.scary.8": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:mood/scary/8"}
     ]
   },
   "beats.scary.9": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:mood/scary/9"}
     ]
   },
   "beats.scary.10": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:mood/scary/9"}
     ]
   },
   "beats.drive.1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:mood/beats/1"}
     ]
   },
   "beats.drive.2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:mood/beats/2"}
     ]
   },
   "beats.drive.3": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:mood/beats/3"}
     ]
   },
   "beats.drive.4": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:mood/beats/4"}
     ]
   },
   "beats.drive.5": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:mood/beats/5"}
     ]
   },
   "beats.drive.6": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:mood/beats/6"}
     ]
   },
   "beats.drive.7": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:mood/beats/7"}
     ]
   },
   "beats.drive.8": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:mood/beats/8"}
     ]
   },
   "beats.drive.9": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:mood/beats/9"}
     ]
   },
   "beats.drive.10": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:mood/beats/10"}
     ]
   },
   "hit.flesh": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:pain/flesh_hit1"},
       {"name": "shiver:pain/flesh_hit2"},
@@ -1066,13 +1017,13 @@
     ]
   },
   "hit.head_less": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:pain/blood"}
     ]
   },
   "hit.flesh_impact": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:pain/flesh/body_medium_impact_hard1"},
       {"name": "shiver:pain/flesh/body_medium_impact_hard2"},
@@ -1083,37 +1034,37 @@
     ]
   },
   "person.colton.hurt1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/colton/pain1"}
     ]
   },
   "person.colton.hurt2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/colton/pain2"}
     ]
   },
   "person.colton.hurt3": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/colton/pain3"}
     ]
   },
   "person.colton.hurt4": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/colton/pain4"}
     ]
   },
   "person.colton.hurt5": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/colton/pain5"}
     ]
   },
   "person.colton.hurt6": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/colton/pain6"}
     ]
@@ -1134,333 +1085,226 @@
     "sounds": []
   },
   "person.colton.death1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/colton/death1"}
     ]
   },
   "person.colton.death2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/colton/death2"}
     ]
   },
   "person.colton.cough1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/colton/cough1"}
     ]
   },
   "person.colton.cough2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/colton/cough2"}
     ]
   },
   "person.colton.cough3": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/colton/cough3"}
     ]
   },
   "person.bill.hurt1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/hurt1"}
     ]
   },
   "person.bill.hurt2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/hurt2"}
     ]
   },
   "person.bill.hurt3": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/hurt3"}
     ]
   },
   "person.bill.hurt4": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/hurt3"}
     ]
   },
   "person.bill.hurt5": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/hurt4"}
     ]
   },
   "person.bill.hurt6": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/hurt5"}
     ]
   },
   "person.bill.thanks1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/thanks1"}
     ]
   },
   "person.bill.thanks2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/thanks2"}
     ]
   },
   "person.bill.thanks3": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/thanks3"}
     ]
   },
   "person.bill.thanks4": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/thanks4"}
     ]
   },
   "person.bill.thanks5": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/thanks5"}
     ]
   },
   "person.bill.death1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/death"}
     ]
   },
   "person.bill.death2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/death"}
     ]
   },
   "person.bill.cough1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/cough1"}
     ]
   },
   "person.bill.cough2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/cough2"}
     ]
   },
   "person.bill.cough3": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/cough3"}
     ]
   },
   "person.bill.disease1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/disease1"}
     ]
   },
   "person.bill.disease2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/disease2"}
     ]
   },
   "person.bill.disease3": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/disease3"}
     ]
   },
   "person.bill.disease4": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/disease4"}
     ]
   },
   "person.bill.disease5": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/disease5"}
     ]
   },
   "person.bill.help1": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/help1"}
     ]
   },
   "person.bill.help2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/help2"}
     ]
   },
   "person.bill.help3": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:person/bill/help3"}
     ]
   },
-  "person.coach.hurt1": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:person/coach/pain1"}
-    ]
-  },
-  "person.coach.hurt2": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:person/coach/pain2"}
-    ]
-  },
-  "person.coach.hurt3": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:person/coach/pain3"}
-    ]
-  },
-  "person.coach.hurt4": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:person/coach/pain4"}
-    ]
-  },
-  "person.coach.hurt5": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:person/coach/pain5"}
-    ]
-  },
-  "person.coach.hurt6": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:person/coach/pain6"}
-    ]
-  },
-  "person.coach.thanks1": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:person/coach/thanks1"}
-    ]
-  },
-  "person.coach.thanks2": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:person/coach/thanks2"}
-    ]
-  },
-  "person.coach.thanks3": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:person/coach/thanks3"}
-    ]
-  },
-  "person.coach.thanks4": {
-    "category": "master",
-    "sounds": []
-  },
-  "person.coach.thanks5": {
-    "category": "master",
-    "sounds": []
-  },
-  "person.coach.death1": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:person/coach/death1"}
-    ]
-  },
-  "person.coach.death2": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:person/coach/death2"}
-    ]
-  },
-  "person.coach.cough1": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:person/coach/cough1"}
-    ]
-  },
-  "person.coach.cough2": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:person/coach/cough2"}
-    ]
-  },
-  "person.coach.cough3": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:person/coach/cough3"}
-    ]
-  },
-  "person.coach.disease1": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:person/coach/disease1"}
-    ]
-  },
-  "person.coach.disease2": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:person/coach/disease2"}
-    ]
-  },
-  "person.coach.disease3": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:person/coach/disease3"}
-    ]
-  },
-  "person.coach.disease4": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:person/coach/disease4"}
-    ]
-  },
-  "person.coach.disease5": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:person/coach/disease5"}
-    ]
-  },
-  "person.coach.help1": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:person/coach/help1"}
-    ]
-  },
-  "person.coach.help2": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:person/coach/help2"}
-    ]
-  },
-  "person.coach.help3": {
-    "category": "master",
-    "sounds": [
-      {"name": "shiver:person/coach/help3"}
-    ]
-  },
+  "person.bill.give1": {"sounds": [ {"name": "shiver:person/bill/give1"} ]},
+  "person.bill.give2": {"sounds": [ {"name": "shiver:person/bill/give2"} ]},
+  "person.bill.give3": {"sounds": [ {"name": "shiver:person/bill/give3"} ]},
+  "person.bill.give4": {"sounds": [ {"name": "shiver:person/bill/give4"} ]},
+
+  "person.coach.hurt1": {"sounds": [ {"name": "shiver:person/coach/pain1"} ]},
+  "person.coach.hurt2": {"sounds": [ {"name": "shiver:person/coach/pain2"} ]},
+  "person.coach.hurt3": {"sounds": [ {"name": "shiver:person/coach/pain3"} ]},
+  "person.coach.hurt4": { "sounds": [ {"name": "shiver:person/coach/pain4"} ]},
+  "person.coach.hurt5": {"sounds": [ {"name": "shiver:person/coach/pain5"}] },
+  "person.coach.hurt6": {"sounds": [ {"name": "shiver:person/coach/pain6"} ]},
+  "person.coach.thanks1": {"sounds": [ {"name": "shiver:person/coach/thanks1"} ]},
+  "person.coach.thanks2": {"sounds": [ {"name": "shiver:person/coach/thanks2"} ]},
+  "person.coach.thanks3": {"sounds": [ {"name": "shiver:person/coach/thanks3"} ]},
+  "person.coach.thanks4": {"sounds": []},
+  "person.coach.thanks5": {"sounds": []},
+  "person.coach.death1": {"sounds": [ {"name": "shiver:person/coach/death1"} ]},
+  "person.coach.death2": {"sounds": [ {"name": "shiver:person/coach/death2"} ]},
+  "person.coach.cough1": {"sounds": [ {"name": "shiver:person/coach/cough1"} ]},
+  "person.coach.cough2": {"sounds": [ {"name": "shiver:person/coach/cough2"} ]},
+  "person.coach.cough3": {"sounds": [ {"name": "shiver:person/coach/cough3"} ]},
+  "person.coach.disease1": {"sounds": [ {"name": "shiver:person/coach/disease1"} ]},
+  "person.coach.disease2": {"sounds": [ {"name": "shiver:person/coach/disease2"} ]},
+  "person.coach.disease3": {"sounds": [ {"name": "shiver:person/coach/disease3"} ]},
+  "person.coach.disease4": {"sounds": [ {"name": "shiver:person/coach/disease4"} ]},
+  "person.coach.disease5": {"sounds": [ {"name": "shiver:person/coach/disease5"} ]},
+  "person.coach.help1": {"sounds": [ {"name": "shiver:person/coach/help1"} ]},
+  "person.coach.help2": {"sounds": [ {"name": "shiver:person/coach/help2"} ]},
+  "person.coach.help3": {"sounds": [ {"name": "shiver:person/coach/help3"} ]},
+  "person.coach.give1": {"sounds": [ {"name": "shiver:person/coach/give1"} ]},
+  "person.coach.give2": {"sounds": [ {"name": "shiver:person/coach/give2"} ]},
+  "person.coach.give3": {"sounds": [ {"name": "shiver:person/coach/give3"} ]},
+  "person.coach.give4": {"sounds": [ {"name": "shiver:person/coach/give4"} ]},
+
   "scream1": {
-    "category": "master",
     "sounds": [
       {"name": "shiver:screamer/scream1"}
     ]
   },
   "scream2": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:screamer/scream2"}
     ]
   },
   "scream3": {
-    "category": "master",
+
     "sounds": [
       {"name": "shiver:screamer/scream3"}
     ]
