@@ -46,6 +46,13 @@
         }
       },
       {
+        "threshold": 15,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/ammo6"
+        }
+      },
+      {
         "threshold": 30,
         "model": {
           "type": "model",

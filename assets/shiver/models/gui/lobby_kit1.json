@@ -1,13 +1,14 @@
 {
+	"format_version": "1.21.6",
 	"credit": "by 2M3V",
 	"textures": {
-		"0": "shiver:item/gui/lobby_kit1",
-		"particle": "shiver:item/gui/lobby_kit1"
+		"0": "shiver:item/gui/lobby_kit",
+		"particle": "shiver:item/gui/lobby_kit"
 	},
 	"elements": [
 		{
 			"from": [0, 0, 8],
-			"to": [16, 16, 8],
+			"to": [32, 16, 8],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 6]},
 			"faces": {
 				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
@@ -19,5 +20,9 @@
 		}
 	],
 	"gui_light": "front",
-	"display": {}
+	"display": {
+		"gui": {
+			"translation": [18, 0, 0]
+		}
+	}
 }

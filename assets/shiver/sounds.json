@@ -432,6 +432,7 @@
   "radio.go1": {"sounds": [ {"name": "shiver:radio/go1"} ]},
   "radio.go2": {"sounds": [ {"name": "shiver:radio/go2"} ]},
   "radio.go3": {"sounds": [ {"name": "shiver:radio/go3"} ]},
+  "radio.light_house_lore": {"sounds": [ {"name": "shiver:radio/light_house_lore"} ]},
   "box.arsenal": {
 
     "sounds": [
@@ -838,18 +839,10 @@
       {"name": "shiver:weapon/magnum"}
     ]
   },
-  "weapon.sniperrifle": {
-
-    "sounds": [
-      {"name": "shiver:weapon/sniper_rifle"}
-    ]
-  },
-  "weapon.sniper.zoom": {
-
-    "sounds": [
-      {"name": "shiver:weapon/sniper_zoom"}
-    ]
-  },
+  "weapon.sniperrifle": {"sounds": [ {"name": "shiver:weapon/sniper_rifle"} ]},
+  "weapon.sniper.reload": {"sounds": [ {"name": "shiver:weapon/sniper_reload"} ]},
+  "weapon.sniper.zoom": {"sounds": [ {"name": "shiver:weapon/sniper_zoom"} ] },
+  "weapon.explode": {"sounds": [ {"name": "shiver:weapon/explode1"}, {"name": "shiver:weapon/explode2"},{"name": "shiver:weapon/explode3"} ] },
   "weapon.magnum.reload": {
 
     "sounds": [

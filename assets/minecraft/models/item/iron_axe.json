@@ -8,6 +8,7 @@
         {"predicate": {"custom_model_data": 501},"model": "shiver:weapons/stunstick"},
         {"predicate": {"custom_model_data": 502},"model": "shiver:weapons/shovel"},
         {"predicate": {"custom_model_data": 503},"model": "shiver:weapons/molot"},
-        {"predicate": {"custom_model_data": 504},"model": "shiver:weapons/pickaxe"}
+        {"predicate": {"custom_model_data": 504},"model": "shiver:weapons/pickaxe"},
+        {"predicate": {"custom_model_data": 505},"model": "shiver:weapons/e_molot"}
     ]
 }

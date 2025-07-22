@@ -48,6 +48,7 @@
             },
             "model": "item/shield_blocking"
         },
-        {"predicate": {"custom_model_data": 1},"model": "shiver:door1"}
+        {"predicate": {"custom_model_data": 1},"model": "shiver:door1"},
+        {"predicate": {"custom_model_data": 2},"model": "shiver:police_shield"}
     ]
 }

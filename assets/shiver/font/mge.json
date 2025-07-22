@@ -80,6 +80,33 @@
             "chars": [
                 "8"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/mge/komar.png",
+            "ascent": 4,
+            "height": 64,
+            "chars": [
+                "9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/mge/scary_komar.png",
+            "ascent": 4,
+            "height": 64,
+            "chars": [
+                "a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/mge/leave.png",
+            "ascent": 4,
+            "height": 64,
+            "chars": [
+                "b"
+            ]
         }
     ]
 }

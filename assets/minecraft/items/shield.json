@@ -9,6 +9,13 @@
           "type": "model",
           "model": "shiver:door1"
         }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "model",
+          "model": "shiver:police_shield"
+        }
       }
     ],
     "fallback": {

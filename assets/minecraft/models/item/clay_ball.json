@@ -10,6 +10,7 @@
         {"predicate": {"custom_model_data": 12},"model": "shiver:weapons/ammo3"},
         {"predicate": {"custom_model_data": 13},"model": "shiver:weapons/ammo4"},
         {"predicate": {"custom_model_data": 14},"model": "shiver:weapons/ammo5"},
+        {"predicate": {"custom_model_data": 15},"model": "shiver:weapons/ammo6"},
         {"predicate": {"custom_model_data": 30},"model": "shiver:weapons/9mm_gilz"},
         {"predicate": {"custom_model_data": 31},"model": "shiver:weapons/buckshot_gilz"},
         {"predicate": {"custom_model_data": 32},"model": "shiver:weapons/7x36mm_gilz"},

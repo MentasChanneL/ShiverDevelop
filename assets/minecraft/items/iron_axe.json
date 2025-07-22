@@ -37,6 +37,13 @@
           "type": "model",
           "model": "shiver:weapons/pickaxe"
         }
+      },
+      {
+        "threshold": 505,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/e_molot"
+        }
       }
     ],
     "fallback": {
