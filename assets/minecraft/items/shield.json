@@ -36,6 +36,23 @@
             }
           ]
         }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/door1x2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
       }
     ],
     "fallback": {
