@@ -6,52 +6,160 @@
       {
         "threshold": 1,
         "model": {
-          "type": "model",
-          "model": "shiver:door1",
-          "tints": [
-            {
-              "type": "minecraft:dye",
-              "default": [
-                1,
-                1,
-                1
-              ]
-            }
-          ]
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "entries": [
+              {
+                "threshold": 1,
+                "model": {
+                  "type": "model",
+                  "model": "shiver:door1",
+                  "tints": [
+                    {
+                      "type": "minecraft:dye",
+                      "default": [
+                        1,
+                        1,
+                        1
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "entries": [
+              {
+                "threshold": 1,
+                "model": {
+                  "type": "model",
+                  "model": "shiver:door1_use",
+                  "tints": [
+                    {
+                      "type": "minecraft:dye",
+                      "default": [
+                        1,
+                        1,
+                        1
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "property": "minecraft:using_item"
         }
       },
       {
         "threshold": 2,
         "model": {
-          "type": "model",
-          "model": "shiver:police_shield",
-          "tints": [
-            {
-              "type": "minecraft:dye",
-              "default": [
-                1,
-                1,
-                1
-              ]
-            }
-          ]
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "entries": [
+              {
+                "threshold": 2,
+                "model": {
+                  "type": "model",
+                  "model": "shiver:police_shield",
+                  "tints": [
+                    {
+                      "type": "minecraft:dye",
+                      "default": [
+                        1,
+                        1,
+                        1
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "entries": [
+              {
+                "threshold": 2,
+                "model": {
+                  "type": "model",
+                  "model": "shiver:police_shield_use",
+                  "tints": [
+                    {
+                      "type": "minecraft:dye",
+                      "default": [
+                        1,
+                        1,
+                        1
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "property": "minecraft:using_item"
         }
       },
       {
         "threshold": 3,
         "model": {
-          "type": "model",
-          "model": "shiver:props/door1x2",
-          "tints": [
-            {
-              "type": "minecraft:dye",
-              "default": [
-                1,
-                1,
-                1
-              ]
-            }
-          ]
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "entries": [
+              {
+                "threshold": 3,
+                "model": {
+                  "type": "model",
+                  "model": "shiver:props/door1x2",
+                  "tints": [
+                    {
+                      "type": "minecraft:dye",
+                      "default": [
+                        1,
+                        1,
+                        1
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "entries": [
+              {
+                "threshold": 3,
+                "model": {
+                  "type": "model",
+                  "model": "shiver:props/door1x2_use",
+                  "tints": [
+                    {
+                      "type": "minecraft:dye",
+                      "default": [
+                        1,
+                        1,
+                        1
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "property": "minecraft:using_item"
         }
       }
     ],

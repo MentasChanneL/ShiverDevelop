@@ -1,0 +1,37 @@
+{
+	"parent": "shiver:props/door1x2",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 120, 0],
+			"translation": [4.5, -10, 6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -60, 0],
+			"translation": [5.5, -10.25, 6.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [7, -180, -15],
+			"translation": [-2.25, -4.75, 2.25],
+			"scale": [0.58, 0.58, 0.58]
+		},
+		"firstperson_lefthand": {
+			"rotation": [7, 4, 14],
+			"translation": [-1.5, -5, 2],
+			"scale": [0.62, 0.58, 0.58]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 1.5, -8.25]
+		},
+		"gui": {
+			"rotation": [20, 135, 0],
+			"translation": [0, -4.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16],
+			"scale": [2, 2, 2]
+		}
+	}
+}
