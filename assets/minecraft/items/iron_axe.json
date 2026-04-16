@@ -7,42 +7,102 @@
         "threshold": 500,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/hammer"
+          "model": "shiver:weapons/hammer",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 501,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/stunstick"
+          "model": "shiver:weapons/stunstick",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 502,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/shovel"
+          "model": "shiver:weapons/shovel",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 503,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/molot"
+          "model": "shiver:weapons/molot",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 504,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/pickaxe"
+          "model": "shiver:weapons/pickaxe",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 505,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/e_molot"
+          "model": "shiver:weapons/e_molot",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       }
     ],
@@ -50,5 +110,6 @@
       "type": "model",
       "model": "item/iron_axe"
     }
-  }
+  },
+  "oversized_in_gui": true
 }

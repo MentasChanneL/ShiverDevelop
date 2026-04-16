@@ -15,17 +15,9 @@ for x in p.rglob("*"):
               "type": "model",
               "model": f"item/{os.path.basename(f"{x}")[:-5]}"
             }
-          }
+          },
+          "oversized_in_gui": True
         }
-        #            "entries": [
-        #      {
-        #        "threshold": 1,
-        #        "model": {
-        #          "type": "model",
-        #          "model": "zencraft:item/collection/betav3/pickaxe"
-        #        }
-        #      }
-        #    ],
         data = {}
         with open(f"{x}", "r") as file:
             data = json.load(file)
@@ -39,8 +31,14 @@ for x in p.rglob("*"):
                 entry = {
                     "threshold": predicate["predicate"]["custom_model_data"],
                     "model": {
-                      "type": "model",
-                      "model": predicate["model"]
+                        "type": "model",
+                        "model": predicate["model"],
+                        "tints": [
+                        {
+                          "type": "minecraft:dye",
+                          "default": [1, 1, 1]
+                        }
+                        ]
                     }
                 }
                 new_data["model"]["entries"].append(entry)

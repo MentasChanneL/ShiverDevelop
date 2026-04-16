@@ -7,14 +7,34 @@
         "threshold": 1,
         "model": {
           "type": "model",
-          "model": "shiver:door1"
+          "model": "shiver:door1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 2,
         "model": {
           "type": "model",
-          "model": "shiver:police_shield"
+          "model": "shiver:police_shield",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       }
     ],
@@ -22,5 +42,6 @@
       "type": "model",
       "model": "item/shield"
     }
-  }
+  },
+  "oversized_in_gui": true
 }

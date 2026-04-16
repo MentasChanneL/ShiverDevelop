@@ -7,168 +7,408 @@
         "threshold": 1,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle"
+          "model": "shiver:weapons/sniper_rifle",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 2,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/1"
+          "model": "shiver:weapons/sniper_rifle/1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 3,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/2"
+          "model": "shiver:weapons/sniper_rifle/2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 4,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/3"
+          "model": "shiver:weapons/sniper_rifle/3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 5,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/4"
+          "model": "shiver:weapons/sniper_rifle/4",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 6,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/5"
+          "model": "shiver:weapons/sniper_rifle/5",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 7,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/6"
+          "model": "shiver:weapons/sniper_rifle/6",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 10,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/reload/1"
+          "model": "shiver:weapons/sniper_rifle/reload/1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 11,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/reload/2"
+          "model": "shiver:weapons/sniper_rifle/reload/2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 12,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/reload/3"
+          "model": "shiver:weapons/sniper_rifle/reload/3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 13,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/reload/4"
+          "model": "shiver:weapons/sniper_rifle/reload/4",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 14,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/reload/6"
+          "model": "shiver:weapons/sniper_rifle/reload/6",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 15,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/reload/7"
+          "model": "shiver:weapons/sniper_rifle/reload/7",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 16,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/reload/8"
+          "model": "shiver:weapons/sniper_rifle/reload/8",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 17,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/reload/9"
+          "model": "shiver:weapons/sniper_rifle/reload/9",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 18,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/reload/10"
+          "model": "shiver:weapons/sniper_rifle/reload/10",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 35,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/reload/11"
+          "model": "shiver:weapons/sniper_rifle/reload/11",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 36,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/reload/12"
+          "model": "shiver:weapons/sniper_rifle/reload/12",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 37,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/reload/13"
+          "model": "shiver:weapons/sniper_rifle/reload/13",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 38,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/reload/14"
+          "model": "shiver:weapons/sniper_rifle/reload/14",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 39,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/reload/15"
+          "model": "shiver:weapons/sniper_rifle/reload/15",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 40,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/reload/16"
+          "model": "shiver:weapons/sniper_rifle/reload/16",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 41,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/reload/17"
+          "model": "shiver:weapons/sniper_rifle/reload/17",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 42,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sniper_rifle/reload/18"
+          "model": "shiver:weapons/sniper_rifle/reload/18",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       }
     ],
@@ -176,5 +416,6 @@
       "type": "model",
       "model": "item/spyglass_in_hand"
     }
-  }
+  },
+  "oversized_in_gui": true
 }

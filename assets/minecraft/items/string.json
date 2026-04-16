@@ -7,70 +7,170 @@
         "threshold": 1,
         "model": {
           "type": "model",
-          "model": "shiver:blockstates/leaves1"
+          "model": "shiver:blockstates/leaves1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 2,
         "model": {
           "type": "model",
-          "model": "shiver:blockstates/leaves2"
+          "model": "shiver:blockstates/leaves2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 3,
         "model": {
           "type": "model",
-          "model": "shiver:blockstates/leaves3"
+          "model": "shiver:blockstates/leaves3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 4,
         "model": {
           "type": "model",
-          "model": "shiver:blockstates/spruce_mine_fence"
+          "model": "shiver:blockstates/spruce_mine_fence",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 5,
         "model": {
           "type": "model",
-          "model": "shiver:blockstates/rail"
+          "model": "shiver:blockstates/rail",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 6,
         "model": {
           "type": "model",
-          "model": "shiver:blockstates/rail_rotate"
+          "model": "shiver:blockstates/rail_rotate",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 7,
         "model": {
           "type": "model",
-          "model": "shiver:blockstates/rail_up"
+          "model": "shiver:blockstates/rail_up",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 8,
         "model": {
           "type": "model",
-          "model": "shiver:blockstates/rail_oneblock"
+          "model": "shiver:blockstates/rail_oneblock",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 9,
         "model": {
           "type": "model",
-          "model": "shiver:blockstates/strelka"
+          "model": "shiver:blockstates/strelka",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 10,
         "model": {
           "type": "model",
-          "model": "shiver:blockstates/door"
+          "model": "shiver:blockstates/door",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       }
     ],
@@ -78,5 +178,6 @@
       "type": "model",
       "model": "item/string"
     }
-  }
+  },
+  "oversized_in_gui": true
 }

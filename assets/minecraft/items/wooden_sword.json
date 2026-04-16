@@ -7,42 +7,102 @@
         "threshold": 1,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/dubina"
+          "model": "shiver:weapons/dubina",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 2,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/knife"
+          "model": "shiver:weapons/knife",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 3,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/armature"
+          "model": "shiver:weapons/armature",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 4,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/sign"
+          "model": "shiver:weapons/sign",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 5,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/machete"
+          "model": "shiver:weapons/machete",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 6,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/police_stick"
+          "model": "shiver:weapons/police_stick",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       }
     ],
@@ -50,5 +110,6 @@
       "type": "model",
       "model": "item/wooden_sword"
     }
-  }
+  },
+  "oversized_in_gui": true
 }

@@ -148,5 +148,31 @@
 			"translation": [0, 0, -1],
 			"scale": [2, 2, 2]
 		}
-	}
+	},
+    "overrides": [
+        {"predicate": {"custom_model_data": 1},"model": "shiver:weapons/sniper_rifle"},
+        {"predicate": {"custom_model_data": 2},"model": "shiver:weapons/sniper_rifle/1"},
+        {"predicate": {"custom_model_data": 3},"model": "shiver:weapons/sniper_rifle/2"},
+        {"predicate": {"custom_model_data": 4},"model": "shiver:weapons/sniper_rifle/3"},
+        {"predicate": {"custom_model_data": 5},"model": "shiver:weapons/sniper_rifle/4"},
+        {"predicate": {"custom_model_data": 6},"model": "shiver:weapons/sniper_rifle/5"},
+        {"predicate": {"custom_model_data": 7},"model": "shiver:weapons/sniper_rifle/6"},
+        {"predicate": {"custom_model_data": 10},"model": "shiver:weapons/sniper_rifle/reload/1"},
+        {"predicate": {"custom_model_data": 11},"model": "shiver:weapons/sniper_rifle/reload/2"},
+        {"predicate": {"custom_model_data": 12},"model": "shiver:weapons/sniper_rifle/reload/3"},
+        {"predicate": {"custom_model_data": 13},"model": "shiver:weapons/sniper_rifle/reload/4"},
+        {"predicate": {"custom_model_data": 14},"model": "shiver:weapons/sniper_rifle/reload/6"},
+        {"predicate": {"custom_model_data": 15},"model": "shiver:weapons/sniper_rifle/reload/7"},
+        {"predicate": {"custom_model_data": 16},"model": "shiver:weapons/sniper_rifle/reload/8"},
+        {"predicate": {"custom_model_data": 17},"model": "shiver:weapons/sniper_rifle/reload/9"},
+        {"predicate": {"custom_model_data": 18},"model": "shiver:weapons/sniper_rifle/reload/10"},
+        {"predicate": {"custom_model_data": 35},"model": "shiver:weapons/sniper_rifle/reload/11"},
+        {"predicate": {"custom_model_data": 36},"model": "shiver:weapons/sniper_rifle/reload/12"},
+        {"predicate": {"custom_model_data": 37},"model": "shiver:weapons/sniper_rifle/reload/13"},
+        {"predicate": {"custom_model_data": 38},"model": "shiver:weapons/sniper_rifle/reload/14"},
+        {"predicate": {"custom_model_data": 39},"model": "shiver:weapons/sniper_rifle/reload/15"},
+        {"predicate": {"custom_model_data": 40},"model": "shiver:weapons/sniper_rifle/reload/16"},
+        {"predicate": {"custom_model_data": 41},"model": "shiver:weapons/sniper_rifle/reload/17"},
+        {"predicate": {"custom_model_data": 42},"model": "shiver:weapons/sniper_rifle/reload/18"}
+    ]
 }

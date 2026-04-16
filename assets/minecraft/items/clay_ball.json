@@ -7,1498 +7,3638 @@
         "threshold": 1,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/trace"
+          "model": "shiver:weapons/trace",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 10,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/ammo1"
+          "model": "shiver:weapons/ammo1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 11,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/ammo2"
+          "model": "shiver:weapons/ammo2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 12,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/ammo3"
+          "model": "shiver:weapons/ammo3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 13,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/ammo4"
+          "model": "shiver:weapons/ammo4",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 14,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/ammo5"
+          "model": "shiver:weapons/ammo5",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 15,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/ammo6"
+          "model": "shiver:weapons/ammo6",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 30,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/9mm_gilz"
+          "model": "shiver:weapons/9mm_gilz",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 31,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/buckshot_gilz"
+          "model": "shiver:weapons/buckshot_gilz",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 32,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/7x36mm_gilz"
+          "model": "shiver:weapons/7x36mm_gilz",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 33,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/core"
+          "model": "shiver:weapons/core",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 50,
         "model": {
           "type": "model",
-          "model": "shiver:rock"
+          "model": "shiver:rock",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 51,
         "model": {
           "type": "model",
-          "model": "shiver:detal"
+          "model": "shiver:detal",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 52,
         "model": {
           "type": "model",
-          "model": "shiver:toolbox"
+          "model": "shiver:toolbox",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 53,
         "model": {
           "type": "model",
-          "model": "shiver:boxes/plank"
+          "model": "shiver:boxes/plank",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 54,
         "model": {
           "type": "model",
-          "model": "shiver:iron"
+          "model": "shiver:iron",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 55,
         "model": {
           "type": "model",
-          "model": "shiver:pills"
+          "model": "shiver:pills",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 56,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/c4"
+          "model": "shiver:weapons/c4",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 57,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/c4p"
+          "model": "shiver:weapons/c4p",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 58,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/turret/head"
+          "model": "shiver:weapons/turret/head",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 59,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/turret/body"
+          "model": "shiver:weapons/turret/body",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 60,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/turret/sentry"
+          "model": "shiver:weapons/turret/sentry",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 61,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/turret/laser"
+          "model": "shiver:weapons/turret/laser",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 62,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/turret/fire1"
+          "model": "shiver:weapons/turret/fire1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 63,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/turret/fire2"
+          "model": "shiver:weapons/turret/fire2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 64,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/turret/head_b"
+          "model": "shiver:weapons/turret/head_b",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 65,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/c4a"
+          "model": "shiver:weapons/c4a",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 66,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/turret/body_1"
+          "model": "shiver:weapons/turret/body_1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 67,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/turret/body_2"
+          "model": "shiver:weapons/turret/body_2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 68,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/turret/body_3"
+          "model": "shiver:weapons/turret/body_3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 69,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/turret/body_4"
+          "model": "shiver:weapons/turret/body_4",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 70,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/turret/body_5"
+          "model": "shiver:weapons/turret/body_5",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 71,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/turret/body_6"
+          "model": "shiver:weapons/turret/body_6",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 72,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/turret/limb1"
+          "model": "shiver:weapons/turret/limb1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 73,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/turret/limb2"
+          "model": "shiver:weapons/turret/limb2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 74,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/turret/limb3"
+          "model": "shiver:weapons/turret/limb3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 75,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/turret/limb4"
+          "model": "shiver:weapons/turret/limb4",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 76,
         "model": {
           "type": "model",
-          "model": "shiver:boxes/planks"
+          "model": "shiver:boxes/planks",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 77,
         "model": {
           "type": "model",
-          "model": "shiver:doctor_kit"
+          "model": "shiver:doctor_kit",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 78,
         "model": {
           "type": "model",
-          "model": "shiver:tools_kit"
+          "model": "shiver:tools_kit",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 79,
         "model": {
           "type": "model",
-          "model": "shiver:bandage"
+          "model": "shiver:bandage",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 80,
         "model": {
           "type": "model",
-          "model": "shiver:med_capsule"
+          "model": "shiver:med_capsule",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 81,
         "model": {
           "type": "model",
-          "model": "shiver:antidot"
+          "model": "shiver:antidot",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 82,
         "model": {
           "type": "model",
-          "model": "shiver:metal_list"
+          "model": "shiver:metal_list",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 83,
         "model": {
           "type": "model",
-          "model": "shiver:beacon"
+          "model": "shiver:beacon",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 84,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/tnt2"
+          "model": "shiver:weapons/tnt2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 85,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/saw"
+          "model": "shiver:weapons/saw",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 100,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/default/head1"
+          "model": "shiver:zombies/default/head1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 101,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/default/head2"
+          "model": "shiver:zombies/default/head2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 102,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/default/head3"
+          "model": "shiver:zombies/default/head3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 103,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/default/head4"
+          "model": "shiver:zombies/default/head4",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 104,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/default/head5"
+          "model": "shiver:zombies/default/head5",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 105,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/default/head6"
+          "model": "shiver:zombies/default/head6",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 110,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/default/arm"
+          "model": "shiver:zombies/default/arm",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 111,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/default/leg"
+          "model": "shiver:zombies/default/leg",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 112,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/default/body"
+          "model": "shiver:zombies/default/body",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 115,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/meat"
+          "model": "shiver:zombies/meat",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 116,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/migrator/migrator_head"
+          "model": "shiver:zombies/migrator/migrator_head",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 117,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/migrator/migrator_head2"
+          "model": "shiver:zombies/migrator/migrator_head2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 118,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/migrator/migrator_arm"
+          "model": "shiver:zombies/migrator/migrator_arm",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 119,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/fly"
+          "model": "shiver:zombies/fly",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 120,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/fly2"
+          "model": "shiver:zombies/fly2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 121,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/nest"
+          "model": "shiver:zombies/nest",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 122,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/nest2"
+          "model": "shiver:zombies/nest2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 123,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/fast/fast_head"
+          "model": "shiver:zombies/fast/fast_head",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 124,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/fast/fast_head2"
+          "model": "shiver:zombies/fast/fast_head2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 125,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/fast/fast_head3"
+          "model": "shiver:zombies/fast/fast_head3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 126,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/fast/fast_arm"
+          "model": "shiver:zombies/fast/fast_arm",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 127,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/fast/arm"
+          "model": "shiver:zombies/fast/arm",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 128,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/fast/leg"
+          "model": "shiver:zombies/fast/leg",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 129,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/fast/body"
+          "model": "shiver:zombies/fast/body",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 130,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/breaker/head1"
+          "model": "shiver:zombies/breaker/head1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 131,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/breaker/head2"
+          "model": "shiver:zombies/breaker/head2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 132,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/breaker/head3"
+          "model": "shiver:zombies/breaker/head3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 133,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/breaker/head4"
+          "model": "shiver:zombies/breaker/head4",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 134,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/breaker/arm"
+          "model": "shiver:zombies/breaker/arm",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 135,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/breaker/arm2"
+          "model": "shiver:zombies/breaker/arm2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 136,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/breaker/arm3"
+          "model": "shiver:zombies/breaker/arm3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 140,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/player/head1"
+          "model": "shiver:zombies/player/head1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 145,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/player/arm"
+          "model": "shiver:zombies/player/arm",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 150,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/drooler/head1"
+          "model": "shiver:zombies/drooler/head1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 151,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/drooler/head2"
+          "model": "shiver:zombies/drooler/head2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 152,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/drooler/head3"
+          "model": "shiver:zombies/drooler/head3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 155,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/drooler/body"
+          "model": "shiver:zombies/drooler/body",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 156,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/drooler/arm"
+          "model": "shiver:zombies/drooler/arm",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 157,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/drooler/leg"
+          "model": "shiver:zombies/drooler/leg",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 160,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/strong/head1"
+          "model": "shiver:zombies/strong/head1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 161,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/strong/head2"
+          "model": "shiver:zombies/strong/head2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 162,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/strong/head3"
+          "model": "shiver:zombies/strong/head3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 165,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/strong/arm"
+          "model": "shiver:zombies/strong/arm",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 166,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/strong/darm"
+          "model": "shiver:zombies/strong/darm",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 167,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/strong/body"
+          "model": "shiver:zombies/strong/body",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 168,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/strong/leg"
+          "model": "shiver:zombies/strong/leg",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 170,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/tank/head1"
+          "model": "shiver:zombies/tank/head1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 175,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/tank/arm"
+          "model": "shiver:zombies/tank/arm",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 180,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/handra/head1"
+          "model": "shiver:zombies/handra/head1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 181,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/handra/head2"
+          "model": "shiver:zombies/handra/head2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 182,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/handra/head3"
+          "model": "shiver:zombies/handra/head3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 185,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/handra/arm"
+          "model": "shiver:zombies/handra/arm",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 186,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/handra/body"
+          "model": "shiver:zombies/handra/body",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 187,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/handra/darm"
+          "model": "shiver:zombies/handra/darm",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 188,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/handra/leg"
+          "model": "shiver:zombies/handra/leg",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 190,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/allstar/head1"
+          "model": "shiver:zombies/allstar/head1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 191,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/allstar/head2"
+          "model": "shiver:zombies/allstar/head2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 192,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/allstar/head3"
+          "model": "shiver:zombies/allstar/head3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 193,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/allstar/head4"
+          "model": "shiver:zombies/allstar/head4",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 200,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/jumper"
+          "model": "shiver:zombies/jumper",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 201,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/jumper2"
+          "model": "shiver:zombies/jumper2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 202,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/jumper3"
+          "model": "shiver:zombies/jumper3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 203,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/jumper_a"
+          "model": "shiver:zombies/jumper_a",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 204,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/jumper_angry"
+          "model": "shiver:zombies/jumper_angry",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 205,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/jumper_angry_a"
+          "model": "shiver:zombies/jumper_angry_a",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 206,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/hornet"
+          "model": "shiver:zombies/hornet",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 207,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/hornet2"
+          "model": "shiver:zombies/hornet2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 210,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/mutant/head1"
+          "model": "shiver:zombies/mutant/head1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 211,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/mutant/head2"
+          "model": "shiver:zombies/mutant/head2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 212,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/mutant/head3"
+          "model": "shiver:zombies/mutant/head3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 213,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/mutant/head4"
+          "model": "shiver:zombies/mutant/head4",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 214,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/mutant/arm"
+          "model": "shiver:zombies/mutant/arm",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 215,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/creeper/model"
+          "model": "shiver:zombies/creeper/model",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 216,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/creeper/body"
+          "model": "shiver:zombies/creeper/body",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 217,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/creeper/rleg"
+          "model": "shiver:zombies/creeper/rleg",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 218,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/creeper/lleg"
+          "model": "shiver:zombies/creeper/lleg",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 219,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/creeper/brleg"
+          "model": "shiver:zombies/creeper/brleg",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 220,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/creeper/blleg"
+          "model": "shiver:zombies/creeper/blleg",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 221,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/miner/head1"
+          "model": "shiver:zombies/miner/head1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 222,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/miner/head2"
+          "model": "shiver:zombies/miner/head2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 223,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/miner/arm"
+          "model": "shiver:zombies/miner/arm",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 298,
         "model": {
           "type": "model",
-          "model": "shiver:boxes/box_selection_x"
+          "model": "shiver:boxes/box_selection_x",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 299,
         "model": {
           "type": "model",
-          "model": "shiver:boxes/box_selection"
+          "model": "shiver:boxes/box_selection",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 300,
         "model": {
           "type": "model",
-          "model": "shiver:boxes/1"
+          "model": "shiver:boxes/1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 301,
         "model": {
           "type": "model",
-          "model": "shiver:boxes/2"
+          "model": "shiver:boxes/2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 302,
         "model": {
           "type": "model",
-          "model": "shiver:boxes/3"
+          "model": "shiver:boxes/3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 303,
         "model": {
           "type": "model",
-          "model": "shiver:boxes/4"
+          "model": "shiver:boxes/4",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 305,
         "model": {
           "type": "model",
-          "model": "shiver:boxes/5"
+          "model": "shiver:boxes/5",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 306,
         "model": {
           "type": "model",
-          "model": "shiver:boxes/6"
+          "model": "shiver:boxes/6",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 400,
         "model": {
           "type": "model",
-          "model": "shiver:boxes/1_1"
+          "model": "shiver:boxes/1_1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 401,
         "model": {
           "type": "model",
-          "model": "shiver:boxes/1_2"
+          "model": "shiver:boxes/1_2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 402,
         "model": {
           "type": "model",
-          "model": "shiver:boxes/3_1"
+          "model": "shiver:boxes/3_1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 403,
         "model": {
           "type": "model",
-          "model": "shiver:boxes/3_2"
+          "model": "shiver:boxes/3_2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 404,
         "model": {
           "type": "model",
-          "model": "shiver:boxes/2_1"
+          "model": "shiver:boxes/2_1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 405,
         "model": {
           "type": "model",
-          "model": "shiver:boxes/2_2"
+          "model": "shiver:boxes/2_2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 406,
         "model": {
           "type": "model",
-          "model": "shiver:boxes/4_2"
+          "model": "shiver:boxes/4_2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 407,
         "model": {
           "type": "model",
-          "model": "shiver:boxes/4_3"
+          "model": "shiver:boxes/4_3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 408,
         "model": {
           "type": "model",
-          "model": "shiver:boxes/5_2"
+          "model": "shiver:boxes/5_2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 409,
         "model": {
           "type": "model",
-          "model": "shiver:boxes/5_3"
+          "model": "shiver:boxes/5_3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 410,
         "model": {
           "type": "model",
-          "model": "shiver:boxes/6_2"
+          "model": "shiver:boxes/6_2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 411,
         "model": {
           "type": "model",
-          "model": "shiver:boxes/6_3"
+          "model": "shiver:boxes/6_3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 500,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/tnt"
+          "model": "shiver:weapons/tnt",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 501,
         "model": {
           "type": "model",
-          "model": "shiver:weapons/tntf"
+          "model": "shiver:weapons/tntf",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 900,
         "model": {
           "type": "model",
-          "model": "shiver:editor/1"
+          "model": "shiver:editor/1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 901,
         "model": {
           "type": "model",
-          "model": "shiver:editor/2"
+          "model": "shiver:editor/2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 902,
         "model": {
           "type": "model",
-          "model": "shiver:editor/3"
+          "model": "shiver:editor/3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 903,
         "model": {
           "type": "model",
-          "model": "shiver:editor/4"
+          "model": "shiver:editor/4",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 904,
         "model": {
           "type": "model",
-          "model": "shiver:editor/5"
+          "model": "shiver:editor/5",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 905,
         "model": {
           "type": "model",
-          "model": "shiver:editor/6"
+          "model": "shiver:editor/6",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 906,
         "model": {
           "type": "model",
-          "model": "shiver:editor/7"
+          "model": "shiver:editor/7",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 907,
         "model": {
           "type": "model",
-          "model": "shiver:editor/8"
+          "model": "shiver:editor/8",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 908,
         "model": {
           "type": "model",
-          "model": "shiver:editor/9"
+          "model": "shiver:editor/9",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 909,
         "model": {
           "type": "model",
-          "model": "shiver:editor/10"
+          "model": "shiver:editor/10",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 910,
         "model": {
           "type": "model",
-          "model": "shiver:editor/11"
+          "model": "shiver:editor/11",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 911,
         "model": {
           "type": "model",
-          "model": "shiver:editor/12"
+          "model": "shiver:editor/12",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 912,
         "model": {
           "type": "model",
-          "model": "shiver:editor/13"
+          "model": "shiver:editor/13",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 913,
         "model": {
           "type": "model",
-          "model": "shiver:editor/14"
+          "model": "shiver:editor/14",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 914,
         "model": {
           "type": "model",
-          "model": "shiver:editor/15"
+          "model": "shiver:editor/15",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 915,
         "model": {
           "type": "model",
-          "model": "shiver:editor/16"
+          "model": "shiver:editor/16",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 916,
         "model": {
           "type": "model",
-          "model": "shiver:editor/17"
+          "model": "shiver:editor/17",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 917,
         "model": {
           "type": "model",
-          "model": "shiver:editor/18"
+          "model": "shiver:editor/18",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 918,
         "model": {
           "type": "model",
-          "model": "shiver:editor/19"
+          "model": "shiver:editor/19",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 950,
         "model": {
           "type": "model",
-          "model": "shiver:blocked_slot"
+          "model": "shiver:blocked_slot",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1000,
         "model": {
           "type": "model",
-          "model": "shiver:gui/1"
+          "model": "shiver:gui/1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1001,
         "model": {
           "type": "model",
-          "model": "shiver:gui/2"
+          "model": "shiver:gui/2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1002,
         "model": {
           "type": "model",
-          "model": "shiver:gui/3"
+          "model": "shiver:gui/3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1010,
         "model": {
           "type": "model",
-          "model": "shiver:gui/lobby_kit1"
+          "model": "shiver:gui/lobby_kit1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1011,
         "model": {
           "type": "model",
-          "model": "shiver:gui/lobby_kit4"
+          "model": "shiver:gui/lobby_kit4",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1012,
         "model": {
           "type": "model",
-          "model": "shiver:gui/lobby_kit3"
+          "model": "shiver:gui/lobby_kit3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1013,
         "model": {
           "type": "model",
-          "model": "shiver:gui/lobby_kit2"
+          "model": "shiver:gui/lobby_kit2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1014,
         "model": {
           "type": "model",
-          "model": "shiver:gui/lobby_join"
+          "model": "shiver:gui/lobby_join",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1015,
         "model": {
           "type": "model",
-          "model": "shiver:gui/lobby_nejoin"
+          "model": "shiver:gui/lobby_nejoin",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1016,
         "model": {
           "type": "model",
-          "model": "shiver:gui/kit_marker"
+          "model": "shiver:gui/kit_marker",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1020,
         "model": {
           "type": "model",
-          "model": "shiver:gui/lobby_game"
+          "model": "shiver:gui/lobby_game",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1021,
         "model": {
           "type": "model",
-          "model": "shiver:gui/on"
+          "model": "shiver:gui/on",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1022,
         "model": {
           "type": "model",
-          "model": "shiver:gui/off"
+          "model": "shiver:gui/off",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1029,
         "model": {
           "type": "model",
-          "model": "shiver:gui/nums/p"
+          "model": "shiver:gui/nums/p",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1030,
         "model": {
           "type": "model",
-          "model": "shiver:gui/nums/0"
+          "model": "shiver:gui/nums/0",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1031,
         "model": {
           "type": "model",
-          "model": "shiver:gui/nums/1"
+          "model": "shiver:gui/nums/1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1032,
         "model": {
           "type": "model",
-          "model": "shiver:gui/nums/2"
+          "model": "shiver:gui/nums/2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1033,
         "model": {
           "type": "model",
-          "model": "shiver:gui/nums/3"
+          "model": "shiver:gui/nums/3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1034,
         "model": {
           "type": "model",
-          "model": "shiver:gui/nums/4"
+          "model": "shiver:gui/nums/4",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1035,
         "model": {
           "type": "model",
-          "model": "shiver:gui/nums/5"
+          "model": "shiver:gui/nums/5",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1036,
         "model": {
           "type": "model",
-          "model": "shiver:gui/nums/6"
+          "model": "shiver:gui/nums/6",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1037,
         "model": {
           "type": "model",
-          "model": "shiver:gui/nums/7"
+          "model": "shiver:gui/nums/7",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1038,
         "model": {
           "type": "model",
-          "model": "shiver:gui/nums/8"
+          "model": "shiver:gui/nums/8",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1039,
         "model": {
           "type": "model",
-          "model": "shiver:gui/nums/9"
+          "model": "shiver:gui/nums/9",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1050,
         "model": {
           "type": "model",
-          "model": "shiver:gui/settings/music"
+          "model": "shiver:gui/settings/music",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1051,
         "model": {
           "type": "model",
-          "model": "shiver:gui/settings/char"
+          "model": "shiver:gui/settings/char",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1052,
         "model": {
           "type": "model",
-          "model": "shiver:gui/settings/male07"
+          "model": "shiver:gui/settings/male07",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1053,
         "model": {
           "type": "model",
-          "model": "shiver:gui/settings/bill"
+          "model": "shiver:gui/settings/bill",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1054,
         "model": {
           "type": "model",
-          "model": "shiver:gui/settings/trener"
+          "model": "shiver:gui/settings/trener",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1055,
         "model": {
           "type": "model",
-          "model": "shiver:gui/settings/tembr"
+          "model": "shiver:gui/settings/tembr",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1056,
         "model": {
           "type": "model",
-          "model": "shiver:gui/settings/stickers"
+          "model": "shiver:gui/settings/stickers",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1064,
         "model": {
           "type": "model",
-          "model": "shiver:gui/profile/5"
+          "model": "shiver:gui/profile/5",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1065,
         "model": {
           "type": "model",
-          "model": "shiver:gui/profile/6"
+          "model": "shiver:gui/profile/6",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1066,
         "model": {
           "type": "model",
-          "model": "shiver:gui/profile/7"
+          "model": "shiver:gui/profile/7",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1067,
         "model": {
           "type": "model",
-          "model": "shiver:gui/profile/8"
+          "model": "shiver:gui/profile/8",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1068,
         "model": {
           "type": "model",
-          "model": "shiver:gui/profile/9"
+          "model": "shiver:gui/profile/9",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1070,
         "model": {
           "type": "model",
-          "model": "shiver:gui/closed_slot"
+          "model": "shiver:gui/closed_slot",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1071,
         "model": {
           "type": "model",
-          "model": "shiver:gui/slot_beacon"
+          "model": "shiver:gui/slot_beacon",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1100,
         "model": {
           "type": "model",
-          "model": "shiver:gui/find_hornet"
+          "model": "shiver:gui/find_hornet",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1101,
         "model": {
           "type": "model",
-          "model": "shiver:gui/free_jumper"
+          "model": "shiver:gui/free_jumper",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1102,
         "model": {
           "type": "model",
-          "model": "shiver:gui/create_nest"
+          "model": "shiver:gui/create_nest",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 1103,
         "model": {
           "type": "model",
-          "model": "shiver:gui/cancel_create_nest"
+          "model": "shiver:gui/cancel_create_nest",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 9999,
         "model": {
           "type": "model",
-          "model": "minecraft:item/crossbow"
+          "model": "minecraft:item/crossbow",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       },
       {
         "threshold": 12345,
         "model": {
           "type": "model",
-          "model": "shiver:zombies/monster"
+          "model": "shiver:zombies/monster",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
         }
       }
     ],
@@ -1506,5 +3646,6 @@
       "type": "model",
       "model": "item/clay_ball"
     }
-  }
+  },
+  "oversized_in_gui": true
 }

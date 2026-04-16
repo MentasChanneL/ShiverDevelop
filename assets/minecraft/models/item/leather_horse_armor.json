@@ -432,7 +432,6 @@
         {"predicate": {"custom_model_data": 10067},"model": "shiver:props/road_sign"},
         {"predicate": {"custom_model_data": 10068},"model": "shiver:props/bricks"},
         {"predicate": {"custom_model_data": 10069},"model": "shiver:props/bricks2"},
-        {"predicate": {"custom_model_data": 10070},"model": "minecraft:block/cauldron"},
         {"predicate": {"custom_model_data": 10071},"model": "shiver:helicopter"},
         {"predicate": {"custom_model_data": 10072},"model": "shiver:props/glass1"},
         {"predicate": {"custom_model_data": 10073},"model": "shiver:props/glassw"},
