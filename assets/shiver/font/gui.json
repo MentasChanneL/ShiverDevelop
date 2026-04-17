@@ -80,6 +80,24 @@
             "chars": [
                 "8"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/gui/hand_arsenal1.png",
+            "ascent": 14,
+            "height": 256,
+            "chars": [
+                "a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/gui/hand_arsenal2.png",
+            "ascent": 14,
+            "height": 256,
+            "chars": [
+                "b"
+            ]
         }
     ]
 }

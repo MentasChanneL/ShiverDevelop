@@ -803,6 +803,23 @@
         }
       },
       {
+        "threshold": 86,
+        "model": {
+          "type": "model",
+          "model": "shiver:hand_arsenal",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
         "threshold": 100,
         "model": {
           "type": "model",

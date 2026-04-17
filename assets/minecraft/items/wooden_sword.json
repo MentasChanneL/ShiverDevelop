@@ -6,18 +6,37 @@
       {
         "threshold": 1,
         "model": {
-          "type": "model",
-          "model": "shiver:weapons/dubina",
-          "tints": [
-            {
-              "type": "minecraft:dye",
-              "default": [
-                1,
-                1,
-                1
-              ]
-            }
-          ]
+          "type": "minecraft:condition",
+          "property": "minecraft:keybind_down",
+          "keybind": "key.use",
+          "on_false": {
+            "type": "model",
+            "model": "shiver:weapons/dubina",
+            "tints": [
+              {
+                "type": "minecraft:dye",
+                "default": [
+                  1,
+                  1,
+                  1
+                ]
+              }
+            ]
+          },
+          "on_true": {
+            "type": "model",
+            "model": "shiver:weapons/dubina_use",
+            "tints": [
+              {
+                "type": "minecraft:dye",
+                "default": [
+                  1,
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
         }
       },
       {
@@ -57,18 +76,37 @@
       {
         "threshold": 4,
         "model": {
-          "type": "model",
-          "model": "shiver:weapons/sign",
-          "tints": [
-            {
-              "type": "minecraft:dye",
-              "default": [
-                1,
-                1,
-                1
-              ]
-            }
-          ]
+          "type": "minecraft:condition",
+          "property": "minecraft:keybind_down",
+          "keybind": "key.use",
+          "on_false": {
+            "type": "model",
+            "model": "shiver:weapons/sign",
+            "tints": [
+              {
+                "type": "minecraft:dye",
+                "default": [
+                  1,
+                  1,
+                  1
+                ]
+              }
+            ]
+          },
+          "on_true": {
+            "type": "model",
+            "model": "shiver:weapons/sign_use",
+            "tints": [
+              {
+                "type": "minecraft:dye",
+                "default": [
+                  1,
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
         }
       },
       {
@@ -91,18 +129,37 @@
       {
         "threshold": 6,
         "model": {
-          "type": "model",
-          "model": "shiver:weapons/police_stick",
-          "tints": [
-            {
-              "type": "minecraft:dye",
-              "default": [
-                1,
-                1,
-                1
-              ]
-            }
-          ]
+          "type": "minecraft:condition",
+          "property": "minecraft:keybind_down",
+          "keybind": "key.use",
+          "on_false": {
+            "type": "model",
+            "model": "shiver:weapons/police_stick",
+            "tints": [
+              {
+                "type": "minecraft:dye",
+                "default": [
+                  1,
+                  1,
+                  1
+                ]
+              }
+            ]
+          },
+          "on_true": {
+            "type": "model",
+            "model": "shiver:weapons/police_stick_use",
+            "tints": [
+              {
+                "type": "minecraft:dye",
+                "default": [
+                  1,
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
         }
       }
     ],

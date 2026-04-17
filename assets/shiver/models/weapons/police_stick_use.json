@@ -1,0 +1,22 @@
+{
+	"parent": "shiver:weapons/police_stick",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [14, 23, 39],
+			"translation": [-3.75, 3.25, 4.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-69, 20, 81],
+			"translation": [-4.25, 2.5, -2.25],
+			"scale": [1, 1.2, 1]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"rotation": [0, -180, 45],
+			"translation": [-0.5, -0.5, 0]
+		}
+	}
+}

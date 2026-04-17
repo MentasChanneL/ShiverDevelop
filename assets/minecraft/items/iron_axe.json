@@ -23,18 +23,37 @@
       {
         "threshold": 501,
         "model": {
-          "type": "model",
-          "model": "shiver:weapons/stunstick",
-          "tints": [
-            {
-              "type": "minecraft:dye",
-              "default": [
-                1,
-                1,
-                1
-              ]
-            }
-          ]
+          "type": "minecraft:condition",
+          "property": "minecraft:keybind_down",
+          "keybind": "key.use",
+          "on_false": {
+            "type": "model",
+            "model": "shiver:weapons/stunstick",
+            "tints": [
+              {
+                "type": "minecraft:dye",
+                "default": [
+                  1,
+                  1,
+                  1
+                ]
+              }
+            ]
+          },
+          "on_true": {
+            "type": "model",
+            "model": "shiver:weapons/stunstick_use",
+            "tints": [
+              {
+                "type": "minecraft:dye",
+                "default": [
+                  1,
+                  1,
+                  1
+                ]
+              }
+            ]
+          }
         }
       },
       {
