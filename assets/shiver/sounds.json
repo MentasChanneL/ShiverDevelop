@@ -214,6 +214,8 @@
   "music.theme6": {"sounds": [ {"name": "shiver:music/m6"} ]},
   "music.theme7": {"sounds": [ {"name": "shiver:music/m7"} ]},
   "music.theme8": {"sounds": [ {"name": "shiver:music/m8"} ]},
+  "music.theme9": {"sounds": [ {"name": "shiver:music/m9"} ]},
+  "music.theme10": {"sounds": [ {"name": "shiver:music/m10"} ]},
   "music.prepare": {"sounds": [ {"name": "shiver:music/prepare"} ]},
   "music.win1": {"sounds": [ {"name": "shiver:music/win1"} ]},
   "music.vertigo1": {"sounds": [ {"name": "shiver:music/mvertigo", "stream": true} ]},

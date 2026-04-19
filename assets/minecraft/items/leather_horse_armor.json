@@ -8502,6 +8502,23 @@
             }
           ]
         }
+      },
+      {
+        "threshold": 10145,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/sign3",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
       }
     ],
     "fallback": {
