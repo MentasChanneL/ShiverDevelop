@@ -24,8 +24,7 @@
         "threshold": 501,
         "model": {
           "type": "minecraft:condition",
-          "property": "minecraft:keybind_down",
-          "keybind": "key.use",
+          "property": "minecraft:using_item",
           "on_false": {
             "type": "model",
             "model": "shiver:weapons/stunstick",
@@ -112,6 +111,23 @@
         "model": {
           "type": "model",
           "model": "shiver:weapons/e_molot",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 506,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/wrench",
           "tints": [
             {
               "type": "minecraft:dye",

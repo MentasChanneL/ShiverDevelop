@@ -1,0 +1,62 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made by Falanta Fantomo with Blockbench",
+	"textures": {
+		"particle": "shiver:item/weapons/wrench",
+		"main": "shiver:item/weapons/wrench"
+	},
+	"elements": [
+		{
+			"from": [8, -1, 5],
+			"to": [8, 3, 11],
+			"faces": {
+				"east": {"uv": [12, 12, 6, 16], "texture": "#main"},
+				"west": {"uv": [6, 12, 12, 16], "texture": "#main"}
+			}
+		},
+		{
+			"from": [8, 13, 5],
+			"to": [8, 17, 11],
+			"faces": {
+				"east": {"uv": [6, 12, 0, 16], "texture": "#main"},
+				"west": {"uv": [0, 12, 6, 16], "texture": "#main"}
+			}
+		},
+		{
+			"from": [7.51, 2, 7],
+			"to": [8.49, 14, 9],
+			"faces": {
+				"north": {"uv": [14, 0, 15, 12], "texture": "#main"},
+				"east": {"uv": [16, 0, 14, 12], "texture": "#main"},
+				"south": {"uv": [15, 0, 16, 12], "texture": "#main"},
+				"west": {"uv": [14, 0, 16, 12], "texture": "#main"},
+				"up": {"uv": [14, 12, 16, 13], "rotation": 90, "texture": "#main"},
+				"down": {"uv": [16, 13, 14, 14], "rotation": 90, "texture": "#main"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -2, 2],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [9, 27, -5],
+			"translation": [2, 2, -1.75],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"ground": {
+			"rotation": [0, 0, 90]
+		},
+		"gui": {
+			"rotation": [70, -135, 70],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 0, -2],
+			"scale": [2, 2, 2]
+		}
+	}
+}

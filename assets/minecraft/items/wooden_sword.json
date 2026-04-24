@@ -7,8 +7,7 @@
         "threshold": 1,
         "model": {
           "type": "minecraft:condition",
-          "property": "minecraft:keybind_down",
-          "keybind": "key.use",
+          "property": "minecraft:using_item",
           "on_false": {
             "type": "model",
             "model": "shiver:weapons/dubina",
@@ -77,8 +76,7 @@
         "threshold": 4,
         "model": {
           "type": "minecraft:condition",
-          "property": "minecraft:keybind_down",
-          "keybind": "key.use",
+          "property": "minecraft:using_item",
           "on_false": {
             "type": "model",
             "model": "shiver:weapons/sign",
@@ -130,8 +128,7 @@
         "threshold": 6,
         "model": {
           "type": "minecraft:condition",
-          "property": "minecraft:keybind_down",
-          "keybind": "key.use",
+          "property": "minecraft:using_item",
           "on_false": {
             "type": "model",
             "model": "shiver:weapons/police_stick",

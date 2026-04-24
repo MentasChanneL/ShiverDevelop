@@ -1,0 +1,24 @@
+{
+	"format_version": "1.21.11",
+	"credit": "by 2M3V",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer1": "shiver:item/chip2",
+		"layer0": "shiver:item/chip_overlay"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 0, -32],
+			"translation": [0, 1.75, 1],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 2.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"translation": [0, -0.25, 0]
+		}
+	}
+}

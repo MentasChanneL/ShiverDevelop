@@ -1,6 +1,7 @@
 Models & Textures:
 - Falanta (Discord: @falanta, Email: falantafantomo@gmail.com)
 - 2M3V (Discord: @2m3v, Email: mentusik02316@gmail.com)
+- https://github.com/malcolmriley/unused-textures
 - https://www.planetminecraft.com/texture-pack/hananacraft-v1-0/
 
 Music (shiver/sounds/music/m10.ogg)
@@ -11,12 +12,14 @@ Cinematic lines shader:
 
 Sounds used from:
 - Team Fortress 2
+- Team Fortress 2 Classified
 - Left4Dead 2
 - Half-life 2
 - Black Mesa
 - Outlast
 - Amnesia
 - Fallout 4
+- Idustrial Craft 2
 - open internet sources
 
 Taken as an main idea:

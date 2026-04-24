@@ -556,6 +556,8 @@
       {"name": "shiver:weapon/explode4"}
     ]
   },
+  "wrench": {"sounds": [{"name": "shiver:wrench"}]},
+  "weapon.melee.wrench": {"sounds": [{"name": "shiver:weapon/melee_hit/wrench"}]},
   "weapon.melee.sign": {
 
     "sounds": [
@@ -563,7 +565,6 @@
     ]
   },
   "weapon.melee.real-knife": {
-
     "sounds": [
       {"name": "shiver:weapon/melee_hit/knife_1"},
       {"name": "shiver:weapon/melee_hit/knife_2"},
@@ -721,12 +722,8 @@
       {"name": "shiver:weapon/turret_f"}
     ]
   },
-  "weapon.turret.move": {
-
-    "sounds": [
-      {"name": "shiver:weapon/turret_move"}
-    ]
-  },
+  "weapon.turret.move": {"sounds": [{"name": "shiver:weapon/turret_move"}]},
+  "weapon.turret.move_short": {"sounds": [{"name": "shiver:weapon/turret_move_short"}]},
   "weapon.turret.damage": {
 
     "sounds": [

@@ -83,6 +83,15 @@
         },
         {
             "type": "bitmap",
+            "file": "shiver:font/gui/modules.png",
+            "ascent": 32,
+            "height": 256,
+            "chars": [
+                "9"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "shiver:font/gui/hand_arsenal1.png",
             "ascent": 14,
             "height": 256,

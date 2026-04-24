@@ -820,6 +820,57 @@
         }
       },
       {
+        "threshold": 87,
+        "model": {
+          "type": "model",
+          "model": "shiver:chip",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 88,
+        "model": {
+          "type": "model",
+          "model": "shiver:module/wire",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 89,
+        "model": {
+          "type": "model",
+          "model": "shiver:module/radar",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
         "threshold": 100,
         "model": {
           "type": "model",
