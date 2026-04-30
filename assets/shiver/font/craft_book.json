@@ -35,6 +35,15 @@
             "chars": [
                 "3"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/crafts/5.png",
+            "ascent": 0,
+            "height": 128,
+            "chars": [
+                "4"
+            ]
         }
     ]
 }

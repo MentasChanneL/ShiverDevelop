@@ -1,0 +1,7 @@
+{
+	"parent": "shiver:tools_kit",
+	"textures": {
+		"0": "shiver:item/engi_kit",
+		"particle": "shiver:item/toolkit"
+	}
+}

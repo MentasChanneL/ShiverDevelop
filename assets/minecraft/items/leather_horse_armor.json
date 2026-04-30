@@ -6073,6 +6073,23 @@
         }
       },
       {
+        "threshold": 1000,
+        "model": {
+          "type": "model",
+          "model": "shiver:immunator",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
         "threshold": 10000,
         "model": {
           "type": "model",

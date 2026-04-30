@@ -362,6 +362,8 @@
         {"predicate": {"custom_model_data": 598},"model": "shiver:weapons/magnum/reload/39"},
         {"predicate": {"custom_model_data": 599},"model": "shiver:weapons/magnum/reload/40"},
 
+        {"predicate": {"custom_model_data": 1000},"model": "shiver:immunator"},
+
         {"predicate": {"custom_model_data": 10000},"model": "shiver:props/zaz_968a"},
         {"predicate": {"custom_model_data": 10001},"model": "shiver:props/props_c17/awning_01_01"},
         {"predicate": {"custom_model_data": 10002},"model": "shiver:props/props_c17/awning_02_01"},

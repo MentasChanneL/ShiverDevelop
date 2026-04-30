@@ -55,6 +55,7 @@
         {"predicate": {"custom_model_data": 87},"model": "shiver:chip"},
         {"predicate": {"custom_model_data": 88},"model": "shiver:module/wire"},
         {"predicate": {"custom_model_data": 89},"model": "shiver:module/radar"},
+        {"predicate": {"custom_model_data": 90},"model": "shiver:engi_kit"},
         {"predicate": {"custom_model_data": 100},"model": "shiver:zombies/default/head1"},
         {"predicate": {"custom_model_data": 101},"model": "shiver:zombies/default/head2"},
         {"predicate": {"custom_model_data": 102},"model": "shiver:zombies/default/head3"},

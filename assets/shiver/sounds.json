@@ -206,6 +206,9 @@
     ]
   },
 
+  "immunator": {"sounds": [ {"name": "shiver:immunator"} ]},
+  "misc.toggle": {"sounds": [ {"name": "shiver:toggle"} ]},
+
   "music.theme1": {"sounds": [ {"name": "shiver:music/m1"} ]},
   "music.theme2": {"sounds": [ {"name": "shiver:music/m2"} ]},
   "music.theme3": {"sounds": [ {"name": "shiver:music/m3"} ]},

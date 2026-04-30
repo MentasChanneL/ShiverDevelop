@@ -107,6 +107,51 @@
             "chars": [
                 "b"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/mge/map.png",
+            "ascent": 4,
+            "height": 64,
+            "chars": [
+                "c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/mge/prikolist.png",
+            "ascent": 4,
+            "height": 64,
+            "chars": [
+                "d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/mge/roblox.png",
+            "ascent": 4,
+            "height": 64,
+            "chars": [
+                "e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/mge/what.png",
+            "ascent": 4,
+            "height": 64,
+            "chars": [
+                "f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/mge/wyd.png",
+            "ascent": 4,
+            "height": 64,
+            "chars": [
+                "j"
+            ]
         }
     ]
 }
