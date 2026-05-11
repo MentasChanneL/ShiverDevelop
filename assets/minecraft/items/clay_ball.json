@@ -888,6 +888,142 @@
         }
       },
       {
+        "threshold": 91,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/mini_sentry/sentry",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 92,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/mini_sentry/body",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 93,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/mini_sentry/head",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 94,
+        "model": {
+          "type": "model",
+          "model": "shiver:weapons/mini_sentry/head_fire",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 95,
+        "model": {
+          "type": "model",
+          "model": "shiver:storage",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 96,
+        "model": {
+          "type": "model",
+          "model": "shiver:storage_1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 97,
+        "model": {
+          "type": "model",
+          "model": "shiver:storage_2",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 98,
+        "model": {
+          "type": "model",
+          "model": "shiver:adv_chip",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
         "threshold": 100,
         "model": {
           "type": "model",
@@ -2252,6 +2388,57 @@
         "model": {
           "type": "model",
           "model": "shiver:zombies/miner/arm",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 225,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/puser/arm",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 226,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/puser/head1",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 227,
+        "model": {
+          "type": "model",
+          "model": "shiver:zombies/puser/head2",
           "tints": [
             {
               "type": "minecraft:dye",

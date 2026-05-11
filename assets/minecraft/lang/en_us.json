@@ -1,6 +1,8 @@
 ﻿{
 	"effect.minecraft.wither": "§cBleeding",
 	"effect.minecraft.luck": "§bImmune",
+	"attribute.name.generic.entity_interaction_range": "Length of weapon",
+	"attribute.name.entity_interaction_range": "Length of weapon",
 	"attribute.name.player.entity_interaction_range": "Length of weapon",
 	"attribute.name.player.sweeping_damage_ratio": "Area damage",
 

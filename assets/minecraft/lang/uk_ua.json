@@ -1,6 +1,8 @@
 ﻿{
 	"effect.minecraft.wither": "§cКровотеча",
 	"effect.minecraft.luck": "§bIмунна відповідь",
+	"attribute.name.generic.entity_interaction_range": "Довжина зброї",
+	"attribute.name.entity_interaction_range": "Довжина зброї",
 	"attribute.name.player.entity_interaction_range": "Довжина зброї",
 	"attribute.name.player.sweeping_damage_ratio": "Удар по областi"
 

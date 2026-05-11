@@ -65,6 +65,13 @@
       {"name": "shiver:item/flashlight"}
     ]
   },
+  "zombie.mutant1": {"sounds": [{"name": "shiver:zombie/mutant1"}]},
+  "zombie.mutant2": {"sounds": [{"name": "shiver:zombie/mutant2"}]},
+  "zombie.mutant3": {"sounds": [{"name": "shiver:zombie/mutant3"}]},
+  "zombie.puser1": {"sounds": [{"name": "shiver:zombie/puser1"}]},
+  "zombie.puser2": {"sounds": [{"name": "shiver:zombie/puser2"}]},
+  "zombie.puser3": {"sounds": [{"name": "shiver:zombie/puser3"}]},
+  "zombie.puser4": {"sounds": [{"name": "shiver:zombie/puser4"}]},
   "zombie.z3": {
 
     "sounds": [
@@ -219,6 +226,8 @@
   "music.theme8": {"sounds": [ {"name": "shiver:music/m8"} ]},
   "music.theme9": {"sounds": [ {"name": "shiver:music/m9"} ]},
   "music.theme10": {"sounds": [ {"name": "shiver:music/m10"} ]},
+  "music.theme11": {"sounds": [ {"name": "shiver:music/m11"} ]},
+  "music.lose": {"sounds": [ {"name": "shiver:music/lose"} ]},
   "music.prepare": {"sounds": [ {"name": "shiver:music/prepare"} ]},
   "music.win1": {"sounds": [ {"name": "shiver:music/win1"} ]},
   "music.vertigo1": {"sounds": [ {"name": "shiver:music/mvertigo", "stream": true} ]},
@@ -699,6 +708,11 @@
 
     "sounds": [
       {"name": "shiver:weapon/gilz1"}
+    ]
+  },
+  "weapon.turret.alert": {
+    "sounds": [
+      {"name": "shiver:weapon/turret_alert"}
     ]
   },
   "weapon.turret": {

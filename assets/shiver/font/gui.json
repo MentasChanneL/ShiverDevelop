@@ -107,6 +107,23 @@
             "chars": [
                 "b"
             ]
-        }
+        },
+        {
+            "type": "bitmap",
+            "file": "shiver:font/gui/storage.png",
+            "ascent": 14,
+            "height": 256,
+            "chars": [
+                "c"
+            ]
+        },
+		{
+			"type": "space",
+			"advances": {
+				"!": -1,
+				"@": -10,
+				"#": -100
+			}
+		}
     ]
 }

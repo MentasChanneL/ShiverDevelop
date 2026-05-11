@@ -26,6 +26,10 @@ float get_hp_fully(float r, float g) {
     return 0.5;
 }
 
+float hash(float n) {
+    return fract(sin(n) * 43758.5453123);
+}
+
 void main() {
     gl_Position = ProjMat * ModelViewMat * vec4(Position, 1);
     vertexColor = Color * texelFetch(Sampler2, UV2 / 16, 0);
@@ -49,6 +53,16 @@ void main() {
         vertexColor = Color;
     }
     vec3 rgb = vec3(floor(Color.r * 255), floor(Color.g * 255), floor(Color.b * 255));
+    if (rgb.r == 255 && rgb.g == 0 && rgb.b == 3) {
+        float time = GameTime * 40000.0;
+        float intensity = 0.005;
+        
+        float seed1 = hash(floor(time * 0.5) + gl_Position.x * 100.0 + gl_Position.y * 50.0);
+        float seed2 = hash(floor(time * 0.3) + gl_Position.x * 80.0 + gl_Position.y * 70.0 + 100.0);
+        
+        gl_Position.x += (seed1 - 0.5) * intensity;
+        gl_Position.y += (seed2 - 0.5) * intensity;
+    }
     if (rgb.b == 2)
     {
 	float fully = Color.r;
