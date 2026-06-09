@@ -8587,6 +8587,23 @@
             }
           ]
         }
+      },
+      {
+        "threshold": 10149,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/kitchen_shelf",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
       }
     ],
     "fallback": {

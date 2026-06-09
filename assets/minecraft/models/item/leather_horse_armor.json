@@ -510,6 +510,7 @@
         {"predicate": {"custom_model_data": 10145},"model": "shiver:props/sign3"},
         {"predicate": {"custom_model_data": 10146},"model": "shiver:props/props_c17/lamp_08"},
         {"predicate": {"custom_model_data": 10147},"model": "shiver:props/props_c17/lamp_08_lit"},
-        {"predicate": {"custom_model_data": 10148},"model": "shiver:props/street_lamp"}
+        {"predicate": {"custom_model_data": 10148},"model": "shiver:props/street_lamp"},
+        {"predicate": {"custom_model_data": 10149},"model": "shiver:props/kitchen_shelf"}
     ]
 }
