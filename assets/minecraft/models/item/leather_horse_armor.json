@@ -507,6 +507,8 @@
         {"predicate": {"custom_model_data": 10141},"model": "shiver:props/citizenradio"},
         {"predicate": {"custom_model_data": 10142},"model": "shiver:props/trash4"},
         {"predicate": {"custom_model_data": 10143},"model": "shiver:props/arrow"},
-        {"predicate": {"custom_model_data": 10145},"model": "shiver:props/sign3"}
+        {"predicate": {"custom_model_data": 10145},"model": "shiver:props/sign3"},
+        {"predicate": {"custom_model_data": 10146},"model": "shiver:props/props_c17/lamp_08"},
+        {"predicate": {"custom_model_data": 10147},"model": "shiver:props/props_c17/lamp_08_lit"}
     ]
 }

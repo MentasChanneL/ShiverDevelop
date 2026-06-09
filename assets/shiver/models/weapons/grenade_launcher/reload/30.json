@@ -1413,18 +1413,6 @@
 				-3.25
 			]
 		},
-		"firstperson_lefthand": {
-			"rotation": [
-				90,
-				0,
-				0
-			],
-			"translation": [
-				1,
-				0,
-				-2
-			]
-		},
 		"ground": {
 			"translation": [
 				0,

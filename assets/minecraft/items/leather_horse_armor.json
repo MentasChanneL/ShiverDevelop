@@ -8536,6 +8536,40 @@
             }
           ]
         }
+      },
+      {
+        "threshold": 10146,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/props_c17/lamp_08",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10147,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/props_c17/lamp_08_lit",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
       }
     ],
     "fallback": {

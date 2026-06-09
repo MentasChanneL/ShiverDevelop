@@ -940,18 +940,6 @@
 				1.25
 			]
 		},
-		"firstperson_lefthand": {
-			"rotation": [
-				2,
-				0,
-				2
-			],
-			"translation": [
-				3.75,
-				10.25,
-				-6
-			]
-		},
 		"ground": {
 			"rotation": [
 				0,
