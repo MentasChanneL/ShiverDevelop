@@ -509,6 +509,7 @@
         {"predicate": {"custom_model_data": 10143},"model": "shiver:props/arrow"},
         {"predicate": {"custom_model_data": 10145},"model": "shiver:props/sign3"},
         {"predicate": {"custom_model_data": 10146},"model": "shiver:props/props_c17/lamp_08"},
-        {"predicate": {"custom_model_data": 10147},"model": "shiver:props/props_c17/lamp_08_lit"}
+        {"predicate": {"custom_model_data": 10147},"model": "shiver:props/props_c17/lamp_08_lit"},
+        {"predicate": {"custom_model_data": 10148},"model": "shiver:props/street_lamp"}
     ]
 }

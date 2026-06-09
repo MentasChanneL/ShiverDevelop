@@ -8570,6 +8570,23 @@
             }
           ]
         }
+      },
+      {
+        "threshold": 10148,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/street_lamp",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
       }
     ],
     "fallback": {
