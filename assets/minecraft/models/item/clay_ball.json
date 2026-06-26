@@ -64,6 +64,7 @@
         {"predicate": {"custom_model_data": 96},"model": "shiver:storage_1"},
         {"predicate": {"custom_model_data": 97},"model": "shiver:storage_2"},
         {"predicate": {"custom_model_data": 98},"model": "shiver:adv_chip"},
+        {"predicate": {"custom_model_data": 99},"model": "shiver:plastic"},
 
         {"predicate": {"custom_model_data": 100},"model": "shiver:zombies/default/head1"},
         {"predicate": {"custom_model_data": 101},"model": "shiver:zombies/default/head2"},

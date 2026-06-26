@@ -1024,6 +1024,23 @@
         }
       },
       {
+        "threshold": 99,
+        "model": {
+          "type": "model",
+          "model": "shiver:plastic",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
         "threshold": 100,
         "model": {
           "type": "model",

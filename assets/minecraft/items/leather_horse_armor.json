@@ -8604,6 +8604,108 @@
             }
           ]
         }
+      },
+      {
+        "threshold": 10150,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/street_lamp_lit",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10151,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/props_c17/chess",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10152,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/props_c17/clipboard",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10153,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/props_c17/controlroom_desk",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10154,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/props_c17/desklamp",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10155,
+        "model": {
+          "type": "model",
+          "model": "shiver:props/props_c17/magnifying_glass",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": [
+                1,
+                1,
+                1
+              ]
+            }
+          ]
+        }
       }
     ],
     "fallback": {

@@ -1,0 +1,24 @@
+{
+"shiver.gui.menu.lobby": "Л.о.б.б.и",
+"shiver.gui.menu.settings": "Н.а.с.т.р.о.й.к.и",
+"shiver.gui.menu.info": "П.р.о.ф.и.л.ь",
+"shiver.gui.menu.controls": "%s - вниз | %s - вверх | %s - выбор",
+
+"shiver.person.": "-",
+"shiver.person.colton": "Male07",
+"shiver.person.coach": "Тренер",
+"shiver.person.bill": "Билл",
+"shiver.item.": "-",
+"shiver.item.kit.rich": "Набор выгоды",
+"shiver.item.kit.ammunition": "Ящик аммуниции",
+"shiver.item.kit.med": "Медицинский набор",
+"shiver.item.kit.builder": "Набор строителя",
+
+"shiver.sniper_rifle.hint": "Нажмите %s для выстрела",
+
+"shiver.message.lose": "Выживших не осталось...",
+"shiver.message.survivors_saved": "Выжившие спаслись!",
+"shiver.message.unlocked_person": "%s разблокировал персонажа %s!",
+"shiver.message.unlocked_kit": "%s разблокировал набор %s!"
+
+}

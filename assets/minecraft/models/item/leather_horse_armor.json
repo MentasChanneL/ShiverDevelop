@@ -511,6 +511,12 @@
         {"predicate": {"custom_model_data": 10146},"model": "shiver:props/props_c17/lamp_08"},
         {"predicate": {"custom_model_data": 10147},"model": "shiver:props/props_c17/lamp_08_lit"},
         {"predicate": {"custom_model_data": 10148},"model": "shiver:props/street_lamp"},
-        {"predicate": {"custom_model_data": 10149},"model": "shiver:props/kitchen_shelf"}
+        {"predicate": {"custom_model_data": 10149},"model": "shiver:props/kitchen_shelf"},
+        {"predicate": {"custom_model_data": 10150},"model": "shiver:props/street_lamp_lit"},
+        {"predicate": {"custom_model_data": 10151},"model": "shiver:props/props_c17/chess"},
+        {"predicate": {"custom_model_data": 10152},"model": "shiver:props/props_c17/clipboard"},
+        {"predicate": {"custom_model_data": 10153},"model": "shiver:props/props_c17/controlroom_desk"},
+        {"predicate": {"custom_model_data": 10154},"model": "shiver:props/props_c17/desklamp"},
+        {"predicate": {"custom_model_data": 10155},"model": "shiver:props/props_c17/magnifying_glass"}
     ]
 }

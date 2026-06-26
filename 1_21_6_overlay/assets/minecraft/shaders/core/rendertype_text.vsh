@@ -45,7 +45,7 @@ void main() {
     float alpha = round(texture(Sampler0, UV0).a * 255);
 
     p = 0;
-    if (alpha == 251 && Position.z > 0)
+    if (alpha == 251 && Position.z == 0)
     {   
         p = 1;
         gl_Position.xy = vec2(coord * 2 - 1) * vec2(1, -1);

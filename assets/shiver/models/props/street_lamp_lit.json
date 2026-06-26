@@ -1,0 +1,28 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "shiver:item/props/props_c17/stree_lamp_lit",
+		"particle": "shiver:item/props/props_c17/street_lamp"
+	},
+	"elements": [
+		{
+			"from": [-12, 1, 7],
+			"to": [12, 15, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-12, 1, -1]},
+			"faces": {
+				"north": {"uv": [0, 0, 12, 7], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.5, 7], "texture": "#0"},
+				"west": {"uv": [11.5, 0, 12, 7], "texture": "#0"},
+				"up": {"uv": [0, 0, 12, 0.5], "texture": "#0"},
+				"down": {"uv": [0, 6.5, 12, 7], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [-164, -49, 0],
+			"translation": [-3.5, -2.25, 0]
+		}
+	}
+}

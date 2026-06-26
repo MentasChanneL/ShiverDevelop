@@ -4,7 +4,5 @@
 	"attribute.name.generic.entity_interaction_range": "Длина оружия",
 	"attribute.name.entity_interaction_range": "Длина оружия",
 	"attribute.name.player.entity_interaction_range": "Длина оружия",
-	"attribute.name.player.sweeping_damage_ratio": "Урон по области",
-
-	"shiver.sniper_rifle.hint": "Нажмите %s для выстрела"
+	"attribute.name.player.sweeping_damage_ratio": "Урон по области"
 }

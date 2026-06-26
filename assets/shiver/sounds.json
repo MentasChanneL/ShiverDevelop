@@ -232,6 +232,18 @@
   "music.win1": {"sounds": [ {"name": "shiver:music/win1"} ]},
   "music.vertigo1": {"sounds": [ {"name": "shiver:music/mvertigo", "stream": true} ]},
   "music.vertigo2": {"sounds": [ {"name": "shiver:music/mvertigo_end"} ]},
+  "music.ost_menu_v6": {"sounds": [ {"name": "shiver:music/ost_menu_v6"} ]},
+
+  "plastic.impact": {"sounds": [
+     {"name": "shiver:plastic/plastic1"},
+     {"name": "shiver:plastic/plastic2"},
+     {"name": "shiver:plastic/plastic3"},
+     {"name": "shiver:plastic/plastic4"}
+  ]},
+  "plastic.break": {"sounds": [
+     {"name": "shiver:plastic/plastic_break1"},
+     {"name": "shiver:plastic/plastic_break2"}
+  ]},
 
   "ambience.memory": {"sounds": [ {"name": "shiver:ambience/memory"} ]},
   "ambience.wave1": {"sounds": [ {"name": "shiver:ambience/wave1"} ]},
@@ -439,6 +451,8 @@
       "shiver:ambience/grind5"
     ]
   },
+  "ambience.lose": {"sounds": [ {"name": "shiver:ambience/lose"} ]},
+
   "radio.accept": {"sounds": [ {"name": "shiver:radio/accept"} ]},
   "radio.ok": {"sounds": [ {"name": "shiver:radio/ok"} ]},
   "radio.fly1": {"sounds": [ {"name": "shiver:radio/fly1"} ]},

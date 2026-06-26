@@ -74,7 +74,7 @@ void main() {
     }
 
     vec3 base_color = vec3(ColorModulator);
-    vec3 cloud_color = vec3(1.0,1.0,1.0)*(((ColorModulator.r + ColorModulator.g + ColorModulator.b) / 3.0)+0.4-0.3*clamp(t+w,0.0,1.0));
+    vec3 cloud_color = mix(vec3(1.0,1.0,1.0)*(((ColorModulator.r + ColorModulator.g + ColorModulator.b) / 3.0)+0.4-0.3*clamp(t+w,0.0,1.0)), FogColor.rgb, 0.35);
 
     float mosaic_scale = 16.0;
 

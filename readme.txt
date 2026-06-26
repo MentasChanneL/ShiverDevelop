@@ -4,7 +4,8 @@ Models & Textures:
 - https://github.com/malcolmriley/unused-textures
 - https://www.planetminecraft.com/texture-pack/hananacraft-v1-0/
 
-Music (shiver/sounds/music/m10.ogg)
+Music:
+- iAlexandr (Discord: ialexandr1)
 - botic (Discord: botictsarbotov)
 
 Cinematic lines shader:

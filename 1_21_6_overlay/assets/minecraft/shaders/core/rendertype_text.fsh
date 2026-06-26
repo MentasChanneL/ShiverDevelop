@@ -32,6 +32,7 @@ void main() {
         {
             color = vec4(0);
         }
+        
         //color = vec4(ScreenSize.x * 255123, ScreenSize.x, ScreenSize.x, 1);
     }
 
