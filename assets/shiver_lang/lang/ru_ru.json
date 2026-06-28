@@ -1,5 +1,7 @@
 {
+"shiver.gui.game_start_after": "Игра начнется через: %s",
 "shiver.gui.menu.lobby": "Л.о.б.б.и",
+"shiver.gui.menu.start_after": "Начало через:",
 "shiver.gui.menu.settings": "Н.а.с.т.р.о.й.к.и",
 "shiver.gui.menu.info": "П.р.о.ф.и.л.ь",
 "shiver.gui.menu.controls": "%s - вниз | %s - вверх | %s - выбор",
@@ -16,6 +18,7 @@
 
 "shiver.sniper_rifle.hint": "Нажмите %s для выстрела",
 
+"shiver.message.wave_bonus": "+ %s за прохождение волны",
 "shiver.message.lose": "Выживших не осталось...",
 "shiver.message.survivors_saved": "Выжившие спаслись!",
 "shiver.message.unlocked_person": "%s разблокировал персонажа %s!",

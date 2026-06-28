@@ -233,6 +233,7 @@
   "music.vertigo1": {"sounds": [ {"name": "shiver:music/mvertigo", "stream": true} ]},
   "music.vertigo2": {"sounds": [ {"name": "shiver:music/mvertigo_end"} ]},
   "music.ost_menu_v6": {"sounds": [ {"name": "shiver:music/ost_menu_v6"} ]},
+  "music.shiver2_ost1": {"sounds": [ {"name": "shiver:music/shiver2_ost1"} ]},
 
   "plastic.impact": {"sounds": [
      {"name": "shiver:plastic/plastic1"},
